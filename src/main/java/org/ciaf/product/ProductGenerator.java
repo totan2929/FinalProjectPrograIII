@@ -21,7 +21,7 @@ public class ProductGenerator {
             String stock = faker.stock().toString();
 
             Product product = new Product(id, name, description, price, stock);
-            product.add(product);
+            products.add(product);
         }
 
         return products;
