@@ -14,22 +14,14 @@ public class UserGenerator {
 
         for (int i = 0; i < NUM_USERS; i++) {
             String name = faker.name().fullName();
-            String email = faker.internet().emailAddress();
-            String phoneNumber = faker.phoneNumber().cellPhone();
+            String password = faker.internet().password();
+            String rol = faker.job().position();
 
-            User user = new User(name, email, phoneNumber);
+            User user = new User(name, password, rol);
             users.add(user);
         }
 
         return users;
     }
 
-    public static void main(String[] args) {
-        List<User> users = generateUsers();
-
-        // Imprime la lista de usuarios
-        for (User user : users) {
-            System.out.println(user);
-        }
-    }
 }
