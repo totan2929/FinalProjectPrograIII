@@ -2,27 +2,26 @@ package org.ciaf.sale;
 
 import org.ciaf.product.Product;
 
-import java.util.Date;
+import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.List;
 
 public class Sale {
-    private String id;
-    private List<Product> productsSold;
+    private int id;
+    private List<Product> productsSold = new ArrayList<>();
     private double totalSale;
-    private Date dateTime;
+    private LocalDateTime dateTime;
 
-    public Sale(String id, List<Product> productsSold, double totalSale, Date dateTime) {
+    public Sale(int id) {
         this.id = id;
-        this.productsSold = productsSold;
-        this.totalSale = totalSale;
-        this.dateTime = dateTime;
+        this.dateTime = LocalDateTime.now();
     }
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
@@ -42,15 +41,16 @@ public class Sale {
         this.totalSale = totalSale;
     }
 
-    public Date getDateTime() {
+    public LocalDateTime getDateTime() {
         return dateTime;
     }
 
-    public void setDateTime(Date dateTime) {
+    public void setDateTime(LocalDateTime dateTime) {
         this.dateTime = dateTime;
     }
 
-    public void addProduct(Product product){
+    public void addProduct(Product product, int stock){
+        product.updateStock(-stock);
         productsSold.add(product);
         calculateTotalSale();
     }

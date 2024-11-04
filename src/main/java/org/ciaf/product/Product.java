@@ -1,14 +1,14 @@
 package org.ciaf.product;
 
 public class Product {
-    private String id;
+    private int id;
     private String name;
     private String description;
-    private String price;
-    private String stock;
+    private double price;
+    private int stock;
 
 
-    public Product(String id, String name, String description, String price, String stock) {
+    public Product(int id, String name, String description, double price, int stock) {
         this.id = id;
         this.name = name;
         this.description = description;
@@ -16,11 +16,11 @@ public class Product {
         this.stock = stock;
     }
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
@@ -44,16 +44,20 @@ public class Product {
         return price;
     }
 
-    public void setPrice(String price) {
+    public void setPrice(double price) {
         this.price = price;
     }
 
-    public String getStock() {
+    public int getStock() {
         return stock;
     }
 
-    public void setStock(String stock) {
+    public void setStock(int stock) {
         this.stock = stock;
+    }
+
+    public void updateStock(int stock){
+        this.stock += stock;
     }
 
     @Override
