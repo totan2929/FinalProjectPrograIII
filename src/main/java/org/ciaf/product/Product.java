@@ -40,7 +40,7 @@ public class Product {
         this.description = description;
     }
 
-    public String getPrice() {
+    public double getPrice() {
         return price;
     }
 
