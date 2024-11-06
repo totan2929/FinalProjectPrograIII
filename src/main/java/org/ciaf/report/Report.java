@@ -1,4 +1,4 @@
-package org.ciaf;
+package org.ciaf.report;
 
 import org.ciaf.product.Product;
 import org.ciaf.sale.Sale;
