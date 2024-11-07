@@ -55,10 +55,11 @@ public class Sale {
         calculateTotalSale();
     }
 
-    private void calculateTotalSale(){
+    public Object calculateTotalSale(){
         totalSale = 0.0;
         for (Product product : productsSold){
             totalSale += product.getPrice();
         }
+        return null;
     }
 }
