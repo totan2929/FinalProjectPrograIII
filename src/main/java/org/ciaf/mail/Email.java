@@ -1,4 +1,4 @@
-package org.ciaf;
+package org.ciaf.mail;
 
 import javax.mail.*;
 import javax.mail.internet.*;
