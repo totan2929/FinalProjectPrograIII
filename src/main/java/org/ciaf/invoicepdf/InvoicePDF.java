@@ -1,4 +1,4 @@
-package org.ciaf;
+package org.ciaf.invoicepdf;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
