@@ -1,4 +1,4 @@
-package org.ciaf;
+package org.ciaf.menuadmin;
 
 import org.ciaf.client.Client;
 import org.ciaf.product.Product;
@@ -19,7 +19,7 @@ public class MenuAdmin {
     private static List<Client> clients = new ArrayList<>();
     static Scanner sc = new Scanner(System.in);
 
-    private static void registerUser(){
+    public static void registerUser(){
         System.out.println("Enter username:");
         String nameUser = sc.nextLine();
 
@@ -34,7 +34,7 @@ public class MenuAdmin {
         System.out.println("User successfully registered.");
     }
 
-    private static void registerProduct(){
+    public static void registerProduct(){
         System.out.println("Enter product name:");
         String nameProduct = sc.nextLine();
 
@@ -52,7 +52,7 @@ public class MenuAdmin {
         System.out.println("Product successfully registered.");
     }
 
-    private static void makeSale(){
+    public static void makeSale(){
         System.out.println("Enter the username making the sale:");
         String nameUser = sc.nextLine();
         User user = searchUser(nameUser);
@@ -87,7 +87,7 @@ public class MenuAdmin {
         System.out.println("Sale successfully completed. Total: $" + sale.calculateTotalSale());
     }
 
-    private static void generateSalesReport(){
+    public static void generateSalesReport(){
         System.out.println("Generating sales report...");
         if (sales.isEmpty()){
             System.out.println("No sales have been recorded.");
@@ -108,7 +108,7 @@ public class MenuAdmin {
     }
 
 
-    private static void generateInventoryReport(){
+    public static void generateInventoryReport(){
         System.out.println("Generating inventory report...");
 
         if (products.isEmpty()){
@@ -126,7 +126,7 @@ public class MenuAdmin {
         }
     }
 
-    private static void managementClients(){
+    public static void managementClients(){
         System.out.println("1. Register Customer");
         System.out.println("2. Show Customers");
 
