@@ -1,14 +1,17 @@
-package org.ciaf;
+package org.ciaf.client;
 
 import org.ciaf.user.User;
 
 public class Client extends User {
     private  int pointsFidelity;
 
-    public Client(String name, String password, String rol) {
+    public Client(String name, String password) {
         super(name, password, rol);
         this.pointsFidelity = 0;
     }
+
+
+
 
     public int getPointsFidelity() {
         return pointsFidelity;

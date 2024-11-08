@@ -12,7 +12,7 @@ public class Sale {
     private double totalSale;
     private LocalDateTime dateTime;
 
-    public Sale(int id) {
+    public Sale(List<Product> id) {
         this.id = id;
         this.dateTime = LocalDateTime.now();
     }
