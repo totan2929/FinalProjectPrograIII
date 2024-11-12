@@ -6,12 +6,15 @@ import com.itextpdf.layout.element.Paragraph;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
+import org.ciaf.MainElectronicStore;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.logging.Logger;
 
 
 public class InvoicePDF {
+        private static final Logger logger = Logger.getLogger(MainElectronicStore.class.getName());
 
         // Método para leer texto desde un archivo PDF
         public static String readFromPDF(String fileName) {
@@ -28,10 +31,10 @@ public class InvoicePDF {
                     text.append(stripper.getText(document));
                     // Se obtiene el texto del documento y se agrega al StringBuilder.
                 } else {
-                    System.out.println("El archivo PDF está encriptado y no se puede leer.");
+                    logger.info("The PDF file is encrypted and cannot be read.");
                 }
             } catch (IOException e) {
-                System.out.println("Se produjo un error al leer el archivo PDF.");
+                logger.info("An error occurred while reading the PDF file.");
                 e.printStackTrace();
             }
             return text.toString();
@@ -43,7 +46,6 @@ public class InvoicePDF {
 
             try {
 
-                // Crear un PdfWriter para escribir el archivo
 
                 // Crear un PdfWriter para escribir el archivo
                 PdfWriter writer = new PdfWriter(fileName);
@@ -62,7 +64,7 @@ public class InvoicePDF {
 
                 document.close();
 
-                System.out.println("PDF creado correctamente en: " + fileName);
+                logger.info("PDF successfully created in: " + fileName);
             } catch (Exception e) {
                 e.printStackTrace();
             }

@@ -1,0 +1,8 @@
+21:36:51.795 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Dawna Labadie, email: isaac.volkman@hotmail.com, rol: Manager, address: 6484 Hyatt Estate, New James, CA 06846
+21:36:51.811 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Mrs. Elijah Lebsack, email: scot.beahan@yahoo.com, rol: Administrator, address: Suite 879 5694 Lea Trafficway, Lonfort, MA 69174
+21:36:51.811 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Efrain Hodkiewicz, email: orval.white@gmail.com, rol: Salesperson, address: Suite 484 74370 Janeen Points, Spinkaton, MO 99580
+21:36:51.811 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Ian Wuckert, email: claud.mertz@hotmail.com, rol: Salesperson, address: Apt. 004 728 Cary Valley, North Anglealand, OR 99320
+21:36:51.811 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Jae Conroy, email: caleb.mcglynn@hotmail.com, rol: Administrator, address: 35922 Grant Hill, South Max, KY 22786
+21:36:51.949 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Gorgeous Aluminum Computer, Description: Gorgeous Aluminum Computer, Price: 81.86, Stock: 106
+21:36:51.949 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Mediocre Concrete Shirt, Description: Mediocre Concrete Shirt, Price: 92.81, Stock: 406
+21:36:51.949 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Ergonomic Linen Table, Description: Ergonomic Linen Table, Price: 31.39, Stock: 56

@@ -1,0 +1,8 @@
+21:46:03.609 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Hortencia Waelchi, email: domingo.johnson@hotmail.com, rol: Salesperson, address: Suite 158 0325 Ela Alley, Alexandriaburgh, VA 13157-7796
+21:46:03.609 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Majorie Stehr III, email: alix.hayes@gmail.com, rol: Salesperson, address: 1675 Paul Harbors, North August, NM 98780-5786
+21:46:03.609 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Agustin Powlowski DVM, email: jamika.sporer@hotmail.com, rol: Administrator, address: 866 Daugherty Squares, Port Moisesside, ID 61892-2192
+21:46:03.609 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Amos Harvey, email: rutha.shields@gmail.com, rol: Administrator, address: 23391 Lowe Rest, Rubiebury, WA 49415-4991
+21:46:03.609 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Delbert Legros, email: gino.lowe@yahoo.com, rol: Salesperson, address: Apt. 195 7121 Jamey Crescent, West Flo, MS 06255-4779
+21:46:03.640 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Enormous Leather Bottle, Description: Enormous Leather Bottle, Price: 60.45, Stock: 366
+21:46:03.640 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Lightweight Iron Chair, Description: Lightweight Iron Chair, Price: 37.92, Stock: 128
+21:46:03.640 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Mediocre Leather Knife, Description: Mediocre Leather Knife, Price: 63.78, Stock: 424

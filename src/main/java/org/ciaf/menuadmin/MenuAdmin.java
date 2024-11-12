@@ -6,15 +6,7 @@ import org.ciaf.product.Product;
 import org.ciaf.user.User;
 
 
-import org.apache.pdfbox.pdmodel.PDDocument;
-import org.apache.pdfbox.pdmodel.PDPage;
-import org.apache.pdfbox.pdmodel.PDPageContentStream;
-import org.apache.pdfbox.pdmodel.font.PDType1Font;
-
-
-
 import java.io.IOException;
-
 
 
 import java.time.LocalDateTime;
@@ -134,6 +126,7 @@ public class MenuAdmin {
         factura.append("=========================================================================\n");
         factura.append("  FACTURA: " + client.getName().substring(1,3).toUpperCase()+ "-" + LocalDateTime.now() + "-" + client.getName().substring(2,3).toUpperCase() + "\n");
         factura.append("=========================================================================\n");
+        factura.append("Date: " + LocalDateTime.now() + "\n");
         factura.append("Client: " + client.getName() + "\n");
         factura.append("Email: " + client.getEmail() + "\n");
         factura.append("cellPhone: " + client.getCellPhone() + "\n");
@@ -148,23 +141,13 @@ public class MenuAdmin {
         factura.append("                                              Thank you for your purchase\n");
         factura.append("==========================================================================");
 
-        //System.out.println(factura.toString());
+
         String fileName =  client.getName() + ".pdf";
         writeToPDF(fileName, factura);
         String readText = readFromPDF(fileName);
-        System.out.println("Texto leído desde el archivo PDF:");
-        System.out.println(readText);
+        logger.info("Text read from file PDF:");
+        logger.info(readText);
 
-        //String text = "Ensayo";
-        //writeToPDF(fileName, text);
-        /*String fileName = "factura.pdf";
-        String textToWrite = factura.toString();
-        writeToPDF(fileName, textToWrite);
-
-        // Leer desde archivo PDF
-        String readText = readFromPDF(fileName);
-        System.out.println("Texto leído desde el archivo PDF:");
-        System.out.println(readText);*/
 
         logger.info("Sale successfully completed. Total: $" + totalSale);
 

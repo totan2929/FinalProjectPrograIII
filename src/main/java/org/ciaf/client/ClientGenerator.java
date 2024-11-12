@@ -11,7 +11,7 @@ import java.util.List;
 
 public class ClientGenerator {
     private static final Logger logger = LogManager.getLogger(ClientGenerator.class);
-    private static final int NUM_CLIENTS = 1;
+    private static final int NUM_CLIENTS = 20;
 
     public static List<Client> generateClients() {
         List<Client> clients = new ArrayList<>();

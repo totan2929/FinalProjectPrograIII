@@ -7,7 +7,6 @@ import org.ciaf.user.User;
 import java.util.logging.Logger;
 
 public class Client extends User {
-    private static final Logger logger = Logger.getLogger(MainElectronicStore.class.getName());
 
     private String cellPhone;
 
@@ -19,8 +18,6 @@ public class Client extends User {
     public String getCellPhone() {
         return cellPhone;
     }
-
-
 
 
 }

@@ -24,25 +24,12 @@ public class User {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
 
-    public String getPassword() {
-        return password;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
-    }
 
     public String getRol() {
         return rol;
     }
 
-    public void setRol(String rol) {
-        this.rol = rol;
-    }
 
     public String getEmail() {
         return email;
@@ -52,17 +39,7 @@ public class User {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
 
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
-    public boolean verifyPassword(String password){
-        return this.password.equals(password);
-    }
 
     @Override
     public String toString() {

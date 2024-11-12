@@ -1,6 +1,7 @@
 package org.ciaf;
 
 import java.io.IOException;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.logging.Logger;
 
@@ -10,10 +11,6 @@ import static org.ciaf.menuadmin.MenuAdmin.*;
 public class MainElectronicStore {
     private static final Logger logger = Logger.getLogger(MainElectronicStore.class.getName());
     public static void main(String[] args) throws IOException {
-
-
-
-
 
         boolean continuee = true;
         Scanner sc = new Scanner(System.in);
@@ -31,8 +28,15 @@ public class MainElectronicStore {
             + "6. Exit");
 
             logger.info("Select an option: ");
-            int option = sc.nextInt();
-            sc.nextLine();
+            int option = -1;
+            try {
+                option = sc.nextInt();
+                sc.nextLine(); // Limpiar el buffer del scanner
+            } catch (InputMismatchException e) {
+                logger.warning("Invalid input. Please enter a number.");
+                sc.nextLine(); // Limpiar el buffer del scanner si hay entrada inválida
+                continue; // Ir a la siguiente iteración del bucle
+            }
 
             switch (option){
                 case 1:

@@ -8,7 +8,7 @@ import java.util.List;
 
 public class ProductGenerator {
     private static final Logger logger = LogManager.getLogger(ProductGenerator.class);
-    private static final int NUM_PRODUCTS = 3;
+    private static final int NUM_PRODUCTS = 20;
 
     public static List<Product> generateProducts() {
         Faker faker = new Faker();

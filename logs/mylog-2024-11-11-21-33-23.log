@@ -1,0 +1,8 @@
+21:33:23.489 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Dr. Tamera Mitchell, email: catarina.waters@gmail.com, rol: Manager, address: Apt. 005 9500 Candis Camp, Gerlachview, OR 80249
+21:33:23.505 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Mr. Myrle Boehm, email: shawn.witting@yahoo.com, rol: Manager, address: 1604 Dicki Dale, Dooleyhaven, GA 99480
+21:33:23.505 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Wanita Botsford, email: beverly.hermiston@yahoo.com, rol: Manager, address: 8911 Heidenreich Knolls, Weberton, NC 36270-3221
+21:33:23.505 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Palmira Kreiger, email: judson.hettinger@yahoo.com, rol: Manager, address: Apt. 851 16830 Dorthy Islands, New Dante, ME 82415-7202
+21:33:23.505 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Mrs. Nan Ledner, email: thad.rolfson@hotmail.com, rol: Administrator, address: Suite 880 436 Leonel Row, Haneberg, MN 70515-7843
+21:33:23.536 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Intelligent Cotton Lamp, Description: Intelligent Cotton Lamp, Price: 83.42, Stock: 389
+21:33:23.536 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Gorgeous Steel Keyboard, Description: Gorgeous Steel Keyboard, Price: 68.87, Stock: 186
+21:33:23.536 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Gorgeous Paper Computer, Description: Gorgeous Paper Computer, Price: 74.17, Stock: 475

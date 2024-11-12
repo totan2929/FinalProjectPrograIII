@@ -1,0 +1,8 @@
+21:50:15.245 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Mrs. Houston Kilback, email: sergio.bernhard@yahoo.com, rol: Manager, address: 96387 Lind Valleys, Jakubowskiborough, NE 79319
+21:50:15.245 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Miss Randal Robel, email: omar.bahringer@gmail.com, rol: Manager, address: 48436 Rickey Meadow, Wymanville, ID 69100-6565
+21:50:15.245 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Anibal Upton, email: raul.watsica@yahoo.com, rol: Salesperson, address: Suite 556 5165 Eugenio Gateway, Jericaton, TN 81374
+21:50:15.245 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Ervin Bechtelar, email: vern.conn@yahoo.com, rol: Salesperson, address: Apt. 939 45127 Parisian Forges, Port Alan, SD 00005
+21:50:15.245 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Odell Koss DVM, email: royce.mckenzie@yahoo.com, rol: Manager, address: 192 Lehner Village, Lake Lashellfurt, MN 32818-0728
+21:50:15.276 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Lightweight Granite Watch, Description: Lightweight Granite Watch, Price: 42.51, Stock: 18
+21:50:15.276 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Awesome Aluminum Gloves, Description: Awesome Aluminum Gloves, Price: 85.68, Stock: 23
+21:50:15.276 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Aerodynamic Linen Shoes, Description: Aerodynamic Linen Shoes, Price: 32.47, Stock: 228

@@ -1,0 +1,25 @@
+21:52:36.418 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Corrina Thiel, email: nathanial.hessel@yahoo.com, rol: Manager, address: Suite 315 44959 Kunde Canyon, Hintzhaven, AZ 04559
+21:52:36.418 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Bradly Nikolaus I, email: alycia.huels@yahoo.com, rol: Salesperson, address: 52213 Turcotte Courts, New Johanaberg, KY 22609-1219
+21:52:36.434 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Burton Gorczany, email: marla.robel@gmail.com, rol: Administrator, address: Apt. 283 5463 Darwin Mission, West Vincenzoport, MO 21137
+21:52:36.434 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Carter Donnelly, email: douglass.rutherford@hotmail.com, rol: Administrator, address: Apt. 569 736 Tiesha Square, Lake Noellamouth, AR 47476
+21:52:36.434 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Lindy Abshire III, email: willia.mertz@gmail.com, rol: Manager, address: Suite 858 687 Eleanore Roads, Baileytown, CA 01586-2970
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Practical Plastic Car, Description: Practical Plastic Car, Price: 61.1, Stock: 164
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Small Bronze Shirt, Description: Small Bronze Shirt, Price: 51.12, Stock: 92
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Incredible Concrete Lamp, Description: Incredible Concrete Lamp, Price: 30.75, Stock: 91
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name: Incredible Leather Shoes, Description: Incredible Leather Shoes, Price: 49.17, Stock: 107
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name: Incredible Bronze Coat, Description: Incredible Bronze Coat, Price: 92.44, Stock: 235
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name: Small Granite Bench, Description: Small Granite Bench, Price: 65.42, Stock: 14
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name: Lightweight Aluminum Gloves, Description: Lightweight Aluminum Gloves, Price: 88.37, Stock: 59
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name: Heavy Duty Rubber Bottle, Description: Heavy Duty Rubber Bottle, Price: 61.48, Stock: 325
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name: Awesome Bronze Shirt, Description: Awesome Bronze Shirt, Price: 18.73, Stock: 308
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name: Intelligent Cotton Wallet, Description: Intelligent Cotton Wallet, Price: 78.07, Stock: 417
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name: Mediocre Paper Table, Description: Mediocre Paper Table, Price: 54.11, Stock: 381
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name: Heavy Duty Iron Pants, Description: Heavy Duty Iron Pants, Price: 94.56, Stock: 192
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name: Aerodynamic Linen Bottle, Description: Aerodynamic Linen Bottle, Price: 26.74, Stock: 298
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name: Fantastic Linen Pants, Description: Fantastic Linen Pants, Price: 24.01, Stock: 217
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name: Fantastic Wool Computer, Description: Fantastic Wool Computer, Price: 11.42, Stock: 141
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name: Heavy Duty Iron Bottle, Description: Heavy Duty Iron Bottle, Price: 46.77, Stock: 339
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name: Durable Bronze Watch, Description: Durable Bronze Watch, Price: 58.71, Stock: 65
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name: Small Bronze Chair, Description: Small Bronze Chair, Price: 19.03, Stock: 478
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name: Awesome Leather Pants, Description: Awesome Leather Pants, Price: 68.15, Stock: 115
+21:52:36.465 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 20, Name: Sleek Concrete Clock, Description: Sleek Concrete Clock, Price: 65.95, Stock: 354
