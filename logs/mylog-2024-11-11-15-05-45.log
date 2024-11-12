@@ -1,0 +1,8 @@
+15:05:45.978 [main] INFO  org.ciaf.user.UserGenerator - User generated: Myrl Abbott, email: mammie.crona@gmail.com, rol: Manager, address: 2550 Heidenreich Orchard, Harveyside, NV 47984-9457
+15:05:45.990 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Many Satterfield, email: lisha.gleason@hotmail.com, rol: Administrator, address: 45669 Mandie Rest, Loreentown, IN 88249
+15:05:45.990 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dwain Grant, email: lazaro.kuhlman@yahoo.com, rol: Administrator, address: 2741 Vickey Locks, Alvamouth, WV 70943-6972
+15:05:46.007 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ethan Spencer, email: season.dooley@hotmail.com, rol: Manager, address: Suite 406 0968 Mozell Tunnel, Alysabury, ND 27090
+15:05:46.007 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Laverne Treutel, email: earleen.kuhn@gmail.com, rol: Administrator, address: Apt. 356 48144 Randall Creek, Lumouth, MD 03782
+15:05:46.022 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Heavy Duty Wool Car, Description: Heavy Duty Wool Car, Price: 71.62, Stock: 109
+15:05:46.037 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Fantastic Concrete Keyboard, Description: Fantastic Concrete Keyboard, Price: 73.06, Stock: 67
+15:05:46.037 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Practical Aluminum Hat, Description: Practical Aluminum Hat, Price: 86.0, Stock: 228

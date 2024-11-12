@@ -1,0 +1,8 @@
+19:21:48.685 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Aleida Ebert, email: deandre.smitham@gmail.com, rol: Administrator, address: Suite 637 72790 Kovacek Underpass, South Danyelletown, GA 41444
+19:21:48.685 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Breana Weimann, email: kiara.veum@gmail.com, rol: Manager, address: Suite 460 0782 Hudson Crossroad, South Brandeefurt, NH 28501-0995
+19:21:48.685 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Kathlyn Ernser, email: laverne.kessler@yahoo.com, rol: Administrator, address: 05674 Pouros Mills, Heaneyview, NM 95013
+19:21:48.693 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Genoveva Parisian, email: maia.fahey@hotmail.com, rol: Manager, address: 950 Zemlak Plaza, Wizafort, AZ 46985-1266
+19:21:48.693 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Ms. Glendora O'Hara, email: rosella.braun@gmail.com, rol: Administrator, address: 050 Stokes Loaf, New Dorethachester, TN 78543
+19:21:48.717 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Incredible Silk Shoes, Description: Incredible Silk Shoes, Price: 37.66, Stock: 58
+19:21:48.717 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Aerodynamic Iron Clock, Description: Aerodynamic Iron Clock, Price: 11.78, Stock: 435
+19:21:48.717 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Incredible Rubber Gloves, Description: Incredible Rubber Gloves, Price: 18.36, Stock: 240

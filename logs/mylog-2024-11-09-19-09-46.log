@@ -1,0 +1,40 @@
+19:09:46.393 [main] INFO  org.ciaf.user.UserGenerator - User generated: Sid Okuneva, email: angelica.labadie@hotmail.com, rol: salesperson
+19:09:46.393 [main] INFO  org.ciaf.user.UserGenerator - User generated: Earl Ondricka, email: ali.fritsch@hotmail.com, rol: salesperson
+19:09:46.408 [main] INFO  org.ciaf.user.UserGenerator - User generated: Olen Kirlin, email: ligia.roberts@gmail.com, rol: salesperson
+19:09:46.408 [main] INFO  org.ciaf.user.UserGenerator - User generated: Erma Torp, email: caleb.brekke@yahoo.com, rol: salesperson
+19:09:46.408 [main] INFO  org.ciaf.user.UserGenerator - User generated: Bryce Keebler Sr., email: don.maggio@hotmail.com, rol: salesperson
+19:09:46.408 [main] INFO  org.ciaf.user.UserGenerator - User generated: Faustina Armstrong, email: lindy.herzog@yahoo.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Stephanie Heidenreich, email: fletcher.wintheiser@hotmail.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Malissa Schuster, email: joe.wiza@hotmail.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Dimple Stroman, email: sylvester.bosco@yahoo.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Janie Altenwerth, email: darron.larson@gmail.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Debbie Kessler, email: fred.collier@gmail.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Ross Kilback, email: owen.rippin@gmail.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Brice MacGyver, email: tanika.grady@gmail.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Aldo Macejkovic, email: courtney.mohr@yahoo.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Maurice Christiansen, email: kit.glover@yahoo.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Janyce Marks, email: ivory.corwin@gmail.com, rol: salesperson
+19:09:46.424 [main] INFO  org.ciaf.user.UserGenerator - User generated: Sabrina Rath, email: eileen.hyatt@hotmail.com, rol: salesperson
+19:09:46.440 [main] INFO  org.ciaf.user.UserGenerator - User generated: Tobi Muller, email: margarito.mohr@gmail.com, rol: salesperson
+19:09:46.440 [main] INFO  org.ciaf.user.UserGenerator - User generated: Aron Bergstrom, email: marcel.kunze@hotmail.com, rol: salesperson
+19:09:46.440 [main] INFO  org.ciaf.user.UserGenerator - User generated: Joya Feeney, email: devon.runolfsson@hotmail.com, rol: salesperson
+19:09:51.652 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 0, Name: Mediocre Iron Table, Description: Mediocre Iron Table, Price: 871.64, Stock: 429
+19:09:51.652 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Enormous Iron Coat, Description: Enormous Iron Coat, Price: 807.39, Stock: 416
+19:09:51.652 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Synergistic Wooden Table, Description: Synergistic Wooden Table, Price: 200.86, Stock: 451
+19:09:51.652 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Sleek Steel Bottle, Description: Sleek Steel Bottle, Price: 17.55, Stock: 291
+19:09:51.652 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name: Fantastic Marble Bottle, Description: Fantastic Marble Bottle, Price: 776.18, Stock: 432
+19:09:51.652 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name: Practical Plastic Coat, Description: Practical Plastic Coat, Price: 859.59, Stock: 13
+19:09:51.652 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name: Small Linen Chair, Description: Small Linen Chair, Price: 632.96, Stock: 480
+19:09:51.652 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name: Ergonomic Marble Knife, Description: Ergonomic Marble Knife, Price: 96.27, Stock: 355
+19:09:51.652 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name: Fantastic Paper Hat, Description: Fantastic Paper Hat, Price: 912.24, Stock: 488
+19:09:51.652 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name: Mediocre Concrete Plate, Description: Mediocre Concrete Plate, Price: 526.52, Stock: 318
+19:09:51.663 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name: Small Iron Computer, Description: Small Iron Computer, Price: 741.59, Stock: 448
+19:09:51.663 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name: Sleek Silk Lamp, Description: Sleek Silk Lamp, Price: 597.96, Stock: 144
+19:09:51.665 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name: Sleek Concrete Coat, Description: Sleek Concrete Coat, Price: 356.5, Stock: 196
+19:09:51.665 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name: Lightweight Wool Plate, Description: Lightweight Wool Plate, Price: 126.17, Stock: 179
+19:09:51.667 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name: Enormous Bronze Pants, Description: Enormous Bronze Pants, Price: 129.25, Stock: 414
+19:09:51.667 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name: Intelligent Granite Wallet, Description: Intelligent Granite Wallet, Price: 180.31, Stock: 339
+19:09:51.667 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name: Awesome Concrete Coat, Description: Awesome Concrete Coat, Price: 488.7, Stock: 365
+19:09:51.667 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name: Incredible Wooden Table, Description: Incredible Wooden Table, Price: 45.39, Stock: 287
+19:09:51.667 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name: Gorgeous Iron Lamp, Description: Gorgeous Iron Lamp, Price: 844.8, Stock: 409
+19:09:51.667 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name: Incredible Bronze Chair, Description: Incredible Bronze Chair, Price: 765.57, Stock: 475

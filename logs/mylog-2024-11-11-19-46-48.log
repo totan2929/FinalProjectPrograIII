@@ -1,0 +1,8 @@
+19:46:49.063 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Brendan Simonis, email: roxana.walker@yahoo.com, rol: Administrator, address: Suite 466 9585 Grant Dam, Robelport, DE 19676-1888
+19:46:49.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Manuel Crona, email: tesha.kessler@hotmail.com, rol: Salesperson, address: Suite 636 3676 Billie Plains, Feestmouth, AZ 83731
+19:46:49.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Trent Hammes, email: terrance.waters@hotmail.com, rol: Manager, address: 0655 Grady Knoll, East Collette, FL 46860
+19:46:49.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Mr. Vickey Moore, email: liana.nienow@gmail.com, rol: Manager, address: 63738 Wan Fort, Chuckberg, AZ 85653
+19:46:49.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Lonnie Kuvalis, email: elliot.pagac@hotmail.com, rol: Manager, address: 0700 Lorrie Extensions, West Manuel, LA 59740
+19:46:49.110 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Ergonomic Wool Bench, Description: Ergonomic Wool Bench, Price: 78.34, Stock: 359
+19:46:49.110 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Aerodynamic Rubber Shirt, Description: Aerodynamic Rubber Shirt, Price: 67.33, Stock: 474
+19:46:49.110 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Lightweight Silk Keyboard, Description: Lightweight Silk Keyboard, Price: 62.02, Stock: 106

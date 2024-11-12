@@ -1,0 +1,8 @@
+15:23:41.232 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jacque Larson, email: berry.pagac@yahoo.com, rol: Salesperson, address: 341 Yelena River, Gastonfurt, MD 15934
+15:23:41.232 [main] INFO  org.ciaf.user.UserGenerator - User generated: Donnie Smith DDS, email: mason.volkman@gmail.com, rol: Manager, address: Suite 560 8204 O'Connell Trail, Kassulketown, NM 74016
+15:23:41.232 [main] INFO  org.ciaf.user.UserGenerator - User generated: Maria Wisoky, email: kiesha.schimmel@hotmail.com, rol: Manager, address: 68876 Russel Gateway, Port Antoneshire, NM 18561
+15:23:41.232 [main] INFO  org.ciaf.user.UserGenerator - User generated: Saundra Schiller DDS, email: marlene.turner@gmail.com, rol: Salesperson, address: Suite 225 0973 Alvin Streets, Melvinport, AL 52392
+15:23:41.246 [main] INFO  org.ciaf.user.UserGenerator - User generated: Brittni Crist, email: arnoldo.wuckert@yahoo.com, rol: Administrator, address: Apt. 903 37449 Yaeko Burg, Lake Suanne, PA 94215
+15:23:41.261 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Practical Aluminum Computer, Description: Practical Aluminum Computer, Price: 29.22, Stock: 66
+15:23:41.261 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Ergonomic Concrete Shirt, Description: Ergonomic Concrete Shirt, Price: 25.64, Stock: 59
+15:23:41.261 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Fantastic Rubber Computer, Description: Fantastic Rubber Computer, Price: 11.76, Stock: 428

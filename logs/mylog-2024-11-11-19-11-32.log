@@ -1,0 +1,8 @@
+19:11:33.000 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Chelsea Altenwerth I, email: claudette.rowe@hotmail.com, rol: Administrator, address: Suite 546 850 Stroman Squares, Kerrishire, AZ 38944
+19:11:33.000 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Mrs. Tameika Swaniawski, email: danial.hammes@gmail.com, rol: Salesperson, address: Apt. 976 3337 Schmitt Mill, Lawrenceburgh, TX 77838-3633
+19:11:33.000 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Song Cruickshank DVM, email: desmond.hyatt@gmail.com, rol: Administrator, address: 95009 Reed Rest, Goodwinville, HI 30594
+19:11:33.000 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Cassi Mann DVM, email: jamel.friesen@yahoo.com, rol: Salesperson, address: Suite 181 75087 Shanahan Inlet, Seleneville, MN 28991
+19:11:33.000 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Brandon O'Connell, email: shenna.turcotte@gmail.com, rol: Manager, address: 31998 Jude Bypass, South Minhaven, SC 38542
+19:11:33.032 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Awesome Silk Clock, Description: Awesome Silk Clock, Price: 68.55, Stock: 256
+19:11:33.032 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Enormous Wool Watch, Description: Enormous Wool Watch, Price: 27.55, Stock: 271
+19:11:33.032 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Awesome Concrete Shirt, Description: Awesome Concrete Shirt, Price: 49.14, Stock: 408

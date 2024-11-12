@@ -1,67 +1,74 @@
 package org.ciaf.invoicepdf;
+import com.itextpdf.kernel.pdf.PdfDocument;
+import com.itextpdf.kernel.pdf.PdfWriter;
+import com.itextpdf.layout.Document;
+import com.itextpdf.layout.element.Paragraph;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
-import org.apache.pdfbox.pdmodel.PDPage;
-import org.apache.pdfbox.pdmodel.PDPageContentStream;
-import org.apache.pdfbox.pdmodel.font.PDType1Font;
-import org.ciaf.product.Product;
-import org.ciaf.sale.Sale;
-import org.ciaf.user.User;
+import org.apache.pdfbox.text.PDFTextStripper;
 
+import java.io.File;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.time.LocalDate;
+
 
 public class InvoicePDF {
-    public void generateInvoice(Sale sale, User client) throws IOException {
-        PDDocument document = new PDDocument();
-        PDPage page = new PDPage();
-        document.addPage(page);
 
-        try {
-            PDPageContentStream content = new PDPageContentStream(document, page);
-            content.beginText();
-            content.setFont(PDType1Font.HELVETICA_BOLD, 16);
-            content.newLineAtOffset(50, 750);
-            content.showText("Invoice - Electronic Store");
-            content.endText();
-
-            content.beginText();
-            content.setFont(PDType1Font.HELVETICA, 12);
-            content.newLineAtOffset(50, 730);
-            content.showText("Date: " + LocalDate.now());
-            content.endText();
-
-            content.beginText();
-            content.setFont(PDType1Font.HELVETICA, 12);
-            content.newLineAtOffset(50, 750);
-            content.showText("Client: " + client.getName());
-            content.endText();
-
-            int yPosition = 680;
-
-            for (Product product : sale.getProductsSold()){
-                content.beginText();
-                content.newLineAtOffset(50, yPosition);
-                content.showText("Product: " + product.getName() + " - Price: $" + product.getPrice());
-                content.endText();
-                yPosition -= 20;
+        // Método para leer texto desde un archivo PDF
+        public static String readFromPDF(String fileName) {
+            // Se crea un objeto StringBuilder para concatenar el texto extraído del PDF.
+            StringBuilder text = new StringBuilder();
+            try (PDDocument document = PDDocument.load(new File(fileName))) {
+                // Se carga el documento PDF desde el archivo especificado.
+                // El documento se cerrará automáticamente al finalizar el bloque try.
+                if (!document.isEncrypted()) {
+                    // Se verifica si el documento PDF está encriptado.
+                    // Si no lo está, se procede a extraer el texto del PDF.
+                    PDFTextStripper stripper = new PDFTextStripper();
+                    // Se crea un objeto PDFTextStripper para extraer texto del PDF.
+                    text.append(stripper.getText(document));
+                    // Se obtiene el texto del documento y se agrega al StringBuilder.
+                } else {
+                    System.out.println("El archivo PDF está encriptado y no se puede leer.");
+                }
+            } catch (IOException e) {
+                System.out.println("Se produjo un error al leer el archivo PDF.");
+                e.printStackTrace();
             }
-            content.beginText();
-            content.newLineAtOffset(50, yPosition - 20);
-            content.showText(String.format("Total: %s", sale.calculateTotalSale()));
-            content.endText();
-
-
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+            return text.toString();
         }
 
-        Path outputPath = Paths.get("invoices", "invoice-" + sale.getId() + ".pdf");
-        Files.createDirectories(outputPath.getParent());
-        document.save(outputPath.toFile());
-        document.close();
-    }
-}
+        // Método para escribir texto en un archivo PDF
+        public static void writeToPDF(String fileName, StringBuilder factura) {
+
+
+            try {
+
+                // Crear un PdfWriter para escribir el archivo
+
+                // Crear un PdfWriter para escribir el archivo
+                PdfWriter writer = new PdfWriter(fileName);
+
+                // Crear el PdfDocument y asociarlo con el PdfWriter
+                PdfDocument pdfDoc = new PdfDocument(writer);
+
+                // Crear el documento para agregar contenido
+                Document document = new Document(pdfDoc);
+
+                // Agregar el contenido de StringBuilder como un párrafo
+                document.add(new Paragraph(factura.toString()));
+
+                // Cerrar el documento
+
+
+                document.close();
+
+                System.out.println("PDF creado correctamente en: " + fileName);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+        }
+
+
+
+

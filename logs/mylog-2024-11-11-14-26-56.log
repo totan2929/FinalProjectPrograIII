@@ -1,0 +1,5 @@
+14:26:56.396 [main] INFO  org.ciaf.user.UserGenerator - User generated: Deetta Batz, email: may.schuster@yahoo.com, rol: salesperson
+14:26:56.412 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Arie Bahringer, email: trudie.hettinger@hotmail.com, rol: salesperson
+14:26:56.427 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Lightweight Iron Knife, Description: Lightweight Iron Knife, Price: 35.91, Stock: 257
+14:26:56.427 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Mediocre Paper Plate, Description: Mediocre Paper Plate, Price: 60.39, Stock: 351
+14:26:56.427 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Heavy Duty Concrete Lamp, Description: Heavy Duty Concrete Lamp, Price: 64.65, Stock: 482

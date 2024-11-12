@@ -1,0 +1,8 @@
+19:24:46.372 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Mitchel Ullrich, email: jacquetta.hauck@yahoo.com, rol: Administrator, address: 77662 Mitchel Shoals, Tedmouth, ME 01091
+19:24:46.372 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Lahoma Pollich, email: claud.cummerata@yahoo.com, rol: Manager, address: 1346 Nikole Squares, Denesikborough, NM 83795-3401
+19:24:46.372 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Daren Murazik, email: jayson.champlin@yahoo.com, rol: Administrator, address: 9509 Funk Extension, North Bethanieberg, FL 29669-7183
+19:24:46.372 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Gus Mills, email: stephan.okuneva@gmail.com, rol: Administrator, address: 18392 Leticia Ville, Lake Barney, TN 50416-4781
+19:24:46.372 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Noriko Ratke, email: randolph.willms@yahoo.com, rol: Manager, address: Suite 095 1789 Wisoky Port, Schulistborough, MO 06289-1527
+19:24:46.403 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Enormous Leather Plate, Description: Enormous Leather Plate, Price: 19.11, Stock: 272
+19:24:46.403 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Gorgeous Cotton Wallet, Description: Gorgeous Cotton Wallet, Price: 87.93, Stock: 224
+19:24:46.403 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Gorgeous Aluminum Clock, Description: Gorgeous Aluminum Clock, Price: 28.94, Stock: 487

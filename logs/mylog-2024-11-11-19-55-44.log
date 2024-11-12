@@ -1,0 +1,8 @@
+19:55:45.190 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Mitsuko Schultz, email: fidelia.kunde@hotmail.com, rol: Salesperson, address: Apt. 158 2646 Davis Dam, Bustertown, ND 52148-7529
+19:55:45.190 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Danial Cummerata, email: aliza.simonis@yahoo.com, rol: Salesperson, address: 62145 Chantal Mission, East Jonaschester, MO 96571
+19:55:45.205 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Elenora King, email: wes.gusikowski@gmail.com, rol: Manager, address: Suite 981 960 Kieth Oval, North Enda, NE 68333
+19:55:45.205 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Vallie Kuvalis, email: ezra.mayert@yahoo.com, rol: Salesperson, address: Apt. 516 1823 Fritsch Spurs, Stiedemannton, LA 51323
+19:55:45.205 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Earline Langworth, email: ranee.schamberger@hotmail.com, rol: Salesperson, address: 030 Iva Course, Lake Robbie, HI 49540
+19:55:45.237 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Fantastic Granite Pants, Description: Fantastic Granite Pants, Price: 95.26, Stock: 295
+19:55:45.237 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Ergonomic Leather Bottle, Description: Ergonomic Leather Bottle, Price: 62.1, Stock: 27
+19:55:45.237 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Gorgeous Copper Shoes, Description: Gorgeous Copper Shoes, Price: 87.81, Stock: 454

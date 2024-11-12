@@ -1,0 +1,40 @@
+18:55:24.949 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Kellee Dare, email: lili.grady@yahoo.com, rol: salesperson
+18:55:24.964 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mardell Steuber Sr., email: horace.wilderman@yahoo.com, rol: salesperson
+18:55:24.964 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ernie Veum DVM, email: debi.stark@hotmail.com, rol: salesperson
+18:55:24.964 [main] INFO  org.ciaf.user.UserGenerator - User generated: Chung McLaughlin, email: dante.pfannerstill@gmail.com, rol: salesperson
+18:55:24.964 [main] INFO  org.ciaf.user.UserGenerator - User generated: Frederic Reilly, email: aleisha.blanda@yahoo.com, rol: salesperson
+18:55:24.964 [main] INFO  org.ciaf.user.UserGenerator - User generated: Stan Wolf, email: alton.sipes@hotmail.com, rol: salesperson
+18:55:24.964 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lonny Stroman, email: min.klocko@hotmail.com, rol: salesperson
+18:55:24.964 [main] INFO  org.ciaf.user.UserGenerator - User generated: Alfredo Kreiger, email: kim.lindgren@hotmail.com, rol: salesperson
+18:55:24.964 [main] INFO  org.ciaf.user.UserGenerator - User generated: Nenita Denesik, email: jamal.feeney@gmail.com, rol: salesperson
+18:55:24.964 [main] INFO  org.ciaf.user.UserGenerator - User generated: Bradley Yundt, email: diego.marvin@hotmail.com, rol: salesperson
+18:55:24.979 [main] INFO  org.ciaf.user.UserGenerator - User generated: Sha Dicki, email: elroy.wyman@gmail.com, rol: salesperson
+18:55:24.979 [main] INFO  org.ciaf.user.UserGenerator - User generated: Aurora Kuphal Jr., email: chung.collier@yahoo.com, rol: salesperson
+18:55:24.979 [main] INFO  org.ciaf.user.UserGenerator - User generated: Elvira Legros Sr., email: marisela.flatley@hotmail.com, rol: salesperson
+18:55:24.979 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mildred Haag, email: carlotta.mitchell@gmail.com, rol: salesperson
+18:55:24.979 [main] INFO  org.ciaf.user.UserGenerator - User generated: Margret Heller, email: doria.schumm@gmail.com, rol: salesperson
+18:55:24.979 [main] INFO  org.ciaf.user.UserGenerator - User generated: Laverne Ratke, email: jesse.hintz@gmail.com, rol: salesperson
+18:55:24.979 [main] INFO  org.ciaf.user.UserGenerator - User generated: Vincenzo Krajcik I, email: burl.herzog@gmail.com, rol: salesperson
+18:55:24.979 [main] INFO  org.ciaf.user.UserGenerator - User generated: Christi Skiles, email: don.vonrueden@yahoo.com, rol: salesperson
+18:55:24.979 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ray Shanahan, email: derick.klein@hotmail.com, rol: salesperson
+18:55:24.979 [main] INFO  org.ciaf.user.UserGenerator - User generated: Joella Zboncak, email: malcom.jakubowski@hotmail.com, rol: salesperson
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 0, Name: Durable Plastic Gloves, Description: Durable Plastic Gloves, Price: 887.69, Stock: 7
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Synergistic Plastic Lamp, Description: Synergistic Plastic Lamp, Price: 480.84, Stock: 375
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Aerodynamic Leather Bench, Description: Aerodynamic Leather Bench, Price: 205.98, Stock: 70
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Durable Paper Shoes, Description: Durable Paper Shoes, Price: 750.81, Stock: 292
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name: Gorgeous Bronze Table, Description: Gorgeous Bronze Table, Price: 383.66, Stock: 426
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name: Fantastic Rubber Clock, Description: Fantastic Rubber Clock, Price: 275.76, Stock: 419
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name: Heavy Duty Paper Watch, Description: Heavy Duty Paper Watch, Price: 594.1, Stock: 479
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name: Ergonomic Paper Coat, Description: Ergonomic Paper Coat, Price: 600.31, Stock: 131
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name: Rustic Copper Table, Description: Rustic Copper Table, Price: 863.35, Stock: 39
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name: Intelligent Wooden Car, Description: Intelligent Wooden Car, Price: 108.83, Stock: 372
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name: Awesome Wooden Gloves, Description: Awesome Wooden Gloves, Price: 296.4, Stock: 466
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name: Aerodynamic Rubber Bench, Description: Aerodynamic Rubber Bench, Price: 163.41, Stock: 254
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name: Aerodynamic Paper Bench, Description: Aerodynamic Paper Bench, Price: 841.84, Stock: 483
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name: Synergistic Paper Coat, Description: Synergistic Paper Coat, Price: 327.78, Stock: 210
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name: Durable Paper Chair, Description: Durable Paper Chair, Price: 938.06, Stock: 309
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name: Small Linen Lamp, Description: Small Linen Lamp, Price: 212.74, Stock: 415
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name: Rustic Marble Bag, Description: Rustic Marble Bag, Price: 391.03, Stock: 416
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name: Durable Wool Bottle, Description: Durable Wool Bottle, Price: 15.48, Stock: 192
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name: Enormous Aluminum Chair, Description: Enormous Aluminum Chair, Price: 925.18, Stock: 116
+18:55:25.010 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name: Small Iron Bench, Description: Small Iron Bench, Price: 582.8, Stock: 486

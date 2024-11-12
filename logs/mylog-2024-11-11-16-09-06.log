@@ -1,0 +1,9 @@
+16:09:06.713 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Alfredo Schulist, email: margarite.mcdermott@gmail.com, rol: Manager, address: 0551 Koss Isle, Ziememouth, OK 79335
+16:09:06.729 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Annabel Dietrich, email: donnette.davis@gmail.com, rol: Administrator, address: 450 Davis Shore, East Ghislainemouth, TN 38188-8262
+16:09:06.729 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Mr. Alva McKenzie, email: rosette.simonis@gmail.com, rol: Administrator, address: 77425 Effertz Rest, Baumbachmouth, MS 13518-2064
+16:09:06.729 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Lanny Hermiston, email: tu.kris@yahoo.com, rol: Manager, address: Apt. 766 2224 Bernhard Loop, Ryanside, RI 15950-0171
+16:09:06.729 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Annelle Harvey DVM, email: selene.gerhold@yahoo.com, rol: Salesperson, address: 0499 Kemmer Stravenue, Doylebury, DE 52338-0364
+16:09:06.756 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Fantastic Steel Lamp, Description: Fantastic Steel Lamp, Price: 24.37, Stock: 123
+16:09:06.756 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Sleek Linen Bottle, Description: Sleek Linen Bottle, Price: 38.1, Stock: 463
+16:09:06.756 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Lightweight Aluminum Bench, Description: Lightweight Aluminum Bench, Price: 73.74, Stock: 255
+16:09:06.792 [main] INFO  org.ciaf.client.ClientGenerator - Client generated: , name: Mrs. Shane McClure, email: rozella.pollich@gmail.com

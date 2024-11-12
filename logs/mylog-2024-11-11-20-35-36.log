@@ -1,0 +1,8 @@
+20:35:36.332 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Elda Lueilwitz III, email: marco.gusikowski@gmail.com, rol: Salesperson, address: 95131 Hoeger Brooks, New Faustina, AZ 89798-5352
+20:35:36.332 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Opal Mohr, email: stacey.okeefe@yahoo.com, rol: Salesperson, address: Apt. 433 5078 Tom Gardens, West Conradside, OK 56519
+20:35:36.332 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Shirley Monahan, email: wilson.braun@hotmail.com, rol: Salesperson, address: Suite 508 88346 Rosenbaum Ridge, Jeanenefurt, FL 25401-4054
+20:35:36.332 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Aurelio Zieme, email: santos.okeefe@yahoo.com, rol: Salesperson, address: Suite 045 543 Cassin Gardens, Brettside, OR 50052-4350
+20:35:36.332 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Elise West, email: parker.hills@yahoo.com, rol: Administrator, address: Suite 698 3384 Balistreri View, Cartwrighthaven, MA 77233-0795
+20:35:36.363 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Rustic Leather Car, Description: Rustic Leather Car, Price: 91.2, Stock: 197
+20:35:36.363 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Intelligent Wooden Clock, Description: Intelligent Wooden Clock, Price: 69.38, Stock: 473
+20:35:36.363 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Aerodynamic Cotton Wallet, Description: Aerodynamic Cotton Wallet, Price: 47.53, Stock: 400

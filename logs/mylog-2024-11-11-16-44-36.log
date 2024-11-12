@@ -1,0 +1,8 @@
+16:44:37.060 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Cesar Lebsack, email: galina.waters@yahoo.com, rol: Administrator, address: 179 Heller Glen, Ingeborgstad, MD 89718-2033
+16:44:37.076 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Rebeca Feeney, email: ivan.lakin@hotmail.com, rol: Salesperson, address: Apt. 773 077 Donovan Springs, Augustusview, ME 18094
+16:44:37.076 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Horacio Swaniawski DVM, email: curtis.funk@yahoo.com, rol: Administrator, address: 711 Hand Fork, Nienowfurt, SC 33885-2572
+16:44:37.081 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Arline Leuschke, email: sharita.marks@gmail.com, rol: Manager, address: Suite 137 23293 Terry Hollow, Fernandohaven, WI 89285
+16:44:37.081 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Amelia Armstrong V, email: clorinda.carroll@hotmail.com, rol: Salesperson, address: 1636 Sherwood Pike, South Geraldo, UT 81424
+16:44:37.107 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Lightweight Bronze Clock, Description: Lightweight Bronze Clock, Price: 55.2, Stock: 20
+16:44:37.107 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Rustic Wooden Shoes, Description: Rustic Wooden Shoes, Price: 82.38, Stock: 251
+16:44:37.107 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Gorgeous Bronze Bag, Description: Gorgeous Bronze Bag, Price: 67.08, Stock: 101

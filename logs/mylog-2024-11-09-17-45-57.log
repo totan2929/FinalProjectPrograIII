@@ -1,0 +1,40 @@
+17:45:57.602 [main] INFO  org.ciaf.user.UserGenerator - User generated: Rhett Frami II, email: christoper.rempel@yahoo.com, rol: salesperson
+17:45:57.607 [main] INFO  org.ciaf.user.UserGenerator - User generated: Adah Turner, email: kourtney.mante@hotmail.com, rol: salesperson
+17:45:57.608 [main] INFO  org.ciaf.user.UserGenerator - User generated: Daniela Homenick, email: rayford.beier@hotmail.com, rol: salesperson
+17:45:57.610 [main] INFO  org.ciaf.user.UserGenerator - User generated: Conchita Gerhold, email: wilburn.klocko@gmail.com, rol: salesperson
+17:45:57.611 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Zandra Von, email: rufus.kuhic@hotmail.com, rol: salesperson
+17:45:57.620 [main] INFO  org.ciaf.user.UserGenerator - User generated: Reynaldo O'Connell, email: solomon.parisian@hotmail.com, rol: salesperson
+17:45:57.623 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mee Schuster V, email: denita.casper@hotmail.com, rol: salesperson
+17:45:57.625 [main] INFO  org.ciaf.user.UserGenerator - User generated: Cheri Ortiz, email: arnetta.ledner@hotmail.com, rol: salesperson
+17:45:57.626 [main] INFO  org.ciaf.user.UserGenerator - User generated: Margarito Purdy, email: angla.cruickshank@hotmail.com, rol: salesperson
+17:45:57.628 [main] INFO  org.ciaf.user.UserGenerator - User generated: Rodrigo Kutch, email: ozzie.dubuque@gmail.com, rol: salesperson
+17:45:57.630 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Mattie Emmerich, email: earlene.denesik@gmail.com, rol: salesperson
+17:45:57.631 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lazaro Carroll, email: merlin.wilderman@hotmail.com, rol: salesperson
+17:45:57.632 [main] INFO  org.ciaf.user.UserGenerator - User generated: Maximina Haley, email: wan.price@yahoo.com, rol: salesperson
+17:45:57.633 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jeanice Dickinson, email: stephan.smith@hotmail.com, rol: salesperson
+17:45:57.634 [main] INFO  org.ciaf.user.UserGenerator - User generated: Laurinda Barrows, email: elane.stiedemann@hotmail.com, rol: salesperson
+17:45:57.638 [main] INFO  org.ciaf.user.UserGenerator - User generated: Franklin Prosacco, email: harris.mohr@yahoo.com, rol: salesperson
+17:45:57.639 [main] INFO  org.ciaf.user.UserGenerator - User generated: Williams Gottlieb, email: gabrielle.effertz@gmail.com, rol: salesperson
+17:45:57.640 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ronnie Bartoletti, email: monnie.schulist@gmail.com, rol: salesperson
+17:45:57.640 [main] INFO  org.ciaf.user.UserGenerator - User generated: Woodrow Howe, email: juan.mcdermott@hotmail.com, rol: salesperson
+17:45:57.643 [main] INFO  org.ciaf.user.UserGenerator - User generated: Wilbert Ullrich, email: robbie.boehm@hotmail.com, rol: salesperson
+17:45:57.666 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 0, Name:Small Copper Car, Description:Small Copper Car, Price:756.7, Stock:127
+17:45:57.666 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name:Small Concrete Pants, Description:Small Concrete Pants, Price:482.37, Stock:55
+17:45:57.667 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name:Sleek Wool Hat, Description:Sleek Wool Hat, Price:554.63, Stock:413
+17:45:57.668 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name:Incredible Iron Shoes, Description:Incredible Iron Shoes, Price:738.05, Stock:235
+17:45:57.668 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name:Fantastic Granite Table, Description:Fantastic Granite Table, Price:711.37, Stock:357
+17:45:57.668 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name:Enormous Paper Bench, Description:Enormous Paper Bench, Price:967.25, Stock:253
+17:45:57.668 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name:Practical Iron Hat, Description:Practical Iron Hat, Price:126.09, Stock:340
+17:45:57.669 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name:Small Cotton Lamp, Description:Small Cotton Lamp, Price:70.64, Stock:134
+17:45:57.669 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name:Intelligent Silk Knife, Description:Intelligent Silk Knife, Price:133.38, Stock:448
+17:45:57.669 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name:Enormous Granite Shirt, Description:Enormous Granite Shirt, Price:872.15, Stock:168
+17:45:57.669 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name:Small Iron Gloves, Description:Small Iron Gloves, Price:782.21, Stock:7
+17:45:57.669 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name:Ergonomic Paper Wallet, Description:Ergonomic Paper Wallet, Price:69.76, Stock:386
+17:45:57.670 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name:Fantastic Linen Table, Description:Fantastic Linen Table, Price:890.81, Stock:235
+17:45:57.670 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name:Practical Concrete Watch, Description:Practical Concrete Watch, Price:188.67, Stock:324
+17:45:57.670 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name:Practical Bronze Gloves, Description:Practical Bronze Gloves, Price:852.76, Stock:35
+17:45:57.671 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name:Intelligent Paper Wallet, Description:Intelligent Paper Wallet, Price:644.17, Stock:354
+17:45:57.671 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name:Sleek Plastic Clock, Description:Sleek Plastic Clock, Price:665.57, Stock:420
+17:45:57.671 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name:Small Marble Lamp, Description:Small Marble Lamp, Price:739.78, Stock:125
+17:45:57.671 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name:Intelligent Rubber Car, Description:Intelligent Rubber Car, Price:547.71, Stock:115
+17:45:57.672 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name:Mediocre Silk Bottle, Description:Mediocre Silk Bottle, Price:176.03, Stock:473

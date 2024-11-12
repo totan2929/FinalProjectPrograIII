@@ -1,0 +1,8 @@
+19:27:13.853 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Ms. Walton Hane, email: lu.swift@yahoo.com, rol: Administrator, address: 3547 Hickle Parks, Thaddeusshire, WV 96931-3661
+19:27:13.861 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Hank Hagenes, email: alexandria.schowalter@yahoo.com, rol: Salesperson, address: Apt. 573 926 Miller Crossing, Bednarton, IL 60663
+19:27:13.861 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Francesco Simonis, email: rosa.kris@gmail.com, rol: Manager, address: 433 Leon Village, Morarhaven, NM 12257
+19:27:13.861 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Refugio Homenick, email: johnny.monahan@gmail.com, rol: Manager, address: Apt. 006 951 Bok Dam, North Alphonso, TN 30755-5610
+19:27:13.861 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5August Fisher, email: robin.rohan@gmail.com, rol: Administrator, address: 45323 Miles Plains, Alvaroburgh, NC 50791-3647
+19:27:13.894 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Practical Paper Wallet, Description: Practical Paper Wallet, Price: 77.9, Stock: 266
+19:27:13.894 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Heavy Duty Rubber Bag, Description: Heavy Duty Rubber Bag, Price: 54.51, Stock: 456
+19:27:13.894 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Fantastic Steel Computer, Description: Fantastic Steel Computer, Price: 14.88, Stock: 324

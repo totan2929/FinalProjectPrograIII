@@ -1,0 +1,8 @@
+19:07:13.696 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Darlena Kertzmann Jr., email: danial.hintz@gmail.com, rol: Salesperson, address: Apt. 964 507 Eli Mountain, Ernsertown, AL 35817-7021
+19:07:13.711 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Miss Mallie Champlin, email: terese.towne@gmail.com, rol: Salesperson, address: Apt. 491 04342 Elida Fort, Luanaberg, MD 50061-4179
+19:07:13.711 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Laureen Hand, email: sharika.pfeffer@hotmail.com, rol: Administrator, address: Apt. 324 60784 Perry Well, Port Estelle, MS 62123
+19:07:13.711 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Adrien Powlowski, email: darrin.feest@gmail.com, rol: Administrator, address: 6964 Hoppe Corners, Port Bethelfurt, TX 93970
+19:07:13.711 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Nakesha Nienow Jr., email: delois.reilly@yahoo.com, rol: Manager, address: Apt. 097 8880 Leuschke Cliff, South Erasmoton, VA 47306
+19:07:13.727 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Synergistic Bronze Shirt, Description: Synergistic Bronze Shirt, Price: 34.66, Stock: 235
+19:07:13.727 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Ergonomic Cotton Bench, Description: Ergonomic Cotton Bench, Price: 59.32, Stock: 411
+19:07:13.727 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Ergonomic Rubber Car, Description: Ergonomic Rubber Car, Price: 42.29, Stock: 431

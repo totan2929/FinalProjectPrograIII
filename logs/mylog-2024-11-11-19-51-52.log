@@ -1,0 +1,8 @@
+19:51:53.069 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Carlton Okuneva, email: julia.schowalter@hotmail.com, rol: Administrator, address: Apt. 057 75414 Gerri Corners, West Augustineton, WY 63639
+19:51:53.069 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Ms. Windy Flatley, email: virgie.considine@hotmail.com, rol: Administrator, address: Apt. 292 831 Gleichner Forest, New Tisa, MD 89741
+19:51:53.085 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Lindsay Gerhold, email: alma.wyman@hotmail.com, rol: Manager, address: 10245 Kilback Ville, West Lanitafurt, MD 42844-9715
+19:51:53.085 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Dr. Karol Feeney, email: matt.paucek@gmail.com, rol: Administrator, address: Suite 003 539 Osinski Mission, Daviston, PA 99057
+19:51:53.085 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Mrs. Bernarda Bosco, email: hayden.wehner@yahoo.com, rol: Manager, address: Suite 849 76495 Randolph Junction, Faheyfurt, VA 78215-4249
+19:51:53.117 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Incredible Copper Wallet, Description: Incredible Copper Wallet, Price: 79.19, Stock: 385
+19:51:53.117 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Practical Wool Bag, Description: Practical Wool Bag, Price: 57.88, Stock: 206
+19:51:53.117 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Fantastic Paper Lamp, Description: Fantastic Paper Lamp, Price: 72.89, Stock: 135

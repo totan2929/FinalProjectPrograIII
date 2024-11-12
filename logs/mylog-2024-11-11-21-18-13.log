@@ -1,0 +1,8 @@
+21:18:13.466 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Dena Zemlak, email: delsie.emmerich@hotmail.com, rol: Manager, address: 308 Marcus Via, Colemouth, MI 34243-0864
+21:18:13.481 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Enrique Conn, email: bertram.jacobson@gmail.com, rol: Manager, address: Apt. 057 711 Lilliam Fort, Cindaland, IA 37209
+21:18:13.481 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Tanner Conroy, email: adaline.grant@hotmail.com, rol: Administrator, address: Apt. 685 051 Boyer Ferry, West Mae, CA 98344-0327
+21:18:13.481 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Jorge Lueilwitz DDS, email: bernetta.mckenzie@gmail.com, rol: Administrator, address: 8713 Florencio Street, Lake Ernieberg, WI 42587-1931
+21:18:13.481 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Forrest Moore, email: jayson.nitzsche@yahoo.com, rol: Administrator, address: Apt. 896 61273 Corwin Meadow, Turnermouth, UT 34391-4420
+21:18:13.513 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Intelligent Copper Shirt, Description: Intelligent Copper Shirt, Price: 88.03, Stock: 272
+21:18:13.513 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Incredible Plastic Clock, Description: Incredible Plastic Clock, Price: 83.28, Stock: 340
+21:18:13.513 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Mediocre Plastic Keyboard, Description: Mediocre Plastic Keyboard, Price: 29.71, Stock: 270

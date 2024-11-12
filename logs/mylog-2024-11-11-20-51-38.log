@@ -1,0 +1,8 @@
+20:51:38.646 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Laverna Upton, email: dane.kiehn@yahoo.com, rol: Manager, address: Apt. 012 0455 O'Hara Station, West Reynaldoville, DE 75427-7189
+20:51:38.646 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Delmer Orn, email: phylicia.lakin@gmail.com, rol: Salesperson, address: 6159 Johnson Isle, Beattyport, MN 18488-8701
+20:51:38.646 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Karleen Wolf, email: emmaline.rodriguez@yahoo.com, rol: Salesperson, address: 960 Gerlach Knoll, East Kimberly, MA 41734
+20:51:38.646 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Wilfredo Pouros DVM, email: stacey.kessler@yahoo.com, rol: Salesperson, address: 4149 Tasia Turnpike, Lakinland, AL 27928
+20:51:38.646 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Wilfredo MacGyver, email: waldo.herzog@hotmail.com, rol: Administrator, address: 26262 Tyson Station, Tysonberg, LA 90322-8681
+20:51:38.677 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Synergistic Linen Knife, Description: Synergistic Linen Knife, Price: 64.03, Stock: 318
+20:51:38.677 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Enormous Marble Shirt, Description: Enormous Marble Shirt, Price: 80.4, Stock: 62
+20:51:38.677 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Heavy Duty Concrete Gloves, Description: Heavy Duty Concrete Gloves, Price: 51.88, Stock: 120

@@ -1,0 +1,8 @@
+19:40:31.880 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Penney Hintz, email: benton.jacobi@yahoo.com, rol: Administrator, address: 39503 Darren Divide, East Brainberg, WI 54391
+19:40:31.880 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Arlen Barton DVM, email: darron.kuhlman@hotmail.com, rol: Salesperson, address: Suite 497 034 Laureen Field, New Marcelo, VA 97425
+19:40:31.880 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Lilia Parker, email: errol.monahan@hotmail.com, rol: Administrator, address: 7807 Schimmel Route, West Lanaton, OK 69272
+19:40:31.880 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Theo Gulgowski, email: trish.leannon@hotmail.com, rol: Administrator, address: 619 Pouros Roads, Bernierstad, CO 40767-3410
+19:40:31.896 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Man Doyle, email: vanda.ankunding@gmail.com, rol: Manager, address: Apt. 082 462 Joline Skyway, Monahanfurt, LA 89328
+19:40:31.912 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Lightweight Granite Lamp, Description: Lightweight Granite Lamp, Price: 79.31, Stock: 29
+19:40:31.912 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Aerodynamic Marble Keyboard, Description: Aerodynamic Marble Keyboard, Price: 30.14, Stock: 175
+19:40:31.912 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Heavy Duty Cotton Wallet, Description: Heavy Duty Cotton Wallet, Price: 67.94, Stock: 109

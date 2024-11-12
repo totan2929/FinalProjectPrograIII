@@ -1,0 +1,8 @@
+19:19:46.112 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Mardell Stamm DVM, email: efrain.gislason@hotmail.com, rol: Administrator, address: 363 Reichel Stravenue, South Jarvis, OK 70390
+19:19:46.112 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Zachariah Tremblay MD, email: alesha.wiegand@hotmail.com, rol: Administrator, address: 350 Balistreri Flat, Nicolleburgh, OK 50649
+19:19:46.112 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Nicky Wilderman, email: archie.gerlach@gmail.com, rol: Salesperson, address: Suite 941 55594 Daugherty Shores, Port Ariannahaven, WY 34191
+19:19:46.128 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Homer Nitzsche, email: whitney.powlowski@yahoo.com, rol: Administrator, address: Apt. 916 68319 Jamar Walks, Port Dirkside, UT 40140-0884
+19:19:46.128 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Emile Koelpin, email: edie.olson@gmail.com, rol: Salesperson, address: 5233 Eldridge Trail, North Wilfredo, PA 39039-7628
+19:19:46.144 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Durable Bronze Plate, Description: Durable Bronze Plate, Price: 78.77, Stock: 411
+19:19:46.144 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Awesome Copper Chair, Description: Awesome Copper Chair, Price: 51.79, Stock: 30
+19:19:46.144 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Small Rubber Knife, Description: Small Rubber Knife, Price: 24.1, Stock: 180

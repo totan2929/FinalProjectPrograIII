@@ -1,0 +1,8 @@
+20:59:09.018 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Walter Schinner, email: pattie.west@yahoo.com, rol: Administrator, address: 14577 Okuneva Rapids, Klockoberg, NJ 29250-8110
+20:59:09.034 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Ms. Lucio Stokes, email: arline.kihn@yahoo.com, rol: Salesperson, address: Apt. 405 91168 Bernhard Brooks, New Anthonyfurt, SC 09948-0687
+20:59:09.035 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Ms. Carrol Schulist, email: lucile.daniel@hotmail.com, rol: Administrator, address: Apt. 846 16636 Ja Villages, Jonathonfort, KS 63129
+20:59:09.035 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Donnie Ebert, email: ashley.trantow@yahoo.com, rol: Administrator, address: Suite 948 70703 Everett Station, Ankundingland, CA 93986
+20:59:09.041 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Manuel Steuber, email: lynsey.schaefer@yahoo.com, rol: Manager, address: 6536 Abbott River, North Dion, NJ 52287
+20:59:09.068 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Enormous Paper Plate, Description: Enormous Paper Plate, Price: 18.55, Stock: 183
+20:59:09.068 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Gorgeous Iron Knife, Description: Gorgeous Iron Knife, Price: 51.92, Stock: 197
+20:59:09.068 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Intelligent Aluminum Wallet, Description: Intelligent Aluminum Wallet, Price: 35.71, Stock: 86

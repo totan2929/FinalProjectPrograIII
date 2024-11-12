@@ -1,0 +1,9 @@
+15:42:43.273 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Avelina Abernathy, email: eduardo.reilly@yahoo.com, rol: Manager, address: Apt. 363 27092 Granville Flats, Bergnaumtown, AZ 04603-0312
+15:42:43.273 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Tabatha Marquardt, email: dannielle.reynolds@hotmail.com, rol: Administrator, address: 206 Danny Fields, Russelshire, UT 35432
+15:42:43.273 [main] INFO  org.ciaf.user.UserGenerator - User generated: Britt Oberbrunner, email: rudolf.wiegand@hotmail.com, rol: Administrator, address: Suite 311 8419 Chance Curve, Larsonmouth, CA 76109
+15:42:43.273 [main] INFO  org.ciaf.user.UserGenerator - User generated: Brandie Schneider PhD, email: emogene.paucek@yahoo.com, rol: Salesperson, address: Apt. 169 2885 Antonio Unions, Morissetteshire, RI 88037-3567
+15:42:43.273 [main] INFO  org.ciaf.user.UserGenerator - User generated: Elsie Stroman II, email: robert.herman@gmail.com, rol: Salesperson, address: 4807 Schultz Place, West Quinn, NY 79688-0791
+15:42:43.304 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Lightweight Wool Bench, Description: Lightweight Wool Bench, Price: 30.22, Stock: 84
+15:42:43.304 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Ergonomic Concrete Table, Description: Ergonomic Concrete Table, Price: 16.93, Stock: 345
+15:42:43.304 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Sleek Steel Table, Description: Sleek Steel Table, Price: 54.72, Stock: 332
+15:42:43.336 [main] INFO  org.ciaf.client.ClientGenerator - Client generated: , name: Oren Nitzsche, email: cris.luettgen@hotmail.com

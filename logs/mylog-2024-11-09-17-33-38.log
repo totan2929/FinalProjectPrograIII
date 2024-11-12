@@ -1,0 +1,40 @@
+17:33:38.544 [main] INFO  org.ciaf.user.UserGenerator - User generated: Nia Schultz, email: keturah.daniel@yahoo.com, rol: salesperson
+17:33:38.550 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ira Swift, email: albertha.pagac@hotmail.com, rol: salesperson
+17:33:38.551 [main] INFO  org.ciaf.user.UserGenerator - User generated: Maria Fisher, email: jonathan.thiel@yahoo.com, rol: salesperson
+17:33:38.554 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Kera Littel, email: norbert.bailey@hotmail.com, rol: salesperson
+17:33:38.556 [main] INFO  org.ciaf.user.UserGenerator - User generated: Broderick Barrows, email: opal.conroy@gmail.com, rol: salesperson
+17:33:38.558 [main] INFO  org.ciaf.user.UserGenerator - User generated: Terina Nienow, email: elisha.thiel@yahoo.com, rol: salesperson
+17:33:38.560 [main] INFO  org.ciaf.user.UserGenerator - User generated: Benjamin Armstrong, email: pedro.bosco@hotmail.com, rol: salesperson
+17:33:38.561 [main] INFO  org.ciaf.user.UserGenerator - User generated: Paris Pouros, email: chung.hodkiewicz@gmail.com, rol: salesperson
+17:33:38.562 [main] INFO  org.ciaf.user.UserGenerator - User generated: Bethel Ebert, email: malcolm.weber@gmail.com, rol: salesperson
+17:33:38.564 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. David Kautzer, email: lionel.padberg@hotmail.com, rol: salesperson
+17:33:38.565 [main] INFO  org.ciaf.user.UserGenerator - User generated: Cheryll Cummings Sr., email: autumn.corwin@gmail.com, rol: salesperson
+17:33:38.566 [main] INFO  org.ciaf.user.UserGenerator - User generated: Emerita Ritchie, email: marshall.jakubowski@yahoo.com, rol: salesperson
+17:33:38.567 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Leonarda Kovacek, email: sydney.leannon@hotmail.com, rol: salesperson
+17:33:38.568 [main] INFO  org.ciaf.user.UserGenerator - User generated: Carol Fritsch II, email: sterling.schamberger@gmail.com, rol: salesperson
+17:33:38.569 [main] INFO  org.ciaf.user.UserGenerator - User generated: Curt Jast, email: dean.becker@yahoo.com, rol: salesperson
+17:33:38.574 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lera Daugherty, email: roberto.goldner@gmail.com, rol: salesperson
+17:33:38.575 [main] INFO  org.ciaf.user.UserGenerator - User generated: Janey Batz, email: emilie.treutel@hotmail.com, rol: salesperson
+17:33:38.576 [main] INFO  org.ciaf.user.UserGenerator - User generated: Romona Mraz DVM, email: daren.smitham@hotmail.com, rol: salesperson
+17:33:38.581 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Deborah Stehr, email: nanci.hodkiewicz@gmail.com, rol: salesperson
+17:33:38.584 [main] INFO  org.ciaf.user.UserGenerator - User generated: Hee Frami, email: bill.wehner@hotmail.com, rol: salesperson
+17:33:38.604 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Mediocre Concrete Shoes, Price:927.31
+17:33:38.605 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Synergistic Marble Car, Price:483.14
+17:33:38.605 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Heavy Duty Bronze Bench, Price:181.74
+17:33:38.605 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Practical Concrete Shoes, Price:27.01
+17:33:38.605 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Lightweight Steel Car, Price:271.69
+17:33:38.606 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Practical Concrete Shoes, Price:205.92
+17:33:38.606 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Ergonomic Plastic Wallet, Price:97.94
+17:33:38.606 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Rustic Rubber Table, Price:236.99
+17:33:38.608 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Durable Linen Bottle, Price:483.37
+17:33:38.608 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Ergonomic Cotton Plate, Price:722.78
+17:33:38.608 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Awesome Marble Wallet, Price:869.26
+17:33:38.608 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Linen Knife, Price:113.27
+17:33:38.609 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Mediocre Bronze Shirt, Price:635.99
+17:33:38.609 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Ergonomic Linen Knife, Price:982.8
+17:33:38.609 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Intelligent Granite Shirt, Price:486.91
+17:33:38.610 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Mediocre Copper Shoes, Price:330.91
+17:33:38.610 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Lightweight Aluminum Plate, Price:616.27
+17:33:38.610 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Lightweight Granite Lamp, Price:854.75
+17:33:38.611 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Sleek Silk Table, Price:270.48
+17:33:38.611 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Cotton Gloves, Price:802.34

@@ -1,0 +1,8 @@
+19:57:45.894 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Miss Columbus Zemlak, email: roxy.bednar@gmail.com, rol: Manager, address: 96456 Jc Trace, Kunzechester, DE 35422-5020
+19:57:45.894 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Isaac Hoeger, email: florencio.bogan@gmail.com, rol: Salesperson, address: Apt. 190 44873 Hand Village, Marquittafort, SD 85373
+19:57:45.894 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Mr. Tamekia Schiller, email: leif.osinski@gmail.com, rol: Salesperson, address: Suite 261 25250 Dominick Lock, Lake Jacobton, AK 93732
+19:57:45.894 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Levi Erdman, email: christian.predovic@gmail.com, rol: Administrator, address: 1653 Zaida Orchard, Luveniaside, NV 22572-3584
+19:57:45.894 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Sherrell Bergnaum, email: odis.ullrich@yahoo.com, rol: Administrator, address: Suite 952 165 Charis Park, East Mirthastad, RI 64437
+19:57:45.935 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Rustic Paper Keyboard, Description: Rustic Paper Keyboard, Price: 46.84, Stock: 387
+19:57:45.935 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Mediocre Linen Hat, Description: Mediocre Linen Hat, Price: 23.97, Stock: 73
+19:57:45.935 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Sleek Steel Knife, Description: Sleek Steel Knife, Price: 16.32, Stock: 475

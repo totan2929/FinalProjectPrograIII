@@ -1,0 +1,8 @@
+19:13:38.798 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Miss Dusty Parisian, email: mickey.bechtelar@yahoo.com, rol: Administrator, address: Suite 740 51773 Cormier Lane, Dickiville, IA 30747-0063
+19:13:38.798 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Bradley Kohler, email: lanita.erdman@gmail.com, rol: Salesperson, address: Apt. 041 9334 Daugherty Rapid, Brittside, FL 85136-8104
+19:13:38.798 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Ms. Genaro Lakin, email: kerry.leannon@yahoo.com, rol: Salesperson, address: Apt. 643 9918 Delmer Corners, West Johnnietown, MN 40461
+19:13:38.798 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Robena DuBuque, email: celestine.hyatt@gmail.com, rol: Manager, address: 83243 Yuk Ridge, South Thurmanborough, AK 43528
+19:13:38.798 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Dr. Antoine Fahey, email: emanuel.hodkiewicz@hotmail.com, rol: Manager, address: 96151 Rath Place, Reynaberg, MA 52097-4955
+19:13:38.829 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Practical Iron Chair, Description: Practical Iron Chair, Price: 86.62, Stock: 302
+19:13:38.835 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Enormous Silk Chair, Description: Enormous Silk Chair, Price: 89.34, Stock: 401
+19:13:38.835 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Rustic Steel Hat, Description: Rustic Steel Hat, Price: 81.87, Stock: 107

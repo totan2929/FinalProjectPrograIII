@@ -1,0 +1,8 @@
+15:30:06.215 [main] INFO  org.ciaf.user.UserGenerator - User generated: Michaele Bernier, email: dion.watsica@hotmail.com, rol: Salesperson, address: 1139 Becker Plaza, Wisozkport, PA 79199-5694
+15:30:06.215 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Irwin Spencer, email: jacob.gorczany@yahoo.com, rol: Salesperson, address: 004 Jazmin Flats, Port Shannonbury, KY 26839-6031
+15:30:06.215 [main] INFO  org.ciaf.user.UserGenerator - User generated: Halley Abernathy, email: hayden.grant@gmail.com, rol: Administrator, address: 2875 Pedro Harbor, Lake Young, MO 98580-0743
+15:30:06.236 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Blaine Jerde, email: lucas.daniel@gmail.com, rol: Salesperson, address: 632 Christiane Pike, Lake Berta, NE 05582
+15:30:06.236 [main] INFO  org.ciaf.user.UserGenerator - User generated: Delena Wuckert, email: cheree.runte@gmail.com, rol: Salesperson, address: 41347 Veum Lights, Lynchshire, NE 60039-2865
+15:30:06.263 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Ergonomic Wool Keyboard, Description: Ergonomic Wool Keyboard, Price: 90.33, Stock: 436
+15:30:06.263 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Mediocre Copper Computer, Description: Mediocre Copper Computer, Price: 84.96, Stock: 462
+15:30:06.263 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Rustic Plastic Chair, Description: Rustic Plastic Chair, Price: 24.14, Stock: 104

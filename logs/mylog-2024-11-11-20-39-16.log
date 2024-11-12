@@ -1,0 +1,8 @@
+20:39:16.541 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Elmo Kuhlman, email: elwood.kub@gmail.com, rol: Administrator, address: 534 Turner Forge, Wisozkmouth, IA 38616-2764
+20:39:16.557 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Kelley Kohler, email: porter.ullrich@gmail.com, rol: Salesperson, address: Suite 458 787 Seymour Estate, Mirellastad, OH 54635-1567
+20:39:16.557 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Pearlene Harris, email: bud.gislason@gmail.com, rol: Manager, address: Suite 822 402 Dicki Via, Donniemouth, ID 59923
+20:39:16.557 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Lamar Adams, email: mitchell.marks@gmail.com, rol: Manager, address: Suite 476 55345 Theron Points, Lake Houstonchester, SD 43358-3334
+20:39:16.557 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Miss Candace Sawayn, email: billy.zulauf@yahoo.com, rol: Administrator, address: Suite 700 305 Bennie Rapid, New Cinthiatown, NV 32853-2385
+20:39:16.573 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Fantastic Granite Shirt, Description: Fantastic Granite Shirt, Price: 42.03, Stock: 451
+20:39:16.573 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Aerodynamic Cotton Table, Description: Aerodynamic Cotton Table, Price: 28.66, Stock: 389
+20:39:16.588 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Heavy Duty Marble Hat, Description: Heavy Duty Marble Hat, Price: 91.59, Stock: 477

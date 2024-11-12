@@ -1,0 +1,40 @@
+17:38:41.188 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Damion Mann, email: sharda.hegmann@hotmail.com, rol: salesperson
+17:38:41.191 [main] INFO  org.ciaf.user.UserGenerator - User generated: Anderson Zemlak III, email: shanna.crooks@gmail.com, rol: salesperson
+17:38:41.192 [main] INFO  org.ciaf.user.UserGenerator - User generated: Starla Schuppe, email: darin.fadel@yahoo.com, rol: salesperson
+17:38:41.194 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ivonne Luettgen, email: angel.jast@yahoo.com, rol: salesperson
+17:38:41.195 [main] INFO  org.ciaf.user.UserGenerator - User generated: Moses Abbott, email: myles.willms@yahoo.com, rol: salesperson
+17:38:41.196 [main] INFO  org.ciaf.user.UserGenerator - User generated: Alphonse Pfeffer, email: pearlene.purdy@yahoo.com, rol: salesperson
+17:38:41.198 [main] INFO  org.ciaf.user.UserGenerator - User generated: Brady Doyle, email: milagro.jacobs@hotmail.com, rol: salesperson
+17:38:41.199 [main] INFO  org.ciaf.user.UserGenerator - User generated: Norris Hirthe DVM, email: bobbi.schoen@gmail.com, rol: salesperson
+17:38:41.202 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dewayne Zulauf DDS, email: mariano.bogisich@yahoo.com, rol: salesperson
+17:38:41.203 [main] INFO  org.ciaf.user.UserGenerator - User generated: Chara Leannon, email: oralia.bins@hotmail.com, rol: salesperson
+17:38:41.204 [main] INFO  org.ciaf.user.UserGenerator - User generated: Royce Stehr, email: ralph.hamill@gmail.com, rol: salesperson
+17:38:41.205 [main] INFO  org.ciaf.user.UserGenerator - User generated: Derrick Russel, email: ted.mohr@hotmail.com, rol: salesperson
+17:38:41.206 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Armando Ward, email: reynaldo.douglas@gmail.com, rol: salesperson
+17:38:41.207 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lavone Tillman DDS, email: leif.abernathy@hotmail.com, rol: salesperson
+17:38:41.209 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dovie Collins DDS, email: elvera.schaefer@yahoo.com, rol: salesperson
+17:38:41.218 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Jen Beahan, email: neville.mccullough@hotmail.com, rol: salesperson
+17:38:41.219 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Kim Senger, email: sharie.mann@yahoo.com, rol: salesperson
+17:38:41.219 [main] INFO  org.ciaf.user.UserGenerator - User generated: Judie Nader, email: jc.prosacco@yahoo.com, rol: salesperson
+17:38:41.220 [main] INFO  org.ciaf.user.UserGenerator - User generated: Colton Glover, email: clair.mosciski@hotmail.com, rol: salesperson
+17:38:41.221 [main] INFO  org.ciaf.user.UserGenerator - User generated: Saran Reichel, email: golden.runte@gmail.com, rol: salesperson
+17:38:41.242 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Lightweight Cotton Watch, Price:446.7
+17:38:41.244 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Durable Silk Wallet, Price:327.71
+17:38:41.244 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Intelligent Linen Bottle, Price:847.14
+17:38:41.244 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Plastic Pants, Price:638.78
+17:38:41.244 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Gorgeous Copper Gloves, Price:433.44
+17:38:41.245 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Sleek Aluminum Coat, Price:473.91
+17:38:41.245 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Aerodynamic Wooden Lamp, Price:205.84
+17:38:41.245 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Fantastic Aluminum Clock, Price:381.76
+17:38:41.245 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Mediocre Wool Bag, Price:485.98
+17:38:41.246 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Awesome Plastic Plate, Price:424.75
+17:38:41.246 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Heavy Duty Cotton Keyboard, Price:110.37
+17:38:41.246 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Sleek Steel Wallet, Price:833.61
+17:38:41.246 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Practical Copper Wallet, Price:19.11
+17:38:41.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Incredible Concrete Table, Price:203.04
+17:38:41.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Awesome Linen Car, Price:913.05
+17:38:41.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Plastic Coat, Price:95.55
+17:38:41.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Mediocre Steel Shirt, Price:14.04
+17:38:41.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Practical Steel Plate, Price:465.86
+17:38:41.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Wooden Coat, Price:482.8
+17:38:41.248 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Synergistic Steel Car, Price:948.78

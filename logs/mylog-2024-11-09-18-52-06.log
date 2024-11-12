@@ -1,0 +1,40 @@
+18:52:07.192 [main] INFO  org.ciaf.user.UserGenerator - User generated: Marvis Zulauf, email: rufus.jacobs@gmail.com, rol: salesperson
+18:52:07.208 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Rachel Zieme, email: diamond.kassulke@yahoo.com, rol: salesperson
+18:52:07.208 [main] INFO  org.ciaf.user.UserGenerator - User generated: Madelene Bernier, email: jewell.veum@gmail.com, rol: salesperson
+18:52:07.208 [main] INFO  org.ciaf.user.UserGenerator - User generated: Tiera Zemlak, email: danyell.rohan@gmail.com, rol: salesperson
+18:52:07.208 [main] INFO  org.ciaf.user.UserGenerator - User generated: Gus Shields II, email: caleb.cummerata@yahoo.com, rol: salesperson
+18:52:07.208 [main] INFO  org.ciaf.user.UserGenerator - User generated: Wilson Little, email: kurtis.terry@gmail.com, rol: salesperson
+18:52:07.208 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Carlota Fadel, email: taisha.ziemann@yahoo.com, rol: salesperson
+18:52:07.224 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dewey Stroman, email: solomon.bartoletti@gmail.com, rol: salesperson
+18:52:07.224 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jody Shields DDS, email: cori.pouros@gmail.com, rol: salesperson
+18:52:07.224 [main] INFO  org.ciaf.user.UserGenerator - User generated: Wilbert Weimann, email: benny.kihn@yahoo.com, rol: salesperson
+18:52:07.224 [main] INFO  org.ciaf.user.UserGenerator - User generated: Wallace McDermott, email: gerardo.mayert@yahoo.com, rol: salesperson
+18:52:07.224 [main] INFO  org.ciaf.user.UserGenerator - User generated: Donnell Crooks, email: randal.wilderman@gmail.com, rol: salesperson
+18:52:07.224 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Isaac Hickle, email: fletcher.torphy@hotmail.com, rol: salesperson
+18:52:07.224 [main] INFO  org.ciaf.user.UserGenerator - User generated: Colleen Hand, email: earl.senger@hotmail.com, rol: salesperson
+18:52:07.224 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Felix Hudson, email: emilee.deckow@hotmail.com, rol: salesperson
+18:52:07.242 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miquel Gleason, email: joyce.terry@hotmail.com, rol: salesperson
+18:52:07.242 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Dominique Brekke, email: cory.abbott@hotmail.com, rol: salesperson
+18:52:07.242 [main] INFO  org.ciaf.user.UserGenerator - User generated: Carolann Glover, email: gaylord.crooks@yahoo.com, rol: salesperson
+18:52:07.242 [main] INFO  org.ciaf.user.UserGenerator - User generated: Gerard Kessler, email: morton.hessel@yahoo.com, rol: salesperson
+18:52:07.242 [main] INFO  org.ciaf.user.UserGenerator - User generated: Flossie Schmidt, email: soila.hayes@yahoo.com, rol: salesperson
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 0, Name: Fantastic Silk Plate, Description: Fantastic Silk Plate, Price: 963.66, Stock: 365
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Enormous Plastic Computer, Description: Enormous Plastic Computer, Price: 522.81, Stock: 440
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Sleek Leather Bag, Description: Sleek Leather Bag, Price: 125.49, Stock: 31
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Lightweight Copper Bench, Description: Lightweight Copper Bench, Price: 633.29, Stock: 395
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name: Fantastic Aluminum Hat, Description: Fantastic Aluminum Hat, Price: 270.08, Stock: 404
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name: Intelligent Marble Shirt, Description: Intelligent Marble Shirt, Price: 754.9, Stock: 278
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name: Mediocre Wool Table, Description: Mediocre Wool Table, Price: 257.62, Stock: 333
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name: Aerodynamic Linen Knife, Description: Aerodynamic Linen Knife, Price: 638.98, Stock: 423
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name: Fantastic Leather Shirt, Description: Fantastic Leather Shirt, Price: 108.19, Stock: 289
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name: Mediocre Plastic Knife, Description: Mediocre Plastic Knife, Price: 80.42, Stock: 311
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name: Awesome Concrete Bench, Description: Awesome Concrete Bench, Price: 832.5, Stock: 93
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name: Enormous Concrete Knife, Description: Enormous Concrete Knife, Price: 333.67, Stock: 17
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name: Fantastic Aluminum Knife, Description: Fantastic Aluminum Knife, Price: 733.11, Stock: 433
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name: Lightweight Bronze Computer, Description: Lightweight Bronze Computer, Price: 242.6, Stock: 467
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name: Small Marble Table, Description: Small Marble Table, Price: 216.79, Stock: 464
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name: Lightweight Leather Shoes, Description: Lightweight Leather Shoes, Price: 306.86, Stock: 60
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name: Awesome Cotton Plate, Description: Awesome Cotton Plate, Price: 708.86, Stock: 128
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name: Sleek Leather Shoes, Description: Sleek Leather Shoes, Price: 508.59, Stock: 405
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name: Lightweight Cotton Bench, Description: Lightweight Cotton Bench, Price: 466.37, Stock: 54
+18:52:07.302 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name: Intelligent Rubber Gloves, Description: Intelligent Rubber Gloves, Price: 471.57, Stock: 415

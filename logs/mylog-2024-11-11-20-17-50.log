@@ -1,0 +1,8 @@
+20:17:50.244 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Delmar Windler, email: annett.gerhold@hotmail.com, rol: Administrator, address: Suite 771 22006 Feil Centers, New Pedro, UT 66106
+20:17:50.244 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Kevin Towne, email: dorthea.klocko@hotmail.com, rol: Manager, address: Apt. 795 770 Lindsay Forest, Inocencialand, AL 38371-9427
+20:17:50.244 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Maximo Runolfsson, email: dorsey.towne@hotmail.com, rol: Administrator, address: 055 Hirthe Center, Rodneychester, KY 10519-3518
+20:17:50.259 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Valene McClure, email: norah.luettgen@gmail.com, rol: Salesperson, address: Apt. 579 8127 Justa Port, Vickieview, AZ 14522-9709
+20:17:50.259 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Lewis Howe, email: shalonda.watsica@hotmail.com, rol: Salesperson, address: 1249 Welch Branch, Lednerview, PA 64807-3729
+20:17:50.291 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Heavy Duty Aluminum Chair, Description: Heavy Duty Aluminum Chair, Price: 56.87, Stock: 307
+20:17:50.291 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Incredible Iron Bag, Description: Incredible Iron Bag, Price: 49.59, Stock: 303
+20:17:50.291 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Gorgeous Concrete Shoes, Description: Gorgeous Concrete Shoes, Price: 35.84, Stock: 110

@@ -1,0 +1,8 @@
+21:00:53.577 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Mrs. Lindsay Wintheiser, email: alvaro.greenfelder@yahoo.com, rol: Salesperson, address: 5751 Kristyn Landing, Loweside, OH 85113-8589
+21:00:53.577 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Mrs. Tosha Boyer, email: alvaro.hessel@gmail.com, rol: Manager, address: 21452 Bayer Tunnel, Lilaport, NM 60120-0039
+21:00:53.593 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Dr. Heriberto Lakin, email: janine.labadie@gmail.com, rol: Administrator, address: 10951 Dewey Mission, South Zack, MS 40604-8086
+21:00:53.593 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Hong Murphy, email: amparo.hessel@gmail.com, rol: Salesperson, address: 396 Don Skyway, Handchester, WY 60882
+21:00:53.593 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Tad Hilll, email: aubrey.langworth@yahoo.com, rol: Salesperson, address: Apt. 397 6406 Kermit Pine, Lake Garrettmouth, MI 55994-6090
+21:00:53.612 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Practical Plastic Pants, Description: Practical Plastic Pants, Price: 47.71, Stock: 28
+21:00:53.612 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Sleek Marble Clock, Description: Sleek Marble Clock, Price: 15.21, Stock: 164
+21:00:53.612 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Mediocre Cotton Knife, Description: Mediocre Cotton Knife, Price: 29.36, Stock: 382

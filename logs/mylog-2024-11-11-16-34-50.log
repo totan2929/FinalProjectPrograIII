@@ -1,0 +1,8 @@
+16:34:50.257 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Trenton Medhurst, email: halley.koch@gmail.com, rol: Administrator, address: Apt. 207 018 Berge Throughway, South Alphonso, ND 15241
+16:34:50.272 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Edwin Stokes V, email: elton.altenwerth@gmail.com, rol: Manager, address: 7084 Howell Circle, Lake Theda, MI 51984
+16:34:50.272 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Michele Greenfelder V, email: an.feest@hotmail.com, rol: Salesperson, address: 55444 Juliann Road, South Brockside, SD 15878
+16:34:50.272 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Dr. Ranee Bosco, email: isaiah.johnston@yahoo.com, rol: Manager, address: Apt. 328 5989 Kyle Course, VonRuedenberg, WA 59891
+16:34:50.272 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Tommie Lueilwitz, email: winfred.kiehn@hotmail.com, rol: Salesperson, address: Apt. 132 636 Percy Point, Lake Orlandoshire, NJ 75480
+16:34:50.305 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Durable Bronze Shoes, Description: Durable Bronze Shoes, Price: 81.17, Stock: 123
+16:34:50.305 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Small Wool Chair, Description: Small Wool Chair, Price: 47.22, Stock: 419
+16:34:50.305 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Practical Cotton Gloves, Description: Practical Cotton Gloves, Price: 27.1, Stock: 85

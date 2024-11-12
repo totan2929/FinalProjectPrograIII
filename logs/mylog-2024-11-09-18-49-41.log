@@ -1,0 +1,40 @@
+18:49:42.597 [main] INFO  org.ciaf.user.UserGenerator - User generated: Shannon Goyette, email: gaston.goldner@hotmail.com, rol: salesperson
+18:49:42.617 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Andrew McKenzie, email: loree.harber@yahoo.com, rol: salesperson
+18:49:42.627 [main] INFO  org.ciaf.user.UserGenerator - User generated: Kerry Trantow, email: houston.hintz@gmail.com, rol: salesperson
+18:49:42.632 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Jessie Conn, email: patricia.ferry@yahoo.com, rol: salesperson
+18:49:42.639 [main] INFO  org.ciaf.user.UserGenerator - User generated: Aron Morar, email: berniece.hagenes@hotmail.com, rol: salesperson
+18:49:42.644 [main] INFO  org.ciaf.user.UserGenerator - User generated: Sarai Mills, email: anamaria.halvorson@hotmail.com, rol: salesperson
+18:49:42.647 [main] INFO  org.ciaf.user.UserGenerator - User generated: Trisha Schulist Sr., email: herman.becker@gmail.com, rol: salesperson
+18:49:42.654 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Rosario Hegmann, email: sharmaine.sipes@yahoo.com, rol: salesperson
+18:49:42.657 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mose Gleason, email: thea.hessel@hotmail.com, rol: salesperson
+18:49:42.663 [main] INFO  org.ciaf.user.UserGenerator - User generated: Eula Borer, email: wava.terry@hotmail.com, rol: salesperson
+18:49:42.672 [main] INFO  org.ciaf.user.UserGenerator - User generated: Laverne Schinner, email: christine.glover@yahoo.com, rol: salesperson
+18:49:42.675 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jamar Grant, email: crystal.king@yahoo.com, rol: salesperson
+18:49:42.677 [main] INFO  org.ciaf.user.UserGenerator - User generated: Eufemia Kunze, email: dong.spencer@hotmail.com, rol: salesperson
+18:49:42.680 [main] INFO  org.ciaf.user.UserGenerator - User generated: Marvin Frami, email: ike.will@hotmail.com, rol: salesperson
+18:49:42.682 [main] INFO  org.ciaf.user.UserGenerator - User generated: Bud Schmidt, email: sigrid.jones@gmail.com, rol: salesperson
+18:49:42.698 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Isabell Stokes, email: josh.lang@yahoo.com, rol: salesperson
+18:49:42.701 [main] INFO  org.ciaf.user.UserGenerator - User generated: Larhonda Durgan Sr., email: elmo.welch@hotmail.com, rol: salesperson
+18:49:42.704 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jaimie Stanton, email: crystal.wyman@hotmail.com, rol: salesperson
+18:49:42.713 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Reuben Zulauf, email: chloe.kling@gmail.com, rol: salesperson
+18:49:42.719 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lyndsey Koepp, email: joyce.jacobs@yahoo.com, rol: salesperson
+18:49:42.801 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 0, Name: Awesome Paper Lamp, Description: Awesome Paper Lamp, Price: 930.91, Stock: 267
+18:49:42.802 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Fantastic Wool Wallet, Description: Fantastic Wool Wallet, Price: 340.98, Stock: 116
+18:49:42.802 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Heavy Duty Steel Lamp, Description: Heavy Duty Steel Lamp, Price: 881.3, Stock: 423
+18:49:42.803 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Gorgeous Copper Car, Description: Gorgeous Copper Car, Price: 582.87, Stock: 189
+18:49:42.804 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name: Rustic Cotton Knife, Description: Rustic Cotton Knife, Price: 127.6, Stock: 155
+18:49:42.805 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name: Small Plastic Shirt, Description: Small Plastic Shirt, Price: 373.09, Stock: 45
+18:49:42.806 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name: Heavy Duty Wool Watch, Description: Heavy Duty Wool Watch, Price: 597.94, Stock: 16
+18:49:42.806 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name: Heavy Duty Aluminum Shoes, Description: Heavy Duty Aluminum Shoes, Price: 771.08, Stock: 472
+18:49:42.807 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name: Heavy Duty Wool Wallet, Description: Heavy Duty Wool Wallet, Price: 274.56, Stock: 394
+18:49:42.807 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name: Rustic Wooden Keyboard, Description: Rustic Wooden Keyboard, Price: 64.75, Stock: 112
+18:49:42.808 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name: Small Silk Table, Description: Small Silk Table, Price: 663.37, Stock: 22
+18:49:42.809 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name: Durable Bronze Lamp, Description: Durable Bronze Lamp, Price: 383.39, Stock: 19
+18:49:42.810 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name: Small Linen Plate, Description: Small Linen Plate, Price: 930.45, Stock: 179
+18:49:42.811 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name: Sleek Aluminum Bench, Description: Sleek Aluminum Bench, Price: 505.52, Stock: 4
+18:49:42.812 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name: Ergonomic Granite Keyboard, Description: Ergonomic Granite Keyboard, Price: 871.36, Stock: 475
+18:49:42.814 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name: Mediocre Cotton Pants, Description: Mediocre Cotton Pants, Price: 603.5, Stock: 487
+18:49:42.815 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name: Heavy Duty Leather Bottle, Description: Heavy Duty Leather Bottle, Price: 835.31, Stock: 175
+18:49:42.815 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name: Lightweight Granite Coat, Description: Lightweight Granite Coat, Price: 89.38, Stock: 376
+18:49:42.816 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name: Rustic Wool Chair, Description: Rustic Wool Chair, Price: 652.97, Stock: 271
+18:49:42.816 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name: Lightweight Leather Lamp, Description: Lightweight Leather Lamp, Price: 64.49, Stock: 314

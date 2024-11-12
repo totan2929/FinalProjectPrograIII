@@ -1,0 +1,8 @@
+16:23:36.216 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Lucila Kerluke MD, email: wilton.schiller@yahoo.com, rol: Administrator, address: Suite 197 047 McCullough Road, Metzmouth, NH 49279-3905
+16:23:36.232 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Dinah Lynch, email: jaclyn.bechtelar@gmail.com, rol: Administrator, address: Suite 060 581 Collier Inlet, Lake Gabrielemouth, GA 54993-1389
+16:23:36.232 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Saundra Jast IV, email: hilton.stracke@hotmail.com, rol: Salesperson, address: Apt. 231 260 Rudolph Land, Goyetteburgh, MS 27617-5654
+16:23:36.232 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Sommer Murazik, email: buck.grady@gmail.com, rol: Salesperson, address: Suite 535 36589 Dario Harbors, Marciatown, ND 38244-0027
+16:23:36.232 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Bari Lindgren, email: libby.reichert@gmail.com, rol: Administrator, address: 669 Hilll Forks, West Jacquiebury, OK 04476-4124
+16:23:36.256 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Incredible Rubber Chair, Description: Incredible Rubber Chair, Price: 55.97, Stock: 152
+16:23:36.264 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Enormous Plastic Table, Description: Enormous Plastic Table, Price: 20.38, Stock: 478
+16:23:36.264 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Small Granite Chair, Description: Small Granite Chair, Price: 41.76, Stock: 158

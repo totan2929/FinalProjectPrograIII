@@ -1,0 +1,8 @@
+20:31:09.127 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Wanda Wisozk Sr., email: lory.hane@yahoo.com, rol: Administrator, address: Suite 906 80588 Carey Plaza, North Jerrellberg, AL 82132-0917
+20:31:09.143 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Arianne Littel, email: grover.miller@yahoo.com, rol: Administrator, address: 16790 Santos Well, Port Hollisfurt, IN 70135
+20:31:09.143 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Dot Schowalter, email: lynn.hackett@hotmail.com, rol: Salesperson, address: Apt. 833 4634 Torphy Gardens, Hahnville, NM 28381
+20:31:09.143 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Carlos Romaguera, email: deirdre.larson@hotmail.com, rol: Salesperson, address: 7953 Gibson Valley, Lemkefort, WV 45692-7423
+20:31:09.143 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Hollis Powlowski DVM, email: christine.morissette@yahoo.com, rol: Administrator, address: 854 Monahan Well, New Simonneville, CT 36796
+20:31:09.175 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Rustic Iron Computer, Description: Rustic Iron Computer, Price: 25.43, Stock: 206
+20:31:09.175 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Lightweight Leather Lamp, Description: Lightweight Leather Lamp, Price: 80.45, Stock: 311
+20:31:09.175 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Sleek Wooden Clock, Description: Sleek Wooden Clock, Price: 92.65, Stock: 211

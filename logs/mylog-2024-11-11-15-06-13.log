@@ -1,0 +1,8 @@
+15:06:13.812 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jayna Turcotte, email: delsie.howe@gmail.com, rol: Administrator, address: 59462 King Walk, Dickinsonside, LA 22564-5750
+15:06:13.812 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Cleora Turner, email: lewis.damore@gmail.com, rol: Salesperson, address: Apt. 907 86030 Effie Isle, Towneside, CO 48294
+15:06:13.812 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jacqualine Glover, email: josiah.hahn@hotmail.com, rol: Salesperson, address: 746 Klocko Shoals, Lake Robertomouth, KS 91247
+15:06:13.832 [main] INFO  org.ciaf.user.UserGenerator - User generated: Martin Kihn, email: ali.cassin@yahoo.com, rol: Administrator, address: Suite 845 57233 Antonia Spring, West Jayna, TX 68999
+15:06:13.832 [main] INFO  org.ciaf.user.UserGenerator - User generated: Charolette Grady, email: jan.wisozk@gmail.com, rol: Salesperson, address: 575 Eldon Squares, Homenickland, GA 10744
+15:06:13.860 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Small Marble Keyboard, Description: Small Marble Keyboard, Price: 16.01, Stock: 359
+15:06:13.860 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Small Copper Pants, Description: Small Copper Pants, Price: 49.76, Stock: 421
+15:06:13.860 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Rustic Rubber Gloves, Description: Rustic Rubber Gloves, Price: 53.07, Stock: 303

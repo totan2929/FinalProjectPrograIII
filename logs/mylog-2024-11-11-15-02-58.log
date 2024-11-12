@@ -1,0 +1,23 @@
+15:02:59.062 [main] INFO  org.ciaf.user.UserGenerator - User generated: Markus D'Amore, email: stefanie.koss@yahoo.com, rol: Manager, address: 00221 Parthenia Point, Kuhicport, HI 50564-0851
+15:02:59.062 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Mickey Lynch, email: christoper.halvorson@gmail.com, rol: Administrator, address: 15950 Hermiston Common, Lake Diegomouth, KY 35064-6256
+15:02:59.062 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Kermit Heller, email: florrie.rau@hotmail.com, rol: Manager, address: 429 Levi Locks, Harrisburgh, WI 25100-6473
+15:02:59.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Andre Lakin, email: erin.purdy@yahoo.com, rol: Manager, address: Suite 650 7921 Senger Harbor, Nadineborough, NJ 29126-3206
+15:02:59.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Crystal Adams, email: nicholas.ritchie@yahoo.com, rol: Manager, address: 28566 Benedict Fork, Millardview, CA 60311-6826
+15:02:59.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Monte Little, email: elenor.crooks@hotmail.com, rol: Administrator, address: Apt. 512 09238 Lincoln Highway, Leuschkeshire, ID 99263
+15:02:59.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Carol Johnston, email: douglas.jacobson@gmail.com, rol: Administrator, address: Suite 997 722 Witting Plains, Williamsonmouth, MA 51283-5330
+15:02:59.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Felix Prosacco, email: larita.schumm@hotmail.com, rol: Manager, address: 588 Karin Vista, Emardbury, MO 91149-5453
+15:02:59.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Tiffani Marvin, email: whitney.turner@gmail.com, rol: Manager, address: 597 Dickinson Square, West Marioville, MD 60981-4364
+15:02:59.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Megan Walker, email: erma.klein@gmail.com, rol: Administrator, address: 69175 Chrystal Hollow, North Jeffrey, AL 39272
+15:02:59.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Pedro Windler, email: margherita.raynor@hotmail.com, rol: Administrator, address: 8594 Roberts Lock, Lake Glory, NH 20726-6514
+15:02:59.079 [main] INFO  org.ciaf.user.UserGenerator - User generated: Eli Lindgren, email: garrett.wolff@hotmail.com, rol: Manager, address: Suite 516 922 Schaden Square, East Dulcietown, IA 42678
+15:02:59.093 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Alonso Schmitt, email: terry.gorczany@hotmail.com, rol: Salesperson, address: Suite 867 39974 Mueller Union, Carterburgh, VT 79514-8297
+15:02:59.093 [main] INFO  org.ciaf.user.UserGenerator - User generated: Justina Kuhn, email: frederica.considine@hotmail.com, rol: Manager, address: 68100 Marci Dale, Emardville, DE 60534-8451
+15:02:59.093 [main] INFO  org.ciaf.user.UserGenerator - User generated: Evan Bayer I, email: justa.mraz@yahoo.com, rol: Administrator, address: 093 Cornell Mountain, Port Raul, NY 73382-8109
+15:02:59.093 [main] INFO  org.ciaf.user.UserGenerator - User generated: Len Tillman PhD, email: shawna.klocko@hotmail.com, rol: Manager, address: Apt. 021 08305 Stokes Lake, Donnieport, MD 24451
+15:02:59.093 [main] INFO  org.ciaf.user.UserGenerator - User generated: Janina Effertz IV, email: boyce.hilpert@hotmail.com, rol: Manager, address: Apt. 396 079 Tyrone Lodge, Elliottside, KY 24876-0726
+15:02:59.093 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Jamal Mitchell, email: deon.hyatt@hotmail.com, rol: Salesperson, address: 2658 Rene Gardens, Josefton, ME 36740
+15:02:59.093 [main] INFO  org.ciaf.user.UserGenerator - User generated: Cristobal Haley, email: jerold.kling@yahoo.com, rol: Administrator, address: Apt. 448 975 Schultz Hills, South Ollietown, WV 10480
+15:02:59.093 [main] INFO  org.ciaf.user.UserGenerator - User generated: Elvis Roob Jr., email: emerson.schuster@yahoo.com, rol: Manager, address: Apt. 488 585 Edmund Drives, Considineberg, ME 67395
+15:02:59.125 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Incredible Steel Shirt, Description: Incredible Steel Shirt, Price: 13.5, Stock: 64
+15:02:59.125 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Lightweight Wool Bag, Description: Lightweight Wool Bag, Price: 87.06, Stock: 349
+15:02:59.125 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Fantastic Iron Gloves, Description: Fantastic Iron Gloves, Price: 93.82, Stock: 179

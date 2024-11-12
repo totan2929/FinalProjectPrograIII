@@ -8,22 +8,29 @@ import java.util.List;
 
 public class ProductGenerator {
     private static final Logger logger = LogManager.getLogger(ProductGenerator.class);
-    private static final int NUM_USERS = 20;
+    private static final int NUM_PRODUCTS = 3;
 
-    public static List<Product> generateUsers() {
-        List<Product> products = new ArrayList<>();
+    public static List<Product> generateProducts() {
         Faker faker = new Faker();
+        List<Product> products = new ArrayList<>();
 
-        for (int i = 0; i < NUM_USERS; i++) {
-            String name = faker.commerce().productName();
-            double price = faker.number().randomDouble(2,10,1000);
-            int stock = faker.number().numberBetween(1,500);
 
-            Product product = new Product(i, name, "Description of: " + name, price, stock);
-            products.add(product);
-            logger.info("Product generated: " + name + ", Price:" + price);
+
+        try {
+            for (int i = 0; i < NUM_PRODUCTS; i++) {
+                String name = faker.commerce().productName();
+                String description = faker.lorem().sentence(10);
+                double price = faker.number().randomDouble(2,10,100);
+                int stock = faker.number().numberBetween(1,500);
+
+                Product product = new Product(products.size()+1, name, description, price, stock);
+                products.add(product);
+                logger.info("Product generated: " + ", ID: " + product.getId() + ", Name: " + name +  ", Description: " + name + ", Price: " + price + ", Stock: " + stock);
+            }
+        } catch (Exception e) {
+            logger.error("Error generating the products.", e);
+            throw new RuntimeException("Error generating the products.", e);
         }
-
         return products;
     }
 

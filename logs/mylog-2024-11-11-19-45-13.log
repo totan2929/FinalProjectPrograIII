@@ -1,0 +1,8 @@
+19:45:13.851 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Solange Farrell, email: charley.hansen@gmail.com, rol: Salesperson, address: Suite 629 28183 Hegmann Ville, New Treymouth, VT 94141
+19:45:13.860 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Brande Hettinger, email: nathan.stark@yahoo.com, rol: Administrator, address: 35044 Roma Row, Jeremiahmouth, MT 12012
+19:45:13.860 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Alonzo Bechtelar, email: val.hoppe@gmail.com, rol: Salesperson, address: Suite 019 085 Danika Radial, Fernandaton, LA 83971
+19:45:13.860 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Cornelia O'Reilly, email: long.gibson@gmail.com, rol: Administrator, address: 59104 Olson Cliffs, Davisborough, NV 10248
+19:45:13.860 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Jacinda Ortiz, email: cortez.kuhn@hotmail.com, rol: Manager, address: 720 Ezequiel Prairie, Staceyville, WV 70069-1633
+19:45:13.891 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Mediocre Leather Computer, Description: Mediocre Leather Computer, Price: 57.07, Stock: 223
+19:45:13.891 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Ergonomic Steel Watch, Description: Ergonomic Steel Watch, Price: 28.47, Stock: 80
+19:45:13.891 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Incredible Leather Bench, Description: Incredible Leather Bench, Price: 72.88, Stock: 272

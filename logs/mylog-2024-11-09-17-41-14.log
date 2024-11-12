@@ -1,0 +1,40 @@
+17:41:14.426 [main] INFO  org.ciaf.user.UserGenerator - User generated: Fermina Senger, email: katheryn.jacobson@yahoo.com, rol: salesperson
+17:41:14.430 [main] INFO  org.ciaf.user.UserGenerator - User generated: Pablo Bradtke, email: dean.schneider@yahoo.com, rol: salesperson
+17:41:14.431 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Darline Balistreri, email: jacki.ernser@hotmail.com, rol: salesperson
+17:41:14.432 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ed Hauck, email: mitchel.stroman@gmail.com, rol: salesperson
+17:41:14.433 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Earlie Parisian, email: archie.hermiston@hotmail.com, rol: salesperson
+17:41:14.435 [main] INFO  org.ciaf.user.UserGenerator - User generated: Delbert Lueilwitz, email: catherine.conn@gmail.com, rol: salesperson
+17:41:14.436 [main] INFO  org.ciaf.user.UserGenerator - User generated: Prince Zulauf Jr., email: lovella.schaden@hotmail.com, rol: salesperson
+17:41:14.437 [main] INFO  org.ciaf.user.UserGenerator - User generated: Filiberto Jast, email: chelsea.deckow@hotmail.com, rol: salesperson
+17:41:14.439 [main] INFO  org.ciaf.user.UserGenerator - User generated: Yen Ward PhD, email: quincy.feest@yahoo.com, rol: salesperson
+17:41:14.440 [main] INFO  org.ciaf.user.UserGenerator - User generated: Roman Carter, email: freida.kovacek@gmail.com, rol: salesperson
+17:41:14.441 [main] INFO  org.ciaf.user.UserGenerator - User generated: Zack Lynch, email: fredric.rolfson@hotmail.com, rol: salesperson
+17:41:14.442 [main] INFO  org.ciaf.user.UserGenerator - User generated: Antonietta Schmeler III, email: bernarda.king@hotmail.com, rol: salesperson
+17:41:14.443 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ivory Russel, email: missy.carroll@gmail.com, rol: salesperson
+17:41:14.444 [main] INFO  org.ciaf.user.UserGenerator - User generated: Carmelina Barton, email: tynisha.lubowitz@yahoo.com, rol: salesperson
+17:41:14.445 [main] INFO  org.ciaf.user.UserGenerator - User generated: Rory Stoltenberg I, email: cleora.stehr@yahoo.com, rol: salesperson
+17:41:14.449 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dewitt Vandervort V, email: vivan.krajcik@yahoo.com, rol: salesperson
+17:41:14.450 [main] INFO  org.ciaf.user.UserGenerator - User generated: Andrea Toy MD, email: pierre.schulist@hotmail.com, rol: salesperson
+17:41:14.450 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ira Langworth, email: idalia.mohr@yahoo.com, rol: salesperson
+17:41:14.451 [main] INFO  org.ciaf.user.UserGenerator - User generated: Art Nikolaus, email: mose.robel@yahoo.com, rol: salesperson
+17:41:14.452 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ralph Rowe, email: cameron.smith@yahoo.com, rol: salesperson
+17:41:14.472 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 0, Name:Gorgeous Plastic Plate, Price:217.13
+17:41:14.472 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name:Sleek Granite Shoes, Price:709.52
+17:41:14.472 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name:Aerodynamic Bronze Shoes, Price:244.96
+17:41:14.473 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name:Small Concrete Hat, Price:244.35
+17:41:14.473 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name:Enormous Concrete Clock, Price:639.87
+17:41:14.473 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name:Rustic Granite Bag, Price:975.71
+17:41:14.473 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name:Awesome Granite Plate, Price:563.2
+17:41:14.474 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name:Practical Plastic Keyboard, Price:962.24
+17:41:14.474 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name:Sleek Concrete Clock, Price:588.32
+17:41:14.474 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name:Heavy Duty Plastic Coat, Price:882.03
+17:41:14.475 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name:Gorgeous Iron Shoes, Price:725.86
+17:41:14.475 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name:Ergonomic Copper Bottle, Price:421.77
+17:41:14.475 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name:Rustic Aluminum Plate, Price:560.7
+17:41:14.475 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name:Aerodynamic Wool Bag, Price:255.98
+17:41:14.476 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name:Incredible Aluminum Lamp, Price:964.65
+17:41:14.476 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name:Synergistic Cotton Coat, Price:155.51
+17:41:14.476 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name:Fantastic Aluminum Bottle, Price:70.5
+17:41:14.476 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name:Synergistic Iron Shoes, Price:132.37
+17:41:14.477 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name:Rustic Copper Clock, Price:436.04
+17:41:14.477 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name:Sleek Steel Pants, Price:644.52

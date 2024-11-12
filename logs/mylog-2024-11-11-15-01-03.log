@@ -1,0 +1,5 @@
+15:01:03.827 [main] INFO  org.ciaf.user.UserGenerator - User generated: Neoma Watsica, email: derrick.hickle@hotmail.com, rol: Salesperson, address: Apt. 323 7204 Damian Flat, East Mohamed, MO 66864-8430
+15:01:03.827 [main] INFO  org.ciaf.user.UserGenerator - User generated: Angelika Berge, email: devorah.hackett@gmail.com, rol: Salesperson, address: Apt. 639 929 Grady Mills, New Davis, CA 56274-2311
+15:01:03.858 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Small Wooden Watch, Description: Small Wooden Watch, Price: 51.63, Stock: 293
+15:01:03.858 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Practical Rubber Plate, Description: Practical Rubber Plate, Price: 48.77, Stock: 146
+15:01:03.858 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Practical Paper Car, Description: Practical Paper Car, Price: 26.12, Stock: 205

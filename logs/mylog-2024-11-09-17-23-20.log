@@ -1,0 +1,40 @@
+17:23:20.425 [main] INFO  org.ciaf.user.UserGenerator - User generated: Celinda McCullough, email: kevin.kshlerin@yahoo.com, rol: salesperson
+17:23:20.444 [main] INFO  org.ciaf.user.UserGenerator - User generated: Corrin Bosco, email: hanh.mante@hotmail.com, rol: salesperson
+17:23:20.444 [main] INFO  org.ciaf.user.UserGenerator - User generated: Marisha Kuhlman Jr., email: lawerence.ziemann@gmail.com, rol: salesperson
+17:23:20.444 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Cornell Abshire, email: cody.dietrich@gmail.com, rol: salesperson
+17:23:20.444 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Trent Russel, email: alex.pfeffer@hotmail.com, rol: salesperson
+17:23:20.444 [main] INFO  org.ciaf.user.UserGenerator - User generated: Luciana Ledner, email: gabriel.rempel@yahoo.com, rol: salesperson
+17:23:20.444 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lou Osinski, email: oren.oconner@gmail.com, rol: salesperson
+17:23:20.444 [main] INFO  org.ciaf.user.UserGenerator - User generated: Chu Kuphal DVM, email: michale.bahringer@gmail.com, rol: salesperson
+17:23:20.444 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jennell Rempel, email: booker.blick@hotmail.com, rol: salesperson
+17:23:20.457 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jordan Blick Jr., email: rueben.deckow@yahoo.com, rol: salesperson
+17:23:20.459 [main] INFO  org.ciaf.user.UserGenerator - User generated: Nilsa Bogisich, email: paulene.tromp@hotmail.com, rol: salesperson
+17:23:20.459 [main] INFO  org.ciaf.user.UserGenerator - User generated: Hilario Kreiger V, email: lael.pfeffer@yahoo.com, rol: salesperson
+17:23:20.459 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Courtney Cole, email: noreen.prosacco@hotmail.com, rol: salesperson
+17:23:20.459 [main] INFO  org.ciaf.user.UserGenerator - User generated: Raymundo Kertzmann II, email: scarlet.stokes@gmail.com, rol: salesperson
+17:23:20.459 [main] INFO  org.ciaf.user.UserGenerator - User generated: Kylee Hermiston, email: pierre.leuschke@hotmail.com, rol: salesperson
+17:23:20.459 [main] INFO  org.ciaf.user.UserGenerator - User generated: Noble Krajcik, email: lino.klocko@yahoo.com, rol: salesperson
+17:23:20.459 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Brent Schmidt, email: efren.howe@gmail.com, rol: salesperson
+17:23:20.459 [main] INFO  org.ciaf.user.UserGenerator - User generated: Kit Ward, email: oleta.stanton@gmail.com, rol: salesperson
+17:23:20.459 [main] INFO  org.ciaf.user.UserGenerator - User generated: Heath Lang, email: porfirio.stracke@gmail.com, rol: salesperson
+17:23:20.459 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ernest Larson, email: julio.heller@hotmail.com, rol: salesperson
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Fantastic Wooden Shoes, Price:352.86
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Lightweight Wooden Table, Price:633.48
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Fantastic Wooden Knife, Price:336.59
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Silk Bench, Price:931.98
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Lightweight Copper Car, Price:667.19
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Incredible Cotton Gloves, Price:750.39
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Aerodynamic Granite Coat, Price:231.29
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Synergistic Leather Bottle, Price:639.94
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Cotton Coat, Price:380.54
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Practical Granite Wallet, Price:379.31
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Synergistic Iron Lamp, Price:493.4
+17:23:20.490 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Fantastic Plastic Wallet, Price:371.5
+17:23:20.494 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Heavy Duty Leather Lamp, Price:906.26
+17:23:20.494 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Aerodynamic Paper Keyboard, Price:527.78
+17:23:20.494 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Awesome Bronze Gloves, Price:15.02
+17:23:20.494 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Gorgeous Concrete Plate, Price:314.8
+17:23:20.494 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Sleek Wooden Shoes, Price:10.96
+17:23:20.495 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Fantastic Leather Coat, Price:961.42
+17:23:20.495 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Aerodynamic Cotton Car, Price:410.77
+17:23:20.495 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Awesome Marble Shoes, Price:562.3

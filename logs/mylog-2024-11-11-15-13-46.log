@@ -1,0 +1,8 @@
+15:13:46.970 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Rodrigo Boyle, email: nigel.gusikowski@hotmail.com, rol: Administrator, address: 68270 Kutch Courts, Verenaton, WI 78292
+15:13:46.974 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mario Considine, email: moira.nolan@gmail.com, rol: Salesperson, address: Apt. 836 74777 Mathew Dam, Leroymouth, HI 99587-9379
+15:13:46.974 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mitch Nitzsche, email: genesis.davis@gmail.com, rol: Salesperson, address: Suite 988 528 Mariko Stravenue, Aldenland, SD 12783-7292
+15:13:46.974 [main] INFO  org.ciaf.user.UserGenerator - User generated: Simon Ondricka, email: jacquelyne.sporer@hotmail.com, rol: Administrator, address: 28246 Hauck Point, Goyettehaven, TN 66983-3374
+15:13:46.974 [main] INFO  org.ciaf.user.UserGenerator - User generated: Arnoldo Lowe, email: danilo.wyman@gmail.com, rol: Salesperson, address: 304 Man Passage, Willisville, MA 10226
+15:13:47.007 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Rustic Wool Computer, Description: Rustic Wool Computer, Price: 54.25, Stock: 100
+15:13:47.007 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Durable Linen Chair, Description: Durable Linen Chair, Price: 53.32, Stock: 61
+15:13:47.007 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Incredible Aluminum Shoes, Description: Incredible Aluminum Shoes, Price: 69.31, Stock: 420

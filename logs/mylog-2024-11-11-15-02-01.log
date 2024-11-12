@@ -1,0 +1,23 @@
+15:02:02.169 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jeff Pollich, email: sherilyn.donnelly@hotmail.com, rol: Manager, address: Suite 190 6132 Beatty Orchard, Abernathyville, MD 19572-4123
+15:02:02.169 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Buck Gerhold, email: rafael.beer@gmail.com, rol: Manager, address: Apt. 425 9538 Bud Lake, Lake Dovie, AR 01755-7873
+15:02:02.169 [main] INFO  org.ciaf.user.UserGenerator - User generated: Frankie Jenkins, email: pablo.daniel@gmail.com, rol: Manager, address: 6070 Hessel Square, Marleenbury, OR 88551-1166
+15:02:02.169 [main] INFO  org.ciaf.user.UserGenerator - User generated: Scottie McKenzie, email: dorian.upton@hotmail.com, rol: Manager, address: 710 Gibson Squares, Walshborough, NY 46553
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Roger Turner, email: riley.prohaska@gmail.com, rol: Manager, address: 21611 Maurine Parkway, Mirabury, VA 65136-3052
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Kathie Schultz, email: alden.feest@gmail.com, rol: Manager, address: Suite 136 86958 Skiles Well, New Emiliofort, CO 28008-9441
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lorette Hoppe, email: dorian.schmitt@yahoo.com, rol: Manager, address: Suite 816 41369 Thompson Summit, Asleyburgh, MS 77698
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Melda Vandervort, email: daniele.treutel@gmail.com, rol: Manager, address: Suite 734 10284 Dare Harbors, East Guadalupe, NJ 76745
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Whitley Howell I, email: julian.ondricka@gmail.com, rol: Manager, address: 5390 Brekke Islands, Port Wynona, LA 58792-6510
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lavonia Schulist, email: santina.labadie@hotmail.com, rol: Manager, address: Suite 915 8502 Homenick Forges, South Melinda, OK 05692
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Shawn Stanton, email: odessa.dietrich@yahoo.com, rol: Manager, address: Apt. 331 64497 Effertz Shore, New Charliefurt, ID 39478
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Hector Schinner, email: jarod.dibbert@gmail.com, rol: Manager, address: Apt. 714 863 Sang Land, West Kentonton, GA 00841
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dusty Christiansen, email: lynell.skiles@gmail.com, rol: Manager, address: 1175 Koelpin Burgs, New Rosina, WA 35555-8308
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Adolph McDermott, email: tamra.keebler@yahoo.com, rol: Manager, address: 990 Kshlerin Rapid, Port Lashandrafort, IA 53511-3940
+15:02:02.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Omer Kuhlman, email: melanie.keebler@yahoo.com, rol: Manager, address: Suite 599 17734 Lakendra Wells, Dianmouth, WI 14353-4997
+15:02:02.200 [main] INFO  org.ciaf.user.UserGenerator - User generated: Shaquita Purdy, email: frankie.vandervort@yahoo.com, rol: Manager, address: Apt. 001 9453 Noel Mill, New Mark, FL 14845-2391
+15:02:02.200 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Julienne Bogisich, email: silvia.torphy@yahoo.com, rol: Manager, address: 086 O'Keefe Ford, East Dominique, IL 63043
+15:02:02.200 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Celina Yundt, email: wes.aufderhar@hotmail.com, rol: Manager, address: Suite 192 4032 Davis Gardens, South Wallace, WA 09825
+15:02:02.200 [main] INFO  org.ciaf.user.UserGenerator - User generated: Helena Johns, email: teddy.jacobs@yahoo.com, rol: Manager, address: 43288 Dalton Knolls, New Douglasburgh, LA 47373-0499
+15:02:02.200 [main] INFO  org.ciaf.user.UserGenerator - User generated: Delphia Pacocha III, email: roselia.tremblay@yahoo.com, rol: Manager, address: Suite 589 70493 Cassandra Hill, Carrolburgh, OK 85465
+15:02:02.231 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Gorgeous Steel Bottle, Description: Gorgeous Steel Bottle, Price: 46.09, Stock: 295
+15:02:02.231 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Small Copper Car, Description: Small Copper Car, Price: 15.48, Stock: 225
+15:02:02.231 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Durable Wool Watch, Description: Durable Wool Watch, Price: 41.59, Stock: 164

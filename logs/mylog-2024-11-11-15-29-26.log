@@ -1,0 +1,8 @@
+15:29:26.993 [main] INFO  org.ciaf.user.UserGenerator - User generated: Paige Wyman DVM, email: natalie.brakus@gmail.com, rol: Salesperson, address: Apt. 639 42010 Ratke Junction, Wiegandton, KS 32727
+15:29:26.993 [main] INFO  org.ciaf.user.UserGenerator - User generated: Abigail Pfannerstill, email: jeromy.ankunding@gmail.com, rol: Salesperson, address: Suite 538 3261 Tyler Motorway, Lake Tomifurt, TX 59430-0761
+15:29:26.999 [main] INFO  org.ciaf.user.UserGenerator - User generated: Leslie Goyette, email: olen.leuschke@hotmail.com, rol: Salesperson, address: 53336 Mavis Circle, Franeckitown, WA 73014
+15:29:27.015 [main] INFO  org.ciaf.user.UserGenerator - User generated: Avery Bartoletti, email: thersa.halvorson@yahoo.com, rol: Administrator, address: 06211 Neoma Garden, Chelsiestad, UT 80672
+15:29:27.015 [main] INFO  org.ciaf.user.UserGenerator - User generated: Blaine Friesen, email: jed.oberbrunner@gmail.com, rol: Salesperson, address: 7918 Wilkinson Port, Schambergerland, MD 20892-9878
+15:29:27.031 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Awesome Plastic Chair, Description: Awesome Plastic Chair, Price: 62.99, Stock: 63
+15:29:27.031 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Ergonomic Granite Table, Description: Ergonomic Granite Table, Price: 65.24, Stock: 106
+15:29:27.031 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Fantastic Wool Keyboard, Description: Fantastic Wool Keyboard, Price: 75.43, Stock: 222

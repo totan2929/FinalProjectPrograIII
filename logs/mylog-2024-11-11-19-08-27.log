@@ -1,0 +1,8 @@
+19:08:27.944 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Tran Miller, email: rod.bergnaum@gmail.com, rol: Salesperson, address: Apt. 452 9431 Linda Via, Sanfordborough, IN 87541
+19:08:27.944 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Kirby Brekke, email: isobel.ziemann@gmail.com, rol: Salesperson, address: 9511 Trantow Extensions, North Yongfort, LA 07548
+19:08:27.944 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Armand Robel, email: ila.hilll@gmail.com, rol: Salesperson, address: 39356 Sawayn Corner, South Tabatha, RI 09722-7220
+19:08:27.944 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Anderson Senger II, email: james.ohara@hotmail.com, rol: Salesperson, address: 302 Marcus Stravenue, Lake Averyside, NY 26213
+19:08:27.944 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Mac Roberts, email: daisey.jacobson@hotmail.com, rol: Manager, address: 54294 Gottlieb Parkways, North Nedfurt, SD 32731
+19:08:27.975 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Small Bronze Plate, Description: Small Bronze Plate, Price: 33.42, Stock: 53
+19:08:27.975 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Synergistic Linen Coat, Description: Synergistic Linen Coat, Price: 80.99, Stock: 442
+19:08:27.975 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Intelligent Bronze Hat, Description: Intelligent Bronze Hat, Price: 19.57, Stock: 173

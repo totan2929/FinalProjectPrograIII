@@ -1,0 +1,40 @@
+19:01:13.974 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jeramy Murazik, email: terrell.gutkowski@gmail.com, rol: salesperson
+19:01:13.974 [main] INFO  org.ciaf.user.UserGenerator - User generated: Temeka McClure, email: tiana.douglas@hotmail.com, rol: salesperson
+19:01:13.990 [main] INFO  org.ciaf.user.UserGenerator - User generated: Moises Bartell DDS, email: jerrica.rice@gmail.com, rol: salesperson
+19:01:13.990 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jimmy Thiel, email: willis.stehr@gmail.com, rol: salesperson
+19:01:13.990 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lashon Hoppe, email: chantell.watsica@hotmail.com, rol: salesperson
+19:01:13.990 [main] INFO  org.ciaf.user.UserGenerator - User generated: Latanya Beatty, email: julienne.considine@yahoo.com, rol: salesperson
+19:01:13.990 [main] INFO  org.ciaf.user.UserGenerator - User generated: Michael Roberts, email: grady.sporer@hotmail.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lenard Sporer, email: audie.ernser@yahoo.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Gerardo Kemmer, email: rosette.kris@gmail.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Forrest Gaylord, email: tamisha.vonrueden@yahoo.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Carlie Anderson DVM, email: candace.harber@hotmail.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miquel Kozey, email: mose.daugherty@yahoo.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Armando Hegmann, email: stephenie.hansen@yahoo.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Laverne MacGyver, email: shad.cassin@gmail.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dovie Krajcik, email: olen.bednar@gmail.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Cinthia Purdy, email: cherryl.purdy@gmail.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Na Mitchell, email: christiana.denesik@hotmail.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Eleanore Dach, email: desire.treutel@yahoo.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lucas Gorczany V, email: angele.kerluke@yahoo.com, rol: salesperson
+19:01:14.005 [main] INFO  org.ciaf.user.UserGenerator - User generated: Wen Block, email: jules.abernathy@yahoo.com, rol: salesperson
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 0, Name: Rustic Plastic Keyboard, Description: Rustic Plastic Keyboard, Price: 411.48, Stock: 207
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Enormous Granite Shoes, Description: Enormous Granite Shoes, Price: 56.09, Stock: 44
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Enormous Wooden Pants, Description: Enormous Wooden Pants, Price: 721.94, Stock: 89
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Awesome Iron Hat, Description: Awesome Iron Hat, Price: 337.7, Stock: 255
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name: Sleek Paper Plate, Description: Sleek Paper Plate, Price: 758.45, Stock: 17
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name: Rustic Wool Bag, Description: Rustic Wool Bag, Price: 558.97, Stock: 318
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name: Lightweight Marble Knife, Description: Lightweight Marble Knife, Price: 757.34, Stock: 294
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name: Synergistic Wooden Keyboard, Description: Synergistic Wooden Keyboard, Price: 174.06, Stock: 459
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name: Awesome Wool Plate, Description: Awesome Wool Plate, Price: 939.14, Stock: 293
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name: Rustic Rubber Gloves, Description: Rustic Rubber Gloves, Price: 595.36, Stock: 326
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name: Rustic Aluminum Wallet, Description: Rustic Aluminum Wallet, Price: 865.65, Stock: 52
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name: Aerodynamic Iron Coat, Description: Aerodynamic Iron Coat, Price: 32.09, Stock: 22
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name: Enormous Copper Bottle, Description: Enormous Copper Bottle, Price: 903.51, Stock: 156
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name: Synergistic Granite Watch, Description: Synergistic Granite Watch, Price: 964.15, Stock: 84
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name: Gorgeous Copper Chair, Description: Gorgeous Copper Chair, Price: 901.37, Stock: 224
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name: Gorgeous Bronze Wallet, Description: Gorgeous Bronze Wallet, Price: 201.5, Stock: 17
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name: Awesome Iron Watch, Description: Awesome Iron Watch, Price: 893.96, Stock: 43
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name: Durable Rubber Gloves, Description: Durable Rubber Gloves, Price: 690.48, Stock: 105
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name: Fantastic Iron Shoes, Description: Fantastic Iron Shoes, Price: 459.82, Stock: 147
+19:01:34.227 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name: Awesome Wool Wallet, Description: Awesome Wool Wallet, Price: 905.48, Stock: 120

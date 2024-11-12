@@ -1,0 +1,40 @@
+19:08:39.512 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Claudio Turner, email: deja.hermann@gmail.com, rol: salesperson
+19:08:39.512 [main] INFO  org.ciaf.user.UserGenerator - User generated: Darrell Stokes, email: cherise.ankunding@gmail.com, rol: salesperson
+19:08:39.528 [main] INFO  org.ciaf.user.UserGenerator - User generated: Cristopher Langworth DVM, email: an.volkman@hotmail.com, rol: salesperson
+19:08:39.528 [main] INFO  org.ciaf.user.UserGenerator - User generated: Darlena Lind, email: mitzi.conroy@gmail.com, rol: salesperson
+19:08:39.528 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lacy Bins V, email: marti.vandervort@hotmail.com, rol: salesperson
+19:08:39.528 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Cody Cassin, email: merlin.gottlieb@yahoo.com, rol: salesperson
+19:08:39.528 [main] INFO  org.ciaf.user.UserGenerator - User generated: Vinnie Murray V, email: loren.schuppe@yahoo.com, rol: salesperson
+19:08:39.528 [main] INFO  org.ciaf.user.UserGenerator - User generated: Willian Beahan II, email: marvel.dooley@hotmail.com, rol: salesperson
+19:08:39.528 [main] INFO  org.ciaf.user.UserGenerator - User generated: Nancie Gerhold, email: omar.anderson@yahoo.com, rol: salesperson
+19:08:39.528 [main] INFO  org.ciaf.user.UserGenerator - User generated: Randy Bosco, email: myrtice.tillman@yahoo.com, rol: salesperson
+19:08:39.528 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dudley Feest, email: erika.zboncak@gmail.com, rol: salesperson
+19:08:39.528 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Trent Senger, email: betsy.mraz@yahoo.com, rol: salesperson
+19:08:39.543 [main] INFO  org.ciaf.user.UserGenerator - User generated: Junita Baumbach, email: li.goyette@hotmail.com, rol: salesperson
+19:08:39.547 [main] INFO  org.ciaf.user.UserGenerator - User generated: Branden Luettgen, email: tobi.okuneva@hotmail.com, rol: salesperson
+19:08:39.547 [main] INFO  org.ciaf.user.UserGenerator - User generated: Noel Towne, email: chery.hane@yahoo.com, rol: salesperson
+19:08:39.547 [main] INFO  org.ciaf.user.UserGenerator - User generated: Shara Langosh, email: hong.hauck@hotmail.com, rol: salesperson
+19:08:39.547 [main] INFO  org.ciaf.user.UserGenerator - User generated: Oscar Breitenberg, email: murray.macgyver@hotmail.com, rol: salesperson
+19:08:39.547 [main] INFO  org.ciaf.user.UserGenerator - User generated: Peter Bednar, email: cinderella.nader@hotmail.com, rol: salesperson
+19:08:39.547 [main] INFO  org.ciaf.user.UserGenerator - User generated: Claudio Blanda, email: fredricka.kuphal@yahoo.com, rol: salesperson
+19:08:39.547 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lily Jerde, email: arlie.kohler@yahoo.com, rol: salesperson
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 0, Name: Enormous Silk Clock, Description: Enormous Silk Clock, Price: 961.15, Stock: 311
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Incredible Wooden Computer, Description: Incredible Wooden Computer, Price: 666.3, Stock: 79
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Synergistic Rubber Car, Description: Synergistic Rubber Car, Price: 544.62, Stock: 309
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Small Concrete Keyboard, Description: Small Concrete Keyboard, Price: 182.21, Stock: 113
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name: Small Paper Knife, Description: Small Paper Knife, Price: 250.78, Stock: 156
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name: Heavy Duty Rubber Chair, Description: Heavy Duty Rubber Chair, Price: 317.92, Stock: 163
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name: Ergonomic Aluminum Keyboard, Description: Ergonomic Aluminum Keyboard, Price: 369.7, Stock: 290
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name: Synergistic Linen Hat, Description: Synergistic Linen Hat, Price: 288.42, Stock: 367
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name: Synergistic Wooden Watch, Description: Synergistic Wooden Watch, Price: 873.87, Stock: 147
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name: Ergonomic Rubber Pants, Description: Ergonomic Rubber Pants, Price: 302.44, Stock: 376
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name: Awesome Granite Knife, Description: Awesome Granite Knife, Price: 896.38, Stock: 205
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name: Incredible Cotton Wallet, Description: Incredible Cotton Wallet, Price: 447.73, Stock: 234
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name: Rustic Cotton Keyboard, Description: Rustic Cotton Keyboard, Price: 598.69, Stock: 299
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name: Awesome Rubber Coat, Description: Awesome Rubber Coat, Price: 381.7, Stock: 297
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name: Practical Concrete Clock, Description: Practical Concrete Clock, Price: 746.08, Stock: 298
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name: Synergistic Copper Clock, Description: Synergistic Copper Clock, Price: 235.22, Stock: 215
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name: Aerodynamic Aluminum Bottle, Description: Aerodynamic Aluminum Bottle, Price: 114.32, Stock: 322
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name: Intelligent Linen Wallet, Description: Intelligent Linen Wallet, Price: 933.28, Stock: 263
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name: Practical Plastic Wallet, Description: Practical Plastic Wallet, Price: 421.69, Stock: 213
+19:08:45.701 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name: Practical Plastic Table, Description: Practical Plastic Table, Price: 196.83, Stock: 169

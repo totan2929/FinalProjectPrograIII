@@ -1,0 +1,8 @@
+21:15:48.931 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Mr. Dante Brakus, email: yesenia.mosciski@yahoo.com, rol: Salesperson, address: 16467 McKenzie Causeway, West Brittney, NE 82258
+21:15:48.931 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Mr. Sydney Muller, email: jermaine.blick@hotmail.com, rol: Administrator, address: 52962 Satterfield Mews, Port Lucas, OR 23218-7354
+21:15:48.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Pandora Flatley MD, email: eulalia.hahn@gmail.com, rol: Manager, address: Apt. 367 327 Johnathan Orchard, Zemlakchester, NY 76689
+21:15:48.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Dr. Jessie Kuhlman, email: daryl.jacobi@gmail.com, rol: Administrator, address: 51866 Bruce Pass, New James, MA 83599-8924
+21:15:48.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Long Hermiston, email: kenneth.hoeger@hotmail.com, rol: Administrator, address: 630 Quitzon Rue, Bartellport, IA 82062-7119
+21:15:48.962 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Awesome Iron Gloves, Description: Awesome Iron Gloves, Price: 75.6, Stock: 47
+21:15:48.962 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Intelligent Linen Wallet, Description: Intelligent Linen Wallet, Price: 54.63, Stock: 146
+21:15:48.962 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Incredible Bronze Shirt, Description: Incredible Bronze Shirt, Price: 11.81, Stock: 410

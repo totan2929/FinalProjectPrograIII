@@ -1,0 +1,8 @@
+19:43:01.660 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Leonila Beer, email: stefan.littel@yahoo.com, rol: Administrator, address: 9818 Kayleigh Gateway, West Ladyborough, NE 14009
+19:43:01.675 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Arianna Johns, email: madison.dibbert@hotmail.com, rol: Administrator, address: 32660 Beatty Divide, Jonathonshire, MO 23364
+19:43:01.676 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Barry Gutkowski, email: lucille.greenfelder@hotmail.com, rol: Administrator, address: 411 Gerlach Ports, Emmittland, MO 75282
+19:43:01.676 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Kasey Schuster, email: james.sawayn@hotmail.com, rol: Manager, address: 432 Jonathan Rapid, Botsfordchester, SD 46623-9387
+19:43:01.676 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Lizzie Berge, email: jacklyn.bednar@hotmail.com, rol: Salesperson, address: Apt. 697 14775 Jacobson Neck, West Jewel, OH 55965-1423
+19:43:01.693 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Awesome Linen Coat, Description: Awesome Linen Coat, Price: 60.22, Stock: 110
+19:43:01.693 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Heavy Duty Paper Computer, Description: Heavy Duty Paper Computer, Price: 37.87, Stock: 122
+19:43:01.693 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Practical Granite Gloves, Description: Practical Granite Gloves, Price: 27.66, Stock: 283

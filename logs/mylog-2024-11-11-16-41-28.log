@@ -1,0 +1,8 @@
+16:41:28.837 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Shannon Ankunding, email: marivel.thompson@hotmail.com, rol: Salesperson, address: 589 Kuhlman Trail, New Faustino, ID 83960
+16:41:28.837 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Janine Hilll, email: jefferey.smitham@hotmail.com, rol: Administrator, address: Suite 078 9002 Granville Springs, Geraldfort, IN 45265-0004
+16:41:28.837 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Cristi Trantow, email: connie.runte@hotmail.com, rol: Salesperson, address: 015 Rippin Lake, Silvaburgh, OK 03814
+16:41:28.852 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Dr. Serafina Mayert, email: sung.howe@gmail.com, rol: Administrator, address: Apt. 508 159 Parisian Squares, Hollisville, MO 52242
+16:41:28.852 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Ronny Wunsch, email: cedrick.ratke@gmail.com, rol: Salesperson, address: Suite 417 74104 Loria Turnpike, Murrayfort, UT 75058-2335
+16:41:28.868 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Fantastic Steel Table, Description: Fantastic Steel Table, Price: 24.4, Stock: 99
+16:41:28.868 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Lightweight Rubber Computer, Description: Lightweight Rubber Computer, Price: 36.22, Stock: 303
+16:41:28.883 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Durable Wool Plate, Description: Durable Wool Plate, Price: 84.83, Stock: 75

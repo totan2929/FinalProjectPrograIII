@@ -1,0 +1,8 @@
+15:04:29.506 [main] INFO  org.ciaf.user.UserGenerator - User generated: Sam Rohan III, email: hettie.denesik@gmail.com, rol: Salesperson, address: Suite 926 0324 Cole Haven, Baileyton, AZ 03776-8805
+15:04:29.506 [main] INFO  org.ciaf.user.UserGenerator - User generated: Glennis Yundt, email: camilla.heidenreich@yahoo.com, rol: Manager, address: 5153 Fadel Courts, East Victoriabury, HI 89984-3733
+15:04:29.506 [main] INFO  org.ciaf.user.UserGenerator - User generated: Angila Collier, email: myrtle.fritsch@gmail.com, rol: Administrator, address: 1770 George River, Maryastad, UT 18153
+15:04:29.506 [main] INFO  org.ciaf.user.UserGenerator - User generated: Humberto Schumm, email: truman.okon@hotmail.com, rol: Administrator, address: Apt. 879 58400 Maggio Extensions, East Carlos, MA 27424
+15:04:29.522 [main] INFO  org.ciaf.user.UserGenerator - User generated: Clarita Reilly, email: jamar.olson@hotmail.com, rol: Salesperson, address: Suite 345 573 Hartmann Points, Coltonville, OK 02950-2614
+15:04:29.553 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Incredible Wooden Pants, Description: Incredible Wooden Pants, Price: 39.23, Stock: 472
+15:04:29.553 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Practical Cotton Pants, Description: Practical Cotton Pants, Price: 68.95, Stock: 230
+15:04:29.553 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Durable Cotton Plate, Description: Durable Cotton Plate, Price: 29.79, Stock: 363

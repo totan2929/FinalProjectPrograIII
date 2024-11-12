@@ -1,0 +1,8 @@
+15:20:51.284 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Lolita Block, email: carmen.jast@yahoo.com, rol: Administrator, address: 35429 Booker Parkway, South Randallton, MA 53277-5727
+15:20:51.301 [main] INFO  org.ciaf.user.UserGenerator - User generated: Gerald Torp, email: thea.denesik@hotmail.com, rol: Administrator, address: 478 Rodriguez Trace, Lake Dimpleview, AR 45301-8051
+15:20:51.301 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Tonda Predovic, email: shera.wilkinson@gmail.com, rol: Administrator, address: 401 Jeanetta Trafficway, East Kennyburgh, WI 01159
+15:20:51.315 [main] INFO  org.ciaf.user.UserGenerator - User generated: Hal Vandervort, email: karima.rogahn@hotmail.com, rol: Administrator, address: 13706 Swift Expressway, Mervinhaven, OH 85730
+15:20:51.315 [main] INFO  org.ciaf.user.UserGenerator - User generated: Rodrigo Greenfelder, email: israel.kassulke@hotmail.com, rol: Administrator, address: Apt. 631 29452 Deckow Wells, West Chad, VA 84385-3712
+15:20:51.347 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Heavy Duty Paper Coat, Description: Heavy Duty Paper Coat, Price: 86.03, Stock: 277
+15:20:51.347 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Awesome Bronze Gloves, Description: Awesome Bronze Gloves, Price: 44.57, Stock: 426
+15:20:51.347 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Awesome Wool Watch, Description: Awesome Wool Watch, Price: 22.84, Stock: 255

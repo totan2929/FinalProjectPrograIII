@@ -1,0 +1,3 @@
+14:03:50.295 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Durable Wooden Shoes, Description: Durable Wooden Shoes, Price: 86.59, Stock: 68
+14:03:50.295 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Lightweight Iron Plate, Description: Lightweight Iron Plate, Price: 853.32, Stock: 434
+14:03:50.295 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Heavy Duty Paper Shirt, Description: Heavy Duty Paper Shirt, Price: 815.49, Stock: 232

@@ -1,0 +1,3 @@
+14:08:13.887 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Mediocre Concrete Table, Description: Mediocre Concrete Table, Price: 618.46, Stock: 335
+14:08:13.887 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Durable Rubber Clock, Description: Durable Rubber Clock, Price: 177.7, Stock: 170
+14:08:13.887 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Rustic Marble Computer, Description: Rustic Marble Computer, Price: 165.36, Stock: 82

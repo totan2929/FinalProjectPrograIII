@@ -1,0 +1,8 @@
+16:29:11.237 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Rod Bechtelar MD, email: joanie.reichel@hotmail.com, rol: Administrator, address: Apt. 899 998 Cleo Square, East Jewel, MN 01885-6781
+16:29:11.237 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Miss Lissa Sipes, email: scot.hilll@yahoo.com, rol: Salesperson, address: Suite 128 16356 Quincy Station, New Otis, TN 51318
+16:29:11.237 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Ms. Elliott Fisher, email: dani.wuckert@yahoo.com, rol: Salesperson, address: 5528 Jonnie Island, Chancestad, SD 72196-3563
+16:29:11.237 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Beverley Heller, email: glenn.tromp@yahoo.com, rol: Administrator, address: Apt. 159 7294 Bins Inlet, West Robbie, TN 40236-9778
+16:29:11.237 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Spencer Cronin Jr., email: my.graham@yahoo.com, rol: Administrator, address: Suite 339 71415 Rutherford Prairie, South Carylonmouth, CT 24342
+16:29:11.269 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Heavy Duty Paper Pants, Description: Heavy Duty Paper Pants, Price: 50.68, Stock: 418
+16:29:11.269 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Enormous Marble Pants, Description: Enormous Marble Pants, Price: 31.61, Stock: 20
+16:29:11.269 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Heavy Duty Rubber Coat, Description: Heavy Duty Rubber Coat, Price: 34.28, Stock: 268

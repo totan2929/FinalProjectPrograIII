@@ -1,0 +1,8 @@
+19:54:42.226 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Chieko Padberg, email: alita.wilderman@yahoo.com, rol: Manager, address: 8151 Minh Spring, North Rosestad, MI 03637-1881
+19:54:42.226 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Ms. Dollie Hintz, email: brigid.hickle@yahoo.com, rol: Salesperson, address: Apt. 136 372 Julius Tunnel, Binsland, VA 46980-7717
+19:54:42.226 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Elicia Ondricka, email: rebekah.torphy@hotmail.com, rol: Administrator, address: 400 Jacques Drives, Maggioville, AK 50777-1382
+19:54:42.241 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Shonta Wuckert, email: lamar.quigley@hotmail.com, rol: Salesperson, address: 879 Ramon Forest, South Felipebury, OH 25337
+19:54:42.241 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Ilda Aufderhar Jr., email: ozzie.jerde@gmail.com, rol: Manager, address: 8750 Lang Burg, Windlerton, MS 80650-4241
+19:54:42.257 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Gorgeous Copper Shoes, Description: Gorgeous Copper Shoes, Price: 37.39, Stock: 223
+19:54:42.272 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Awesome Rubber Bench, Description: Awesome Rubber Bench, Price: 52.73, Stock: 444
+19:54:42.272 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Awesome Plastic Table, Description: Awesome Plastic Table, Price: 24.73, Stock: 197

@@ -1,0 +1,8 @@
+18:11:50.268 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Sergio Smitham MD, email: nichol.white@gmail.com, rol: Administrator, address: Suite 762 3353 Chang Corner, West Kim, FL 96513
+18:11:50.268 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Miss Alesia Rolfson, email: denver.mcdermott@yahoo.com, rol: Salesperson, address: Suite 813 004 Von Corner, Lake Alfonzoport, KY 11787-2712
+18:11:50.268 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Roxane Welch, email: pia.cole@yahoo.com, rol: Manager, address: Apt. 342 7017 Anita Gateway, Ashashire, NJ 89093-2381
+18:11:50.268 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Dannie Wilkinson, email: louis.waters@hotmail.com, rol: Salesperson, address: 1356 Kutch Fields, South Yukistad, MN 75538-0593
+18:11:50.268 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Rupert Reynolds Jr., email: christoper.prohaska@hotmail.com, rol: Manager, address: Apt. 536 36374 Hammes Port, Wilkinsonberg, AL 09617
+18:11:50.299 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Synergistic Linen Shoes, Description: Synergistic Linen Shoes, Price: 29.13, Stock: 433
+18:11:50.299 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Awesome Silk Watch, Description: Awesome Silk Watch, Price: 87.62, Stock: 386
+18:11:50.315 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Fantastic Steel Chair, Description: Fantastic Steel Chair, Price: 87.71, Stock: 133

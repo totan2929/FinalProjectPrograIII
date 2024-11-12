@@ -1,0 +1,8 @@
+16:26:26.658 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Seymour Smith, email: haydee.mohr@yahoo.com, rol: Administrator, address: Suite 427 89250 Guillermo Shore, Wiegandhaven, OR 62235
+16:26:26.674 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Cyndi Ratke, email: arron.schmitt@yahoo.com, rol: Salesperson, address: Apt. 340 092 Halvorson Route, Port Aliciachester, NC 82891-6088
+16:26:26.674 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Mario Sipes V, email: louie.tillman@gmail.com, rol: Manager, address: 72458 Larita Villages, West Miltonfurt, MT 65373
+16:26:26.674 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Wallace Yost III, email: vickie.keeling@hotmail.com, rol: Manager, address: Suite 093 11294 Cremin Trafficway, West Shayne, MT 85492-2167
+16:26:26.674 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Arlen Ruecker, email: jasper.leannon@hotmail.com, rol: Salesperson, address: 3627 Macejkovic Fields, Ashtonhaven, MO 00715
+16:26:26.705 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Lightweight Paper Pants, Description: Lightweight Paper Pants, Price: 17.06, Stock: 298
+16:26:26.705 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Intelligent Bronze Shirt, Description: Intelligent Bronze Shirt, Price: 20.9, Stock: 232
+16:26:26.705 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Gorgeous Paper Keyboard, Description: Gorgeous Paper Keyboard, Price: 33.25, Stock: 274

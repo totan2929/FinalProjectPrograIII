@@ -1,0 +1,40 @@
+17:23:57.747 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dannielle Pfeffer, email: karima.veum@gmail.com, rol: salesperson
+17:23:57.762 [main] INFO  org.ciaf.user.UserGenerator - User generated: Juan Corwin, email: son.tillman@yahoo.com, rol: salesperson
+17:23:57.762 [main] INFO  org.ciaf.user.UserGenerator - User generated: Erlene Rempel MD, email: buck.ankunding@gmail.com, rol: salesperson
+17:23:57.762 [main] INFO  org.ciaf.user.UserGenerator - User generated: My Lockman, email: armand.schumm@hotmail.com, rol: salesperson
+17:23:57.767 [main] INFO  org.ciaf.user.UserGenerator - User generated: Bibi Watsica Sr., email: kenton.pacocha@gmail.com, rol: salesperson
+17:23:57.767 [main] INFO  org.ciaf.user.UserGenerator - User generated: Annabelle Runolfsdottir, email: ilona.roob@gmail.com, rol: salesperson
+17:23:57.778 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Eugenie Hagenes, email: dylan.hickle@hotmail.com, rol: salesperson
+17:23:57.778 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ethelyn Langosh, email: leopoldo.larkin@yahoo.com, rol: salesperson
+17:23:57.786 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dona DuBuque PhD, email: darcy.stracke@yahoo.com, rol: salesperson
+17:23:57.786 [main] INFO  org.ciaf.user.UserGenerator - User generated: Timothy Reichert, email: trang.jerde@hotmail.com, rol: salesperson
+17:23:57.786 [main] INFO  org.ciaf.user.UserGenerator - User generated: Heather Collins IV, email: xavier.jerde@yahoo.com, rol: salesperson
+17:23:57.794 [main] INFO  org.ciaf.user.UserGenerator - User generated: Domingo VonRueden, email: ardis.hermann@hotmail.com, rol: salesperson
+17:23:57.795 [main] INFO  org.ciaf.user.UserGenerator - User generated: Belle Heidenreich, email: merri.maggio@hotmail.com, rol: salesperson
+17:23:57.795 [main] INFO  org.ciaf.user.UserGenerator - User generated: Guillermina Glover, email: obdulia.roob@gmail.com, rol: salesperson
+17:23:57.795 [main] INFO  org.ciaf.user.UserGenerator - User generated: Robby Mueller, email: marnie.stroman@hotmail.com, rol: salesperson
+17:23:57.795 [main] INFO  org.ciaf.user.UserGenerator - User generated: Nikole Torphy, email: jolanda.douglas@hotmail.com, rol: salesperson
+17:23:57.803 [main] INFO  org.ciaf.user.UserGenerator - User generated: Rory Baumbach, email: glen.schaden@yahoo.com, rol: salesperson
+17:23:57.803 [main] INFO  org.ciaf.user.UserGenerator - User generated: Wilton Kuvalis, email: jackson.kulas@hotmail.com, rol: salesperson
+17:23:57.803 [main] INFO  org.ciaf.user.UserGenerator - User generated: Alfredo Hartmann DVM, email: valarie.predovic@hotmail.com, rol: salesperson
+17:23:57.803 [main] INFO  org.ciaf.user.UserGenerator - User generated: Sade Dickens Jr., email: augustus.bruen@gmail.com, rol: salesperson
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Rustic Rubber Wallet, Price:662.79
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Durable Iron Knife, Price:73.19
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Fantastic Granite Shoes, Price:357.31
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Heavy Duty Linen Lamp, Price:37.5
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Synergistic Rubber Computer, Price:876.49
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Enormous Concrete Hat, Price:454.99
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Mediocre Silk Bench, Price:358.1
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Sleek Silk Knife, Price:725.59
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Fantastic Copper Car, Price:685.95
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Incredible Aluminum Computer, Price:115.95
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Gorgeous Rubber Coat, Price:252.85
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Heavy Duty Wool Gloves, Price:281.88
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Fantastic Cotton Gloves, Price:450.94
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Mediocre Iron Knife, Price:760.24
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Intelligent Linen Gloves, Price:785.57
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Intelligent Wool Bench, Price:892.53
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Aluminum Chair, Price:240.15
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Durable Linen Bottle, Price:398.44
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Aerodynamic Leather Wallet, Price:863.37
+17:23:57.859 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Sleek Rubber Coat, Price:881.35

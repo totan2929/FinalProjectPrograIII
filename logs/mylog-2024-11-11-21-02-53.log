@@ -1,0 +1,8 @@
+21:02:53.493 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Josue Kuhn, email: raul.halvorson@yahoo.com, rol: Administrator, address: 621 Steuber Centers, Ernestineview, NV 88266-8484
+21:02:53.493 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Chadwick Kulas, email: sung.dach@gmail.com, rol: Salesperson, address: 823 Linette Ridge, New Damian, IA 85684
+21:02:53.493 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Rhona Hilpert, email: terrence.grimes@hotmail.com, rol: Salesperson, address: 3140 Jeanette Mall, Solomonport, PA 93787
+21:02:53.493 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Mel O'Keefe, email: apryl.kiehn@yahoo.com, rol: Administrator, address: Apt. 155 07770 Weimann Estates, Port Brianne, MA 95849-6816
+21:02:53.509 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Jerilyn Doyle, email: judie.anderson@gmail.com, rol: Administrator, address: Suite 567 7814 Turcotte Mountains, North Blanca, MO 90410-4540
+21:02:53.524 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Aerodynamic Copper Watch, Description: Aerodynamic Copper Watch, Price: 46.38, Stock: 219
+21:02:53.524 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Lightweight Iron Gloves, Description: Lightweight Iron Gloves, Price: 57.0, Stock: 111
+21:02:53.524 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Synergistic Wool Chair, Description: Synergistic Wool Chair, Price: 50.25, Stock: 460

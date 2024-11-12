@@ -1,0 +1,40 @@
+17:29:53.267 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Kris Mohr, email: donn.armstrong@yahoo.com, rol: salesperson
+17:29:53.271 [main] INFO  org.ciaf.user.UserGenerator - User generated: Marty Fahey, email: jerold.gleichner@yahoo.com, rol: salesperson
+17:29:53.272 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Ellan Kessler, email: ali.wilkinson@hotmail.com, rol: salesperson
+17:29:53.274 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Eleanor Purdy, email: duane.jacobson@gmail.com, rol: salesperson
+17:29:53.275 [main] INFO  org.ciaf.user.UserGenerator - User generated: Myrle Feeney, email: naida.pfeffer@hotmail.com, rol: salesperson
+17:29:53.277 [main] INFO  org.ciaf.user.UserGenerator - User generated: Tonya Langosh, email: jesse.legros@gmail.com, rol: salesperson
+17:29:53.279 [main] INFO  org.ciaf.user.UserGenerator - User generated: Blaine Deckow, email: evette.cummings@yahoo.com, rol: salesperson
+17:29:53.281 [main] INFO  org.ciaf.user.UserGenerator - User generated: Tajuana Mayer, email: ross.nienow@gmail.com, rol: salesperson
+17:29:53.282 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Mark Roberts, email: ardith.krajcik@hotmail.com, rol: salesperson
+17:29:53.284 [main] INFO  org.ciaf.user.UserGenerator - User generated: Tyson Metz, email: chung.padberg@hotmail.com, rol: salesperson
+17:29:53.285 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lurlene Hyatt, email: edwin.casper@yahoo.com, rol: salesperson
+17:29:53.286 [main] INFO  org.ciaf.user.UserGenerator - User generated: Milton Boyer, email: emilio.wisoky@yahoo.com, rol: salesperson
+17:29:53.287 [main] INFO  org.ciaf.user.UserGenerator - User generated: Meredith Buckridge PhD, email: aleen.okon@yahoo.com, rol: salesperson
+17:29:53.288 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lamar Ferry, email: dominica.marquardt@gmail.com, rol: salesperson
+17:29:53.289 [main] INFO  org.ciaf.user.UserGenerator - User generated: Marshall Ondricka, email: dee.feeney@hotmail.com, rol: salesperson
+17:29:53.291 [main] INFO  org.ciaf.user.UserGenerator - User generated: Kirsten Franecki, email: iluminada.witting@hotmail.com, rol: salesperson
+17:29:53.292 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mohammed Lueilwitz, email: shawn.bernier@gmail.com, rol: salesperson
+17:29:53.293 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Johnna Collins, email: jordon.ernser@hotmail.com, rol: salesperson
+17:29:53.294 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Reita Kerluke, email: hilde.kuphal@gmail.com, rol: salesperson
+17:29:53.295 [main] INFO  org.ciaf.user.UserGenerator - User generated: Thad Turcotte, email: mattie.gleichner@hotmail.com, rol: salesperson
+17:29:53.309 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Practical Concrete Shirt, Price:640.56
+17:29:53.310 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Leather Watch, Price:655.55
+17:29:53.310 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Incredible Plastic Computer, Price:633.96
+17:29:53.310 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Awesome Marble Bag, Price:303.04
+17:29:53.311 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Cotton Hat, Price:560.1
+17:29:53.311 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Practical Granite Watch, Price:95.02
+17:29:53.311 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Aerodynamic Copper Bench, Price:224.71
+17:29:53.311 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Durable Rubber Coat, Price:801.45
+17:29:53.312 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Lightweight Concrete Knife, Price:204.22
+17:29:53.312 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Incredible Steel Hat, Price:845.88
+17:29:53.312 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Small Marble Watch, Price:448.97
+17:29:53.312 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Ergonomic Plastic Car, Price:296.66
+17:29:53.313 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Awesome Silk Shirt, Price:521.29
+17:29:53.313 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Awesome Marble Keyboard, Price:44.6
+17:29:53.313 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Lightweight Concrete Car, Price:709.43
+17:29:53.313 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Awesome Linen Chair, Price:664.08
+17:29:53.313 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Durable Iron Car, Price:815.19
+17:29:53.313 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Gorgeous Marble Chair, Price:761.06
+17:29:53.314 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Awesome Granite Plate, Price:97.32
+17:29:53.314 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Gorgeous Marble Knife, Price:817.07

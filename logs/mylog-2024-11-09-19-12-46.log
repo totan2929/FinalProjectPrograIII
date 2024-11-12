@@ -1,0 +1,40 @@
+19:12:46.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Yen Donnelly, email: reed.hintz@hotmail.com, rol: salesperson
+19:12:46.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ami Russel PhD, email: hortensia.huel@yahoo.com, rol: salesperson
+19:12:46.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Cliff Gulgowski, email: coletta.brown@gmail.com, rol: salesperson
+19:12:46.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Malissa Runolfsdottir MD, email: cristobal.bartell@gmail.com, rol: salesperson
+19:12:46.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Darius Robel, email: maryjo.halvorson@yahoo.com, rol: salesperson
+19:12:46.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dallas Lebsack, email: melissia.johnson@hotmail.com, rol: salesperson
+19:12:46.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Merle Smith, email: numbers.olson@hotmail.com, rol: salesperson
+19:12:46.947 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Abram O'Connell, email: lester.jakubowski@yahoo.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Deloras Mitchell, email: harley.fahey@gmail.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Dean Parisian, email: refugio.tillman@gmail.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Granville Koss, email: vito.dickens@gmail.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Wade Greenholt, email: letisha.wunsch@yahoo.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Buster Swift, email: arica.friesen@yahoo.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mandy Grant, email: eleonore.sawayn@yahoo.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Odell Collins, email: albertine.schmitt@hotmail.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Madalyn Dare, email: marinda.osinski@hotmail.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Winfred Feeney, email: cathey.rice@gmail.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Howard Luettgen Sr., email: emmett.lowe@hotmail.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Brittaney Haley, email: demetrius.gislason@hotmail.com, rol: salesperson
+19:12:46.963 [main] INFO  org.ciaf.user.UserGenerator - User generated: Rafaela Ritchie, email: anibal.mitchell@hotmail.com, rol: salesperson
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 0, Name: Small Cotton Keyboard, Description: Small Cotton Keyboard, Price: 262.79, Stock: 6
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Rustic Aluminum Shirt, Description: Rustic Aluminum Shirt, Price: 679.16, Stock: 321
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Gorgeous Granite Gloves, Description: Gorgeous Granite Gloves, Price: 215.11, Stock: 366
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Ergonomic Marble Coat, Description: Ergonomic Marble Coat, Price: 302.45, Stock: 444
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name: Incredible Paper Clock, Description: Incredible Paper Clock, Price: 75.77, Stock: 278
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name: Mediocre Granite Plate, Description: Mediocre Granite Plate, Price: 297.66, Stock: 153
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name: Fantastic Silk Watch, Description: Fantastic Silk Watch, Price: 383.75, Stock: 299
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name: Awesome Paper Knife, Description: Awesome Paper Knife, Price: 502.76, Stock: 331
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name: Awesome Cotton Coat, Description: Awesome Cotton Coat, Price: 948.01, Stock: 207
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name: Small Paper Plate, Description: Small Paper Plate, Price: 191.82, Stock: 272
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name: Lightweight Leather Chair, Description: Lightweight Leather Chair, Price: 484.95, Stock: 208
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name: Synergistic Concrete Plate, Description: Synergistic Concrete Plate, Price: 715.16, Stock: 278
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name: Rustic Granite Table, Description: Rustic Granite Table, Price: 377.29, Stock: 24
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name: Durable Aluminum Hat, Description: Durable Aluminum Hat, Price: 455.66, Stock: 185
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name: Lightweight Copper Shirt, Description: Lightweight Copper Shirt, Price: 598.23, Stock: 204
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name: Synergistic Iron Computer, Description: Synergistic Iron Computer, Price: 418.02, Stock: 425
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name: Durable Silk Plate, Description: Durable Silk Plate, Price: 839.31, Stock: 219
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name: Enormous Marble Bench, Description: Enormous Marble Bench, Price: 383.78, Stock: 31
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name: Synergistic Marble Knife, Description: Synergistic Marble Knife, Price: 364.89, Stock: 14
+19:12:53.247 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name: Ergonomic Steel Table, Description: Ergonomic Steel Table, Price: 940.47, Stock: 204

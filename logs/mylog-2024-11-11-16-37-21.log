@@ -1,0 +1,8 @@
+16:37:22.169 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Alejandro Kshlerin, email: pearlie.bahringer@gmail.com, rol: Manager, address: Apt. 689 99327 Durgan Run, North Jacindaberg, KS 69579-3140
+16:37:22.180 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Merle Hahn, email: jenelle.brekke@yahoo.com, rol: Salesperson, address: 68324 Greg Passage, Sauerville, ND 29405
+16:37:22.183 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Delcie Wintheiser, email: lilliam.hilll@hotmail.com, rol: Salesperson, address: Apt. 146 01447 Tyra Stravenue, South Mileshaven, LA 10821-9785
+16:37:22.184 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Sharika Brakus, email: jasmin.moen@gmail.com, rol: Administrator, address: 4681 Predovic Views, East Dreamashire, ND 36916
+16:37:22.188 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Julietta Blick, email: bernardo.waters@yahoo.com, rol: Manager, address: 230 Lynell Flats, New Marchaven, HI 44712
+16:37:22.213 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Intelligent Concrete Bench, Description: Intelligent Concrete Bench, Price: 44.05, Stock: 224
+16:37:22.213 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Synergistic Bronze Clock, Description: Synergistic Bronze Clock, Price: 64.79, Stock: 456
+16:37:22.213 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Lightweight Cotton Shoes, Description: Lightweight Cotton Shoes, Price: 53.21, Stock: 50

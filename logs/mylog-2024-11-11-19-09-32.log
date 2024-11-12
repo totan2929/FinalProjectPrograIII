@@ -1,0 +1,8 @@
+19:09:32.297 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Mica Toy III, email: jackeline.fay@hotmail.com, rol: Salesperson, address: 965 Heathcote Land, Bednarburgh, FL 84695
+19:09:32.302 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Ahmad Schoen, email: wynell.rath@yahoo.com, rol: Salesperson, address: Apt. 169 980 Lemke Valleys, Port Eunfort, VT 34735
+19:09:32.302 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Normand Senger, email: sung.kreiger@gmail.com, rol: Administrator, address: Apt. 848 282 Violeta Flat, Port Bartville, OR 75105
+19:09:32.302 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Omer King, email: harrison.upton@yahoo.com, rol: Manager, address: 9702 Shad Trafficway, Shantaton, RI 16483
+19:09:32.302 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Ms. Kallie Rath, email: laurence.jerde@hotmail.com, rol: Salesperson, address: Apt. 922 31046 Conn Isle, Port Fletcherland, IL 76191
+19:09:32.319 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Synergistic Aluminum Keyboard, Description: Synergistic Aluminum Keyboard, Price: 29.22, Stock: 149
+19:09:32.319 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Incredible Paper Bench, Description: Incredible Paper Bench, Price: 28.01, Stock: 181
+19:09:32.319 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Incredible Leather Hat, Description: Incredible Leather Hat, Price: 92.18, Stock: 156

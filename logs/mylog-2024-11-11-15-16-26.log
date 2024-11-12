@@ -1,0 +1,8 @@
+15:16:26.419 [main] INFO  org.ciaf.user.UserGenerator - User generated: Bennie Okuneva, email: deane.weimann@yahoo.com, rol: Manager, address: Suite 238 011 Karry Coves, Leuschkefort, MN 74062-5977
+15:16:26.436 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Ty Cronin, email: nelida.bernier@gmail.com, rol: Salesperson, address: 0006 Ullrich Extension, North Asamouth, ME 85976
+15:16:26.436 [main] INFO  org.ciaf.user.UserGenerator - User generated: Gay O'Hara, email: nicolle.braun@hotmail.com, rol: Administrator, address: Suite 701 21070 Norman Shoals, South Wilber, NE 70642
+15:16:26.450 [main] INFO  org.ciaf.user.UserGenerator - User generated: Trudy Flatley, email: eleanora.runte@hotmail.com, rol: Administrator, address: Apt. 049 255 Micheal Flat, Melodiborough, NM 33452-9630
+15:16:26.450 [main] INFO  org.ciaf.user.UserGenerator - User generated: Gerard Veum, email: rolf.will@hotmail.com, rol: Administrator, address: 75871 Walker Villages, Rippinshire, IN 55258
+15:16:26.482 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Awesome Leather Bottle, Description: Awesome Leather Bottle, Price: 67.4, Stock: 150
+15:16:26.482 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Enormous Aluminum Knife, Description: Enormous Aluminum Knife, Price: 31.38, Stock: 444
+15:16:26.482 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Aerodynamic Aluminum Shoes, Description: Aerodynamic Aluminum Shoes, Price: 24.87, Stock: 471

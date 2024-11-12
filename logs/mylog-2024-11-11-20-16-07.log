@@ -1,0 +1,8 @@
+20:16:07.850 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Madelyn Collier, email: shelba.roob@hotmail.com, rol: Salesperson, address: Apt. 393 53885 Giovanni Extensions, South Merrill, PA 18572
+20:16:07.850 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Starr Reynolds V, email: krissy.gibson@gmail.com, rol: Administrator, address: 02933 Gleason Inlet, West Pearlie, MD 71934
+20:16:07.850 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Clarisa Okuneva I, email: solomon.hills@yahoo.com, rol: Administrator, address: 7479 Wyatt Shores, Langoshmouth, SD 78401
+20:16:07.850 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Corey Robel Jr., email: emanuel.hickle@gmail.com, rol: Manager, address: Apt. 981 347 Morar Motorway, Port Iraburgh, DE 26799-9563
+20:16:07.850 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Mario Smitham, email: vernon.krajcik@yahoo.com, rol: Administrator, address: 81618 Oberbrunner Way, New Necole, AR 95228-4250
+20:16:07.881 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Rustic Plastic Shirt, Description: Rustic Plastic Shirt, Price: 18.34, Stock: 5
+20:16:07.881 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Intelligent Aluminum Gloves, Description: Intelligent Aluminum Gloves, Price: 19.29, Stock: 122
+20:16:07.881 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Rustic Linen Computer, Description: Rustic Linen Computer, Price: 76.42, Stock: 234

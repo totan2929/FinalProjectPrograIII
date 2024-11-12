@@ -1,0 +1,8 @@
+19:49:59.669 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Douglass Luettgen, email: abraham.stehr@hotmail.com, rol: Administrator, address: Suite 859 9429 Tyrone Way, Port Theomouth, HI 54668
+19:49:59.679 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Patsy Smitham, email: leslie.kuvalis@gmail.com, rol: Administrator, address: Suite 191 4717 Chong Unions, Port Rosaleechester, MN 87132-4792
+19:49:59.679 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Louann Gibson, email: rolanda.romaguera@gmail.com, rol: Manager, address: 8966 Ramon Lock, Sanfordchester, AK 46252
+19:49:59.679 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Tien Wilderman, email: toshiko.bogisich@gmail.com, rol: Salesperson, address: Apt. 689 82913 Veum Garden, East Milanhaven, TN 03398
+19:49:59.679 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Bobbye Goodwin, email: sid.pfannerstill@gmail.com, rol: Salesperson, address: 1970 Gina Forge, East Else, MD 44159-3555
+19:49:59.710 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Awesome Steel Bench, Description: Awesome Steel Bench, Price: 79.37, Stock: 255
+19:49:59.710 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Enormous Copper Wallet, Description: Enormous Copper Wallet, Price: 86.97, Stock: 126
+19:49:59.710 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Mediocre Plastic Car, Description: Mediocre Plastic Car, Price: 50.92, Stock: 149

@@ -1,33 +1,27 @@
 package org.ciaf.client;
 
+import org.ciaf.MainElectronicStore;
 import org.ciaf.user.User;
 
+
+import java.util.logging.Logger;
+
 public class Client extends User {
-    private  int pointsFidelity;
+    private static final Logger logger = Logger.getLogger(MainElectronicStore.class.getName());
 
-    public Client(String name, String password) {
-        super(name, password, rol);
-        this.pointsFidelity = 0;
+    private String cellPhone;
+
+    public Client(int id, String name,  String rol, String cellPhone) {
+        super(id, name,  rol);
+        this.cellPhone = cellPhone;
+    }
+
+    public String getCellPhone() {
+        return cellPhone;
     }
 
 
 
 
-    public int getPointsFidelity() {
-        return pointsFidelity;
-    }
-
-    public void accumulatePoints(int points){
-        this.pointsFidelity += points;
-    }
-
-    public boolean redeemPoints(int points){
-        if (this.pointsFidelity >= points){
-            this.pointsFidelity -= points;
-            return true;
-        } else{
-            System.out.println("There are not enough points to redeem.");
-            return false;
-        }
-    }
 }
+

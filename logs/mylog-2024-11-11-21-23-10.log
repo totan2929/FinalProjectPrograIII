@@ -1,0 +1,8 @@
+21:23:10.677 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Barrie Balistreri DDS, email: warren.waters@gmail.com, rol: Salesperson, address: Suite 293 5123 Kessler Squares, Rodgerborough, AL 74067-3392
+21:23:10.677 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Ms. Irene Koepp, email: stacy.rempel@yahoo.com, rol: Salesperson, address: 9432 Clarence Island, Elsieborough, CT 68284-1012
+21:23:10.677 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Ezekiel Koss, email: adrien.ohara@gmail.com, rol: Salesperson, address: Apt. 454 5737 Luettgen Drive, Port Alvaton, KY 40779-0792
+21:23:10.677 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Miss Larhonda Lynch, email: ruthann.quigley@gmail.com, rol: Manager, address: 1090 Rana Springs, Evelinbury, KS 92887-9595
+21:23:10.677 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Belia Wilkinson, email: caroyln.walker@hotmail.com, rol: Manager, address: 8310 Reginald View, Collenside, MS 57013
+21:23:10.709 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Synergistic Wooden Table, Description: Synergistic Wooden Table, Price: 51.56, Stock: 148
+21:23:10.709 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Heavy Duty Concrete Chair, Description: Heavy Duty Concrete Chair, Price: 36.25, Stock: 156
+21:23:10.709 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Synergistic Cotton Bag, Description: Synergistic Cotton Bag, Price: 70.61, Stock: 188

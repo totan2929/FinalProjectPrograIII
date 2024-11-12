@@ -1,0 +1,8 @@
+15:19:02.314 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ladonna Erdman, email: minta.barrows@hotmail.com, rol: Administrator, address: Apt. 630 48133 My Drive, North Arlena, OH 48078
+15:19:02.314 [main] INFO  org.ciaf.user.UserGenerator - User generated: Efrain Prosacco, email: mattie.ankunding@yahoo.com, rol: Administrator, address: Apt. 438 478 Andreas Junction, Port Agustinshire, NM 30193-5238
+15:19:02.314 [main] INFO  org.ciaf.user.UserGenerator - User generated: Wilbert Kuvalis, email: joane.legros@yahoo.com, rol: Manager, address: 1908 Roosevelt Common, Blandaburgh, NJ 21916
+15:19:02.335 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Emilie Konopelski, email: walton.jones@hotmail.com, rol: Salesperson, address: 877 Purdy Cliffs, Lake Allisonton, CT 14435-2606
+15:19:02.335 [main] INFO  org.ciaf.user.UserGenerator - User generated: Errol Gleichner, email: hank.schmitt@yahoo.com, rol: Salesperson, address: Suite 606 41571 Tremblay Drives, Thielberg, FL 74242-9464
+15:19:02.362 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Gorgeous Plastic Clock, Description: Gorgeous Plastic Clock, Price: 35.35, Stock: 110
+15:19:02.362 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Lightweight Linen Keyboard, Description: Lightweight Linen Keyboard, Price: 19.31, Stock: 471
+15:19:02.362 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Intelligent Aluminum Wallet, Description: Intelligent Aluminum Wallet, Price: 11.74, Stock: 185

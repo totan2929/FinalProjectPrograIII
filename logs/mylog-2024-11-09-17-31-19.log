@@ -1,0 +1,40 @@
+17:31:19.232 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jacquline Walsh, email: nestor.rohan@yahoo.com, rol: salesperson
+17:31:19.237 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Ola Ratke, email: albertine.renner@hotmail.com, rol: salesperson
+17:31:19.238 [main] INFO  org.ciaf.user.UserGenerator - User generated: Isaias Rau, email: pennie.nikolaus@yahoo.com, rol: salesperson
+17:31:19.239 [main] INFO  org.ciaf.user.UserGenerator - User generated: Eddy Romaguera, email: breann.hegmann@hotmail.com, rol: salesperson
+17:31:19.240 [main] INFO  org.ciaf.user.UserGenerator - User generated: Wiley Dare, email: joe.huel@yahoo.com, rol: salesperson
+17:31:19.249 [main] INFO  org.ciaf.user.UserGenerator - User generated: Brianne Predovic, email: kendall.dooley@hotmail.com, rol: salesperson
+17:31:19.250 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Shila Paucek, email: joann.connelly@hotmail.com, rol: salesperson
+17:31:19.252 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Macie Leannon, email: toney.mitchell@hotmail.com, rol: salesperson
+17:31:19.252 [main] INFO  org.ciaf.user.UserGenerator - User generated: Charley Wuckert, email: allan.lehner@gmail.com, rol: salesperson
+17:31:19.253 [main] INFO  org.ciaf.user.UserGenerator - User generated: Emanuel Parker, email: earnest.brekke@hotmail.com, rol: salesperson
+17:31:19.254 [main] INFO  org.ciaf.user.UserGenerator - User generated: Sherwood Reilly DDS, email: reynaldo.ebert@hotmail.com, rol: salesperson
+17:31:19.255 [main] INFO  org.ciaf.user.UserGenerator - User generated: Garth Kunde, email: rene.jenkins@gmail.com, rol: salesperson
+17:31:19.256 [main] INFO  org.ciaf.user.UserGenerator - User generated: Emilio Klocko, email: terrilyn.jacobs@yahoo.com, rol: salesperson
+17:31:19.257 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Lorenzo Schinner, email: grover.carter@gmail.com, rol: salesperson
+17:31:19.257 [main] INFO  org.ciaf.user.UserGenerator - User generated: Damian Mitchell, email: connie.kohler@hotmail.com, rol: salesperson
+17:31:19.259 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ricky Kozey, email: kala.johnston@gmail.com, rol: salesperson
+17:31:19.260 [main] INFO  org.ciaf.user.UserGenerator - User generated: Cameron Bode, email: elias.abshire@yahoo.com, rol: salesperson
+17:31:19.261 [main] INFO  org.ciaf.user.UserGenerator - User generated: Stefan Reynolds, email: delbert.wiegand@gmail.com, rol: salesperson
+17:31:19.262 [main] INFO  org.ciaf.user.UserGenerator - User generated: Vannessa Block, email: marlon.roberts@hotmail.com, rol: salesperson
+17:31:19.262 [main] INFO  org.ciaf.user.UserGenerator - User generated: Pandora Howe, email: britany.hoppe@gmail.com, rol: salesperson
+17:31:19.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Durable Iron Clock, Price:590.99
+17:31:19.275 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Aerodynamic Copper Computer, Price:492.74
+17:31:19.275 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Practical Plastic Coat, Price:788.51
+17:31:19.275 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Lightweight Steel Knife, Price:839.2
+17:31:19.275 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Incredible Leather Keyboard, Price:307.65
+17:31:19.275 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Synergistic Linen Pants, Price:826.85
+17:31:19.275 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Incredible Plastic Bag, Price:976.89
+17:31:19.276 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Aerodynamic Copper Computer, Price:852.87
+17:31:19.276 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Incredible Linen Hat, Price:343.12
+17:31:19.276 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Incredible Granite Computer, Price:182.07
+17:31:19.276 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Sleek Iron Computer, Price:159.52
+17:31:19.276 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Incredible Wool Plate, Price:894.26
+17:31:19.276 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Rustic Aluminum Watch, Price:271.64
+17:31:19.277 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Durable Aluminum Table, Price:123.32
+17:31:19.277 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Synergistic Aluminum Bench, Price:444.77
+17:31:19.277 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Durable Cotton Car, Price:571.92
+17:31:19.277 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Rustic Iron Coat, Price:431.49
+17:31:19.277 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Fantastic Bronze Table, Price:678.36
+17:31:19.278 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Heavy Duty Silk Plate, Price:927.38
+17:31:19.278 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: Fantastic Silk Clock, Price:711.07

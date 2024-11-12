@@ -1,0 +1,8 @@
+21:11:43.408 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Williams Flatley I, email: claude.wolff@hotmail.com, rol: Administrator, address: 1354 Justina River, East Harold, PA 40623-1961
+21:11:43.423 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Dr. Tiffiny Waters, email: bee.toy@hotmail.com, rol: Manager, address: Suite 949 31014 Funk Coves, Sipesstad, VT 55829-7265
+21:11:43.423 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Dr. Shenita McLaughlin, email: carlotta.wilkinson@yahoo.com, rol: Salesperson, address: Suite 314 612 Funk Spurs, New Ambrose, MI 90161-9838
+21:11:43.423 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Ralph Boehm, email: isaiah.mertz@gmail.com, rol: Salesperson, address: 253 Nienow Island, Springhaven, ID 68242-5573
+21:11:43.423 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Shirely Smitham Jr., email: benton.cummings@hotmail.com, rol: Salesperson, address: Apt. 000 59771 Witting Place, New Winfredstad, IN 64727
+21:11:43.455 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Awesome Cotton Gloves, Description: Awesome Cotton Gloves, Price: 10.89, Stock: 174
+21:11:43.455 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Heavy Duty Aluminum Coat, Description: Heavy Duty Aluminum Coat, Price: 20.42, Stock: 232
+21:11:43.455 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Mediocre Linen Shoes, Description: Mediocre Linen Shoes, Price: 72.93, Stock: 108

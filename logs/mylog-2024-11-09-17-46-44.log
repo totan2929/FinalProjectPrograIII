@@ -1,0 +1,40 @@
+17:46:44.591 [main] INFO  org.ciaf.user.UserGenerator - User generated: Korey Willms, email: sterling.windler@hotmail.com, rol: salesperson
+17:46:44.596 [main] INFO  org.ciaf.user.UserGenerator - User generated: Carita Walter, email: napoleon.considine@hotmail.com, rol: salesperson
+17:46:44.598 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Hang Nicolas, email: ernestina.hermann@gmail.com, rol: salesperson
+17:46:44.599 [main] INFO  org.ciaf.user.UserGenerator - User generated: Markus Grimes, email: jarred.emmerich@yahoo.com, rol: salesperson
+17:46:44.600 [main] INFO  org.ciaf.user.UserGenerator - User generated: Rich Marks DDS, email: hugo.gorczany@yahoo.com, rol: salesperson
+17:46:44.603 [main] INFO  org.ciaf.user.UserGenerator - User generated: Rachael Rodriguez, email: sheldon.lebsack@hotmail.com, rol: salesperson
+17:46:44.604 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mike O'Connell, email: penny.waters@gmail.com, rol: salesperson
+17:46:44.605 [main] INFO  org.ciaf.user.UserGenerator - User generated: Morton Bergnaum MD, email: tobie.beier@hotmail.com, rol: salesperson
+17:46:44.606 [main] INFO  org.ciaf.user.UserGenerator - User generated: Gabriel Skiles Jr., email: vena.lockman@yahoo.com, rol: salesperson
+17:46:44.608 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Ruben Lehner, email: dottie.aufderhar@yahoo.com, rol: salesperson
+17:46:44.609 [main] INFO  org.ciaf.user.UserGenerator - User generated: Taisha Hermiston, email: jesusa.fritsch@gmail.com, rol: salesperson
+17:46:44.610 [main] INFO  org.ciaf.user.UserGenerator - User generated: Enoch Weber, email: margaretta.crooks@hotmail.com, rol: salesperson
+17:46:44.611 [main] INFO  org.ciaf.user.UserGenerator - User generated: Kandy Waters DDS, email: gabriella.ward@hotmail.com, rol: salesperson
+17:46:44.612 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jessie Walker DDS, email: vera.koch@gmail.com, rol: salesperson
+17:46:44.614 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Lorriane Crooks, email: wayne.berge@yahoo.com, rol: salesperson
+17:46:44.616 [main] INFO  org.ciaf.user.UserGenerator - User generated: Dr. Marvin Brakus, email: levi.hilll@yahoo.com, rol: salesperson
+17:46:44.617 [main] INFO  org.ciaf.user.UserGenerator - User generated: Roy Carroll, email: cyrus.wilderman@yahoo.com, rol: salesperson
+17:46:44.618 [main] INFO  org.ciaf.user.UserGenerator - User generated: Jo McCullough, email: todd.ebert@yahoo.com, rol: salesperson
+17:46:44.618 [main] INFO  org.ciaf.user.UserGenerator - User generated: Alphonso Paucek, email: kelvin.dubuque@yahoo.com, rol: salesperson
+17:46:44.619 [main] INFO  org.ciaf.user.UserGenerator - User generated: Candice Fisher, email: eartha.dickens@yahoo.com, rol: salesperson
+17:46:44.637 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 0, Name: Aerodynamic Leather Bench, Description: Aerodynamic Leather Bench, Price: 418.5, Stock: 42
+17:46:44.637 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Aerodynamic Bronze Chair, Description: Aerodynamic Bronze Chair, Price: 392.52, Stock: 69
+17:46:44.637 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Lightweight Wooden Watch, Description: Lightweight Wooden Watch, Price: 163.44, Stock: 432
+17:46:44.638 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Synergistic Marble Bottle, Description: Synergistic Marble Bottle, Price: 961.97, Stock: 445
+17:46:44.638 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name: Gorgeous Concrete Keyboard, Description: Gorgeous Concrete Keyboard, Price: 313.18, Stock: 74
+17:46:44.639 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name: Fantastic Cotton Table, Description: Fantastic Cotton Table, Price: 60.67, Stock: 311
+17:46:44.639 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name: Practical Cotton Gloves, Description: Practical Cotton Gloves, Price: 305.2, Stock: 165
+17:46:44.639 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name: Awesome Aluminum Knife, Description: Awesome Aluminum Knife, Price: 230.57, Stock: 341
+17:46:44.639 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name: Lightweight Cotton Table, Description: Lightweight Cotton Table, Price: 166.23, Stock: 283
+17:46:44.639 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name: Awesome Copper Chair, Description: Awesome Copper Chair, Price: 504.17, Stock: 143
+17:46:44.639 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name: Lightweight Leather Knife, Description: Lightweight Leather Knife, Price: 803.18, Stock: 409
+17:46:44.640 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name: Heavy Duty Linen Hat, Description: Heavy Duty Linen Hat, Price: 438.36, Stock: 338
+17:46:44.640 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name: Lightweight Linen Bag, Description: Lightweight Linen Bag, Price: 143.87, Stock: 295
+17:46:44.640 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name: Ergonomic Concrete Bench, Description: Ergonomic Concrete Bench, Price: 976.11, Stock: 10
+17:46:44.640 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name: Synergistic Silk Bench, Description: Synergistic Silk Bench, Price: 360.04, Stock: 299
+17:46:44.640 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name: Intelligent Bronze Lamp, Description: Intelligent Bronze Lamp, Price: 885.57, Stock: 35
+17:46:44.641 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name: Small Paper Clock, Description: Small Paper Clock, Price: 639.34, Stock: 382
+17:46:44.641 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name: Intelligent Plastic Bench, Description: Intelligent Plastic Bench, Price: 513.22, Stock: 201
+17:46:44.641 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name: Aerodynamic Aluminum Car, Description: Aerodynamic Aluminum Car, Price: 212.64, Stock: 296
+17:46:44.641 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name: Heavy Duty Aluminum Hat, Description: Heavy Duty Aluminum Hat, Price: 822.96, Stock: 250

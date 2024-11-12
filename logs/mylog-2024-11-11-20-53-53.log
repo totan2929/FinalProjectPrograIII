@@ -1,0 +1,8 @@
+20:53:53.415 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Mr. Pamula Haag, email: marhta.nitzsche@yahoo.com, rol: Administrator, address: 26784 Walton Trail, Port Kendrachester, OR 93609-9944
+20:53:53.415 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Miss Merry Hickle, email: benedict.corwin@yahoo.com, rol: Administrator, address: Apt. 099 96735 Quigley Glen, New Delmafort, ID 34389
+20:53:53.415 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Lucius Greenfelder III, email: neil.bailey@yahoo.com, rol: Manager, address: 962 Hegmann Villages, Johniechester, IN 02479-3608
+20:53:53.415 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Valentine Schumm, email: gerry.steuber@yahoo.com, rol: Administrator, address: 1345 Dusti Fort, New Sammieshire, VA 37467-5905
+20:53:53.415 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Mrs. Lorene Wilderman, email: malissa.frami@yahoo.com, rol: Administrator, address: 2671 Kling Walks, North Victorhaven, FL 76876
+20:53:53.447 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Mediocre Copper Table, Description: Mediocre Copper Table, Price: 10.74, Stock: 399
+20:53:53.447 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Awesome Leather Bench, Description: Awesome Leather Bench, Price: 17.23, Stock: 97
+20:53:53.447 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Intelligent Steel Clock, Description: Intelligent Steel Clock, Price: 33.7, Stock: 476

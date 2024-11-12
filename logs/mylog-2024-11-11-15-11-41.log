@@ -1,0 +1,8 @@
+15:11:41.320 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lynwood Dickinson III, email: jetta.sporer@hotmail.com, rol: Administrator, address: Suite 359 440 Raynor Islands, Elbertmouth, AL 85837
+15:11:41.320 [main] INFO  org.ciaf.user.UserGenerator - User generated: Terresa Lind Jr., email: joi.rath@gmail.com, rol: Administrator, address: 501 Luis Courts, South Florancestad, ND 65239-7995
+15:11:41.320 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lashunda Gutkowski, email: tony.gleichner@yahoo.com, rol: Salesperson, address: 279 Vern Mills, North Deweymouth, WY 50915
+15:11:41.341 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Jacqueline Zboncak, email: kristie.von@gmail.com, rol: Administrator, address: 666 O'Kon Pines, Hahnton, VA 95006-9784
+15:11:41.341 [main] INFO  org.ciaf.user.UserGenerator - User generated: Elden Bradtke, email: ayana.schmeler@hotmail.com, rol: Manager, address: Suite 953 3614 Gerhold Drive, West Irvingmouth, IL 69469-3998
+15:11:41.367 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Ergonomic Rubber Coat, Description: Ergonomic Rubber Coat, Price: 60.93, Stock: 395
+15:11:41.367 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Synergistic Paper Shirt, Description: Synergistic Paper Shirt, Price: 13.0, Stock: 241
+15:11:41.367 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Practical Silk Shoes, Description: Practical Silk Shoes, Price: 82.73, Stock: 105

@@ -1,0 +1,8 @@
+20:56:18.351 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Columbus Langworth, email: twanna.fritsch@gmail.com, rol: Salesperson, address: 739 Rex Orchard, Port Jewell, IL 76588-2617
+20:56:18.351 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Caitlin Jacobi, email: damian.gaylord@gmail.com, rol: Administrator, address: 65796 Jonathan Mount, South Marcel, NM 94858
+20:56:18.351 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Delta Legros, email: tony.gulgowski@gmail.com, rol: Administrator, address: Apt. 608 310 Rosalva Shoals, Lake Maryroseshire, RI 86901-9150
+20:56:18.351 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Prudence Leuschke III, email: willetta.greenfelder@hotmail.com, rol: Manager, address: 3876 Wiza Walk, West Kristoferstad, MN 03908-4395
+20:56:18.351 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Daryl Torphy, email: francesco.ernser@yahoo.com, rol: Administrator, address: Apt. 343 89318 Hudson Fort, South Emmettmouth, NV 43877
+20:56:18.382 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Aerodynamic Silk Hat, Description: Aerodynamic Silk Hat, Price: 53.16, Stock: 44
+20:56:18.382 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Rustic Concrete Computer, Description: Rustic Concrete Computer, Price: 56.52, Stock: 273
+20:56:18.382 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Ergonomic Leather Clock, Description: Ergonomic Leather Clock, Price: 61.42, Stock: 193

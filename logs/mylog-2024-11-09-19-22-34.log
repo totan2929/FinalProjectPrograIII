@@ -1,0 +1,40 @@
+19:22:35.040 [main] INFO  org.ciaf.user.UserGenerator - User generated: Micheal Balistreri IV, email: constance.tremblay@yahoo.com, rol: salesperson
+19:22:35.056 [main] INFO  org.ciaf.user.UserGenerator - User generated: Elna Ferry Jr., email: bertie.hartmann@hotmail.com, rol: salesperson
+19:22:35.056 [main] INFO  org.ciaf.user.UserGenerator - User generated: Brent Wuckert, email: hassie.deckow@hotmail.com, rol: salesperson
+19:22:35.056 [main] INFO  org.ciaf.user.UserGenerator - User generated: Miss Ronny Balistreri, email: kenneth.langworth@hotmail.com, rol: salesperson
+19:22:35.056 [main] INFO  org.ciaf.user.UserGenerator - User generated: Iliana Morissette, email: alda.stanton@yahoo.com, rol: salesperson
+19:22:35.056 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ignacio Homenick, email: sal.davis@hotmail.com, rol: salesperson
+19:22:35.056 [main] INFO  org.ciaf.user.UserGenerator - User generated: Domenica Haley PhD, email: bernadine.little@gmail.com, rol: salesperson
+19:22:35.056 [main] INFO  org.ciaf.user.UserGenerator - User generated: Felicita Gutmann, email: lera.kilback@yahoo.com, rol: salesperson
+19:22:35.056 [main] INFO  org.ciaf.user.UserGenerator - User generated: Ms. Elisabeth Terry, email: ellsworth.konopelski@yahoo.com, rol: salesperson
+19:22:35.056 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mr. Adolfo Kemmer, email: jennette.bailey@hotmail.com, rol: salesperson
+19:22:35.072 [main] INFO  org.ciaf.user.UserGenerator - User generated: Willie Dietrich, email: tiesha.ward@hotmail.com, rol: salesperson
+19:22:35.072 [main] INFO  org.ciaf.user.UserGenerator - User generated: Babette Bode, email: lieselotte.bernhard@gmail.com, rol: salesperson
+19:22:35.072 [main] INFO  org.ciaf.user.UserGenerator - User generated: Mrs. Allegra Hoeger, email: kenya.rau@hotmail.com, rol: salesperson
+19:22:35.072 [main] INFO  org.ciaf.user.UserGenerator - User generated: Markita Reichel, email: asia.senger@gmail.com, rol: salesperson
+19:22:35.072 [main] INFO  org.ciaf.user.UserGenerator - User generated: Janetta Heaney, email: huey.daugherty@gmail.com, rol: salesperson
+19:22:35.072 [main] INFO  org.ciaf.user.UserGenerator - User generated: Roger Schultz, email: thora.lowe@yahoo.com, rol: salesperson
+19:22:35.072 [main] INFO  org.ciaf.user.UserGenerator - User generated: Lauryn Torphy, email: leslie.rau@gmail.com, rol: salesperson
+19:22:35.072 [main] INFO  org.ciaf.user.UserGenerator - User generated: Bernardo Dibbert, email: joane.harber@gmail.com, rol: salesperson
+19:22:35.072 [main] INFO  org.ciaf.user.UserGenerator - User generated: Noah Kreiger, email: athena.kreiger@hotmail.com, rol: salesperson
+19:22:35.072 [main] INFO  org.ciaf.user.UserGenerator - User generated: Calvin Kautzer, email: edgar.reinger@gmail.com, rol: salesperson
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Ergonomic Plastic Lamp, Description: Ergonomic Plastic Lamp, Price: 130.72, Stock: 22
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Sleek Silk Bottle, Description: Sleek Silk Bottle, Price: 769.43, Stock: 217
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Lightweight Wool Hat, Description: Lightweight Wool Hat, Price: 351.07, Stock: 103
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 4, Name: Lightweight Iron Gloves, Description: Lightweight Iron Gloves, Price: 846.15, Stock: 175
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 5, Name: Lightweight Wooden Chair, Description: Lightweight Wooden Chair, Price: 166.36, Stock: 385
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 6, Name: Fantastic Leather Knife, Description: Fantastic Leather Knife, Price: 258.52, Stock: 123
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 7, Name: Durable Granite Hat, Description: Durable Granite Hat, Price: 523.23, Stock: 230
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 8, Name: Lightweight Concrete Bench, Description: Lightweight Concrete Bench, Price: 356.4, Stock: 453
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 9, Name: Sleek Steel Watch, Description: Sleek Steel Watch, Price: 683.04, Stock: 331
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 10, Name: Ergonomic Linen Hat, Description: Ergonomic Linen Hat, Price: 839.06, Stock: 319
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 11, Name: Aerodynamic Steel Bottle, Description: Aerodynamic Steel Bottle, Price: 891.42, Stock: 11
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 12, Name: Mediocre Linen Keyboard, Description: Mediocre Linen Keyboard, Price: 560.53, Stock: 146
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 13, Name: Mediocre Leather Coat, Description: Mediocre Leather Coat, Price: 365.4, Stock: 197
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 14, Name: Aerodynamic Linen Plate, Description: Aerodynamic Linen Plate, Price: 356.85, Stock: 452
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 15, Name: Small Cotton Bench, Description: Small Cotton Bench, Price: 139.05, Stock: 320
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 16, Name: Intelligent Rubber Shirt, Description: Intelligent Rubber Shirt, Price: 138.8, Stock: 166
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 17, Name: Sleek Rubber Lamp, Description: Sleek Rubber Lamp, Price: 509.1, Stock: 465
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 18, Name: Fantastic Copper Knife, Description: Fantastic Copper Knife, Price: 381.88, Stock: 267
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 19, Name: Rustic Paper Knife, Description: Rustic Paper Knife, Price: 225.72, Stock: 78
+19:22:40.274 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 20, Name: Incredible Copper Shirt, Description: Incredible Copper Shirt, Price: 40.46, Stock: 136

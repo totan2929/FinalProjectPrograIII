@@ -1,0 +1,8 @@
+20:41:48.551 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Markus Dach, email: maude.bogisich@hotmail.com, rol: Manager, address: 593 Smith Island, West Michal, CT 13187-1931
+20:41:48.551 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Ignacia Krajcik II, email: dwight.boyer@gmail.com, rol: Administrator, address: 321 O'Hara Plains, Lake Vanetta, HI 96340-2565
+20:41:48.567 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Mr. Kallie Walter, email: korey.dickens@hotmail.com, rol: Salesperson, address: Suite 473 11546 Goldie Drive, North Laurettamouth, NM 91082-3836
+20:41:48.567 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Bradly Graham, email: todd.fritsch@yahoo.com, rol: Administrator, address: 887 Kuhlman Courts, Port Eleanormouth, PA 98203
+20:41:48.567 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Adalberto Wolf V, email: stevie.ziemann@gmail.com, rol: Manager, address: Suite 381 275 Bode Coves, Langoshland, NC 10572-1294
+20:41:48.598 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Sleek Concrete Knife, Description: Sleek Concrete Knife, Price: 57.73, Stock: 213
+20:41:48.598 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Gorgeous Rubber Plate, Description: Gorgeous Rubber Plate, Price: 43.77, Stock: 228
+20:41:48.598 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Synergistic Aluminum Keyboard, Description: Synergistic Aluminum Keyboard, Price: 28.45, Stock: 239

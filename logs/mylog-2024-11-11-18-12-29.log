@@ -1,0 +1,8 @@
+18:12:29.468 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 1Frederick Beier MD, email: erik.oconner@gmail.com, rol: Manager, address: 9007 Jeremy Mission, Wuckertfort, MI 08042-6767
+18:12:29.484 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 2Noel Wisoky, email: abigail.stracke@yahoo.com, rol: Administrator, address: 262 Hal Manor, East Yvonne, PA 40551
+18:12:29.484 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 3Ronald Schowalter MD, email: avril.harvey@hotmail.com, rol: Administrator, address: 6371 Zoila Fort, New Tashafurt, WA 11464
+18:12:29.484 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 4Harold Beatty, email: corrine.christiansen@gmail.com, rol: Manager, address: 160 Mark Alley, New Carlashire, NY 94221-9102
+18:12:29.484 [main] INFO  org.ciaf.user.UserGenerator - User generated: Id: 5Ms. Lashandra Pouros, email: branda.fay@gmail.com, rol: Administrator, address: Apt. 307 5820 Lowe Plains, North Heikeview, ME 07403
+18:12:29.515 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 1, Name: Lightweight Leather Lamp, Description: Lightweight Leather Lamp, Price: 54.96, Stock: 261
+18:12:29.515 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 2, Name: Intelligent Linen Lamp, Description: Intelligent Linen Lamp, Price: 83.48, Stock: 311
+18:12:29.515 [main] INFO  org.ciaf.product.ProductGenerator - Product generated: , ID: 3, Name: Sleek Wool Knife, Description: Sleek Wool Knife, Price: 92.12, Stock: 261
